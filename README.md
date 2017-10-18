@@ -1,0 +1,1 @@
+# pyLoad Update Manager's data storage
