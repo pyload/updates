@@ -257,6 +257,7 @@ hoster|BitshareCom.py|353c669|0.62
 hoster|BoltsharingCom.py|353c669|0.07
 hoster|CatShareNet.py|353c669|0.22
 hoster|ClicknuploadCom.py|353c669|0.06
+hoster|CloudMailRu.py|324315a|0.01
 hoster|CloudzerNet.py|353c669|0.11
 hoster|CloudzillaTo.py|353c669|0.13
 hoster|CramitIn.py|353c669|0.13
