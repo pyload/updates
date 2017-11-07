@@ -106,7 +106,7 @@ captcha|CircleCaptcha.py|353c669|1.11
 captcha|GigasizeCom.py|353c669|0.17
 captcha|LinksaveIn.py|353c669|0.19
 captcha|NetloadIn.py|353c669|0.17
-captcha|ReCaptcha.py|353c669|0.36
+captcha|ReCaptcha.py|810e800|0.37
 captcha|ShareonlineBiz.py|353c669|0.17
 captcha|SolveMedia.py|353c669|0.22
 captcha|UlozTo.py|353c669|0.04
