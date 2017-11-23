@@ -408,7 +408,7 @@ hoster|RedtubeCom.py|353c669|0.27
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
 hoster|RgHostNet.py|353c669|0.09
-hoster|RockfileEu.py|353c669|0.13
+hoster|RockfileEu.py|4fad17b|0.14
 hoster|RyushareCom.py|353c669|0.32
 hoster|SafesharingEu.py|353c669|0.11
 hoster|SecureUploadEu.py|353c669|0.11
