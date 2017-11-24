@@ -19,7 +19,7 @@ accounts|EasybytezCom.py|353c669|0.18
 accounts|EuroshareEu.py|353c669|0.12
 accounts|ExashareCom.py|353c669|0.06
 accounts|FastixRu.py|353c669|0.12
-accounts|FastshareCz.py|353c669|0.16
+accounts|FastshareCz.py|ca8cd95|0.17
 accounts|File4SafeCom.py|353c669|0.11
 accounts|FilecloudIo.py|353c669|0.13
 accounts|FilefactoryCom.py|353c669|0.23
@@ -289,7 +289,7 @@ hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
 hoster|ExtabitCom.py|353c669|0.73
 hoster|FastixRu.py|353c669|0.22
-hoster|FastshareCz.py|353c669|0.41
+hoster|FastshareCz.py|ca8cd95|0.42
 hoster|FileApeCom.py|353c669|0.17
 hoster|FileSharkPl.py|353c669|0.22
 hoster|FileStoreTo.py|353c669|0.12
