@@ -347,7 +347,7 @@ hoster|KickloadCom.py|353c669|0.26
 hoster|KingfilesNet.py|353c669|0.13
 hoster|LemUploadsCom.py|353c669|0.07
 hoster|LetitbitNet.py|353c669|0.39
-hoster|LinkifierCom.py|12767ba|0.01
+hoster|LinkifierCom.py|fb2aad2|0.02
 hoster|LinksnappyCom.py|353c669|0.18
 hoster|LoadTo.py|353c669|0.29
 hoster|LolabitsEs.py|353c669|0.07
