@@ -231,7 +231,7 @@ hooks|HotFolder.py|353c669|0.24
 hooks|IRC.py|353c669|0.25
 hooks|ImageTyperz.py|353c669|0.14
 hooks|JustPremium.py|353c669|0.27
-hooks|LinkFilter.py|31f6bd1|0.15
+hooks|LinkFilter.py|4977508|0.16
 hooks|LinkdecrypterComHook.py|353c669|1.11
 hooks|LogMarker.py|353c669|0.08
 hooks|MergeFiles.py|353c669|0.21
