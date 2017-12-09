@@ -83,7 +83,7 @@ accounts|SendmywayCom.py|353c669|0.07
 accounts|SharebeastCom.py|353c669|0.06
 accounts|ShareonlineBiz.py|353c669|0.46
 accounts|SimplyPremiumCom.py|353c669|0.14
-accounts|SimplydebridCom.py|353c669|0.19
+accounts|SimplydebridCom.py|07cc109|0.20
 accounts|SmoozedCom.py|353c669|0.13
 accounts|StreamcloudEu.py|353c669|0.07
 accounts|TenluaVn.py|353c669|0.01
