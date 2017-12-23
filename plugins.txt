@@ -385,7 +385,7 @@ hoster|NovafileCom.py|353c669|0.11
 hoster|NowDownloadSx.py|353c669|0.15
 hoster|NowVideoSx.py|353c669|0.17
 hoster|OboomCom.py|353c669|0.46
-hoster|OneFichierCom.py|f8e83dd|1.11
+hoster|OneFichierCom.py|a3668cc|1.12
 hoster|OnlineTvRecorder.py|353c669|0.03
 hoster|OpenloadIo.py|353c669|0.20
 hoster|OronCom.py|353c669|0.19
