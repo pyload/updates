@@ -222,6 +222,7 @@ hooks|ClickNLoad.py|353c669|0.61
 hooks|CloudFlareDdos.py|353c669|0.11
 hooks|DeathByCaptcha.py|353c669|0.15
 hooks|DeleteFinished.py|353c669|1.19
+hooks|DiscordNotifier.py|d070dff|0.1
 hooks|DownloadScheduler.py|353c669|0.30
 hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|353c669|0.11
