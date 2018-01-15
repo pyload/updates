@@ -219,7 +219,7 @@ hooks|Captcha9Kw.py|353c669|0.38
 hooks|CaptchaBrotherhood.py|353c669|0.15
 hooks|Checksum.py|353c669|0.34
 hooks|ClickNLoad.py|353c669|0.61
-hooks|CloudFlareDdos.py|51f3c1f|0.12
+hooks|CloudFlareDdos.py|7d8df54|0.13
 hooks|DeathByCaptcha.py|353c669|0.15
 hooks|DeleteFinished.py|353c669|1.19
 hooks|DiscordNotifier.py|d070dff|0.1
