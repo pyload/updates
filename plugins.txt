@@ -505,7 +505,7 @@ internal|Crypter.py|353c669|0.20
 internal|DeadCrypter.py|353c669|0.14
 internal|DeadHoster.py|353c669|0.24
 internal|Extractor.py|353c669|0.48
-internal|Hoster.py|947acff|0.70
+internal|Hoster.py|963e039|0.71
 internal|MultiAccount.py|df6d7c2|0.22
 internal|MultiCrypter.py|353c669|0.10
 internal|MultiHoster.py|353c669|0.67
