@@ -32,7 +32,7 @@ accounts|FilesMailRu.py|353c669|0.18
 accounts|FileserveCom.py|353c669|0.27
 accounts|FourSharedCom.py|353c669|0.13
 accounts|FreakshareCom.py|353c669|0.21
-accounts|FshareVn.py|3303672|0.21
+accounts|FshareVn.py|ae48ed2|0.22
 accounts|Ftp.py|353c669|0.07
 accounts|HellshareCz.py|353c669|0.26
 accounts|HighWayMe.py|353c669|0.10
@@ -150,7 +150,7 @@ crypter|FiredriveComFolder.py|353c669|0.09
 crypter|FourChanOrg.py|353c669|0.38
 crypter|FreakhareComFolder.py|353c669|0.09
 crypter|FreetexthostCom.py|353c669|0.06
-crypter|FshareVnFolder.py|353c669|0.09
+crypter|FshareVnFolder.py|ae48ed2|0.10
 crypter|FurLy.py|353c669|0.06
 crypter|Go4UpCom.py|353c669|0.19
 crypter|GooGl.py|353c669|0.08
@@ -321,7 +321,7 @@ hoster|FourSharedCom.py|353c669|0.37
 hoster|FreakshareCom.py|353c669|0.49
 hoster|FreeWayMe.py|353c669|0.25
 hoster|FreevideoCz.py|353c669|0.35
-hoster|FshareVn.py|353c669|0.31
+hoster|FshareVn.py|ae48ed2|0.32
 hoster|Ftp.py|353c669|0.61
 hoster|GamefrontCom.py|353c669|0.13
 hoster|GigapetaCom.py|353c669|0.09
