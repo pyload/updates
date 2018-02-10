@@ -156,6 +156,7 @@ crypter|Go4UpCom.py|353c669|0.19
 crypter|GooGl.py|353c669|0.08
 crypter|GoogledriveComDereferer.py|353c669|0.01
 crypter|GoogledriveComFolder.py|353c669|0.12
+crypter|HearthisAtFolder.py|021228b|0.01
 crypter|HflixIn.py|353c669|0.12
 crypter|HoerbuchIn.py|353c669|0.67
 crypter|HotfileComFolder.py|353c669|0.36
@@ -327,7 +328,7 @@ hoster|GamefrontCom.py|353c669|0.13
 hoster|GigapetaCom.py|353c669|0.09
 hoster|GooIm.py|353c669|0.09
 hoster|GoogledriveCom.py|353c669|0.27
-hoster|HearthisAt.py|353c669|0.02
+hoster|HearthisAt.py|021228b|0.03
 hoster|HellshareCz.py|353c669|0.91
 hoster|HellspyCz.py|353c669|0.33
 hoster|HighWayMe.py|353c669|0.23
