@@ -466,7 +466,7 @@ hoster|UploadingCom.py|353c669|0.51
 hoster|UploadkingCom.py|353c669|0.19
 hoster|UploadrocketNet.py|353c669|0.02
 hoster|UpstoreNet.py|353c669|0.13
-hoster|UptoboxCom.py|353c669|0.31
+hoster|UptoboxCom.py|231631c|0.32
 hoster|UserscloudCom.py|353c669|0.09
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|353c669|0.28
