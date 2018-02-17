@@ -139,7 +139,7 @@ crypter|EasybytezComFolder.py|353c669|0.17
 crypter|EmbeduploadCom.py|353c669|0.08
 crypter|FilebeerInfoFolder.py|353c669|0.08
 crypter|FilecloudIoFolder.py|353c669|0.09
-crypter|FilecryptCc.py|5323a46|0.35
+crypter|FilecryptCc.py|90dbcb1|0.36
 crypter|FilefactoryComFolder.py|353c669|0.38
 crypter|FilerNetFolder.py|353c669|0.48
 crypter|FileserveComFolder.py|353c669|0.18
