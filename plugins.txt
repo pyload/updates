@@ -482,7 +482,7 @@ hoster|X7To.py|353c669|0.46
 hoster|XDCC.py|6f0eac4|0.48
 hoster|XFileSharing.py|353c669|0.65
 hoster|XHamsterCom.py|353c669|0.19
-hoster|XVideosCom.py|353c669|0.16
+hoster|XVideosCom.py|24782b8|0.17
 hoster|XdadevelopersCom.py|353c669|0.08
 hoster|YadiSk.py|353c669|0.11
 hoster|YesPornPleaseCom.py|353c669|0.02
