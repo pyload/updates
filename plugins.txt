@@ -404,7 +404,7 @@ hoster|PrzeklejPl.py|353c669|0.16
 hoster|PutdriveCom.py|353c669|0.07
 hoster|QuickshareCz.py|353c669|0.64
 hoster|RPNetBiz.py|353c669|0.22
-hoster|RapideoPl.py|353c669|0.12
+hoster|RapideoPl.py|55a7144|0.13
 hoster|RapidfileshareNet.py|353c669|0.09
 hoster|RapidgatorNet.py|7c6fd73|0.51
 hoster|RapiduNet.py|353c669|0.15
