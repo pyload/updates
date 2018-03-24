@@ -435,7 +435,7 @@ hoster|SmoozedCom.py|353c669|0.15
 hoster|SmuleCom.py|353c669|0.04
 hoster|SockshareCom.py|353c669|0.11
 hoster|SolidfilesCom.py|353c669|0.08
-hoster|SoundcloudCom.py|353c669|0.17
+hoster|SoundcloudCom.py|b80e14f|0.18
 hoster|SpeedLoadOrg.py|353c669|1.07
 hoster|SpeedfileCz.py|353c669|0.37
 hoster|SpeedyshareCom.py|353c669|0.11
