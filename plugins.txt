@@ -293,7 +293,7 @@ hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
 hoster|ExtabitCom.py|353c669|0.73
 hoster|FastixRu.py|353c669|0.22
-hoster|FastshareCz.py|ca8cd95|0.42
+hoster|FastshareCz.py|9c2e5f0|0.43
 hoster|FileApeCom.py|353c669|0.17
 hoster|FileSharkPl.py|353c669|0.22
 hoster|FileStoreTo.py|353c669|0.12
