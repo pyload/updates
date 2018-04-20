@@ -379,7 +379,7 @@ hoster|NahrajCz.py|353c669|0.26
 hoster|NarodRu.py|353c669|0.17
 hoster|NetloadIn.py|353c669|0.55
 hoster|NitrobitNet.py|353c669|0.02
-hoster|NitroflareCom.py|b518432|0.26
+hoster|NitroflareCom.py|5f5d059|0.27
 hoster|NoPremiumPl.py|353c669|0.13
 hoster|NofileIo.py|353c669|0.01
 hoster|NosuploadCom.py|353c669|0.38
