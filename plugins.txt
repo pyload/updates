@@ -357,7 +357,7 @@ hoster|LoadTo.py|353c669|0.29
 hoster|LolabitsEs.py|353c669|0.07
 hoster|LomafileCom.py|353c669|0.57
 hoster|LuckyShareNet.py|353c669|0.14
-hoster|MediafireCom.py|353c669|0.97
+hoster|MediafireCom.py|f0c6df4|0.98
 hoster|MegaCoNz.py|a14772d|0.52
 hoster|MegaDebridEu.py|353c669|0.58
 hoster|MegaFilesSe.py|353c669|0.07
