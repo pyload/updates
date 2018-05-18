@@ -111,7 +111,7 @@ captcha|NetloadIn.py|353c669|0.17
 captcha|ReCaptcha.py|810e800|0.37
 captcha|ShareonlineBiz.py|353c669|0.17
 captcha|SolveMedia.py|353c669|0.22
-captcha|UlozTo.py|353c669|0.04
+captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|353c669|0.29
 container|DLC.py|353c669|0.32
 container|RSDF.py|353c669|0.37
