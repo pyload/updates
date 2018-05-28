@@ -268,7 +268,7 @@ hoster|CramitIn.py|353c669|0.13
 hoster|CrockoCom.py|353c669|0.27
 hoster|CyberlockerCh.py|353c669|0.07
 hoster|CzshareCom.py|353c669|1.11
-hoster|DailymotionCom.py|353c669|0.28
+hoster|DailymotionCom.py|8f89f28|0.29
 hoster|DailyuploadsNet.py|353c669|0.01
 hoster|DataHu.py|353c669|0.08
 hoster|DatafileCom.py|353c669|0.05
