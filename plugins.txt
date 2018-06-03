@@ -495,7 +495,7 @@ hoster|ZShareNet.py|353c669|0.26
 hoster|ZahikiNet.py|353c669|0.07
 hoster|ZbigzCom.py|353c669|0.03
 hoster|ZeveraCom.py|353c669|0.38
-hoster|ZippyshareCom.py|2ce2672|0.96
+hoster|ZippyshareCom.py|5b84abc|0.97
 internal|Account.py|9e1bba3|0.84
 internal|Addon.py|353c669|0.55
 internal|Base.py|353c669|0.33
