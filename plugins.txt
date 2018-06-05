@@ -425,7 +425,7 @@ hoster|Share76Com.py|353c669|0.09
 hoster|ShareFilesCo.py|353c669|0.07
 hoster|SharebeesCom.py|353c669|0.07
 hoster|ShareonlineBiz.py|353c669|0.66
-hoster|ShareplaceCom.py|353c669|0.18
+hoster|ShareplaceCom.py|d6a3c6f|0.19
 hoster|SharingmatrixCom.py|353c669|0.06
 hoster|ShragleCom.py|353c669|0.27
 hoster|SimplyPremiumCom.py|353c669|0.17
