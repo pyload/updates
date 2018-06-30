@@ -316,6 +316,7 @@ hoster|FilesonicCom.py|353c669|0.41
 hoster|FileuploadNet.py|353c669|0.07
 hoster|FilezyNet.py|353c669|0.25
 hoster|FiredriveCom.py|353c669|0.11
+hoster|FiregetCom.py|3bec6f9|0.01
 hoster|FistfastNet.py|353c669|0.01
 hoster|FlyFilesNet.py|353c669|0.15
 hoster|FourSharedCom.py|353c669|0.37
