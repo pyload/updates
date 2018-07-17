@@ -410,7 +410,7 @@ hoster|RapidfileshareNet.py|353c669|0.09
 hoster|RapidgatorNet.py|3e38243|0.52
 hoster|RapiduNet.py|353c669|0.15
 hoster|RarefileNet.py|353c669|0.15
-hoster|RealdebridCom.py|e72e080|0.77
+hoster|RealdebridCom.py|4cdb601|0.78
 hoster|RedtubeCom.py|353c669|0.27
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
