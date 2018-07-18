@@ -105,6 +105,7 @@ accounts|ZeveraCom.py|353c669|0.36
 captcha|AdYouLike.py|353c669|0.11
 captcha|AdsCaptcha.py|353c669|0.14
 captcha|CircleCaptcha.py|353c669|1.11
+captcha|CoinHive.py|13defae|0.01
 captcha|GigasizeCom.py|353c669|0.17
 captcha|LinksaveIn.py|353c669|0.19
 captcha|NetloadIn.py|353c669|0.17
