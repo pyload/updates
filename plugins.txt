@@ -133,7 +133,7 @@ crypter|DdlstorageComFolder.py|353c669|0.09
 crypter|DepositfilesComFolder.py|353c669|0.07
 crypter|Dereferer.py|353c669|0.26
 crypter|DevhostStFolder.py|353c669|0.12
-crypter|DlProtectCom.py|353c669|0.11
+crypter|DlProtectCom.py|0006bff|0.12
 crypter|DuckCryptInfo.py|353c669|0.08
 crypter|DuploadOrgFolder.py|353c669|0.08
 crypter|EasybytezComFolder.py|353c669|0.17
