@@ -116,6 +116,7 @@ captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|353c669|0.29
 container|DLC.py|353c669|0.32
 container|RSDF.py|353c669|0.37
+container|TORRENT.py|687ac8e|0.01
 container|TXT.py|353c669|0.21
 crypter|BigfileToFolder.py|353c669|0.11
 crypter|BitshareComFolder.py|353c669|0.11
@@ -413,6 +414,7 @@ hoster|RapidgatorNet.py|3e38243|0.52
 hoster|RapiduNet.py|353c669|0.15
 hoster|RarefileNet.py|353c669|0.15
 hoster|RealdebridCom.py|4cdb601|0.78
+hoster|RealdebridComTorrent.py|687ac8e|0.01
 hoster|RedtubeCom.py|353c669|0.27
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
@@ -504,7 +506,7 @@ internal|Addon.py|353c669|0.55
 internal|Base.py|353c669|0.33
 internal|Captcha.py|353c669|0.55
 internal|CaptchaService.py|353c669|0.36
-internal|Container.py|353c669|0.13
+internal|Container.py|687ac8e|0.14
 internal|Crypter.py|353c669|0.20
 internal|DeadCrypter.py|353c669|0.14
 internal|DeadHoster.py|353c669|0.24
@@ -515,7 +517,7 @@ internal|MultiCrypter.py|353c669|0.10
 internal|MultiHoster.py|353c669|0.67
 internal|Notifier.py|353c669|0.11
 internal|OCR.py|353c669|0.26
-internal|Plugin.py|353c669|0.73
+internal|Plugin.py|687ac8e|0.74
 internal|SevenZip.py|353c669|0.27
 internal|SimpleCrypter.py|353c669|0.93
 internal|SimpleHoster.py|353c669|2.27
