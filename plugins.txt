@@ -455,7 +455,7 @@ hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|353c669|0.01
 hoster|UgouploadNet.py|353c669|0.04
-hoster|UlozTo.py|5dbba9b|1.41
+hoster|UlozTo.py|03f3361|1.42
 hoster|UloziskoSk.py|353c669|0.31
 hoster|UnibytesCom.py|353c669|0.21
 hoster|UnrestrictLi.py|353c669|0.28
