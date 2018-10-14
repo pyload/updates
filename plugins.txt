@@ -358,7 +358,7 @@ hoster|LetitbitNet.py|353c669|0.39
 hoster|LinkifierCom.py|fb2aad2|0.02
 hoster|LinksnappyCom.py|353c669|0.18
 hoster|LoadTo.py|353c669|0.29
-hoster|LolabitsEs.py|353c669|0.07
+hoster|LolabitsEs.py|09322fc|0.08
 hoster|LomafileCom.py|353c669|0.57
 hoster|LuckyShareNet.py|353c669|0.14
 hoster|MediafireCom.py|f0c6df4|0.98
