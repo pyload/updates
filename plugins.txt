@@ -183,7 +183,7 @@ crypter|Movie2KTo.py|353c669|0.56
 crypter|MultiUpOrg.py|353c669|0.12
 crypter|MultiloadCz.py|353c669|0.46
 crypter|MultiuploadCom.py|353c669|0.07
-crypter|NCryptIn.py|353c669|1.43
+crypter|NCryptIn.py|0ce0589|1.44
 crypter|NetfolderIn.py|353c669|0.78
 crypter|NitroflareComFolder.py|353c669|0.08
 crypter|NosvideoCom.py|353c669|0.08
