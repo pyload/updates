@@ -247,7 +247,7 @@ hooks|RestartFailed.py|353c669|1.65
 hooks|SkipRev.py|353c669|0.38
 hooks|TransmissionRPC.py|353c669|0.19
 hooks|UnSkipOnFail.py|353c669|0.14
-hooks|UpdateManager.py|353c669|1.20
+hooks|UpdateManager.py|7a80308|1.21
 hooks|UserAgentSwitcher.py|353c669|0.16
 hooks|WindowsPhoneNotify.py|353c669|0.18
 hooks|XFileSharing.py|353c669|0.56
