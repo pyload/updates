@@ -448,6 +448,7 @@ hoster|StahnuTo.py|353c669|0.16
 hoster|StorageTo.py|353c669|0.06
 hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
+hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TenluaVn.py|353c669|0.03
 hoster|TurbobitNet.py|353c669|0.31
 hoster|TurbouploadCom.py|353c669|0.08
