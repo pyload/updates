@@ -90,7 +90,7 @@ accounts|TenluaVn.py|353c669|0.01
 accounts|TurbobitNet.py|353c669|0.11
 accounts|TusfilesNet.py|353c669|0.11
 accounts|TwojlimitPl.py|353c669|0.01
-accounts|UlozTo.py|353c669|0.28
+accounts|UlozTo.py|d4bdda3|0.29
 accounts|UpleaCom.py|353c669|0.02
 accounts|UploadcCom.py|353c669|0.07
 accounts|UploadedTo.py|353c669|0.46
