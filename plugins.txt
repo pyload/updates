@@ -87,7 +87,7 @@ accounts|SimplydebridCom.py|07cc109|0.20
 accounts|SmoozedCom.py|353c669|0.13
 accounts|StreamcloudEu.py|353c669|0.07
 accounts|TenluaVn.py|353c669|0.01
-accounts|TurbobitNet.py|353c669|0.11
+accounts|TurbobitNet.py|6c7ae43|0.12
 accounts|TusfilesNet.py|353c669|0.11
 accounts|TwojlimitPl.py|353c669|0.01
 accounts|UlozTo.py|d4bdda3|0.29
@@ -450,7 +450,7 @@ hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
 hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TenluaVn.py|353c669|0.03
-hoster|TurbobitNet.py|353c669|0.31
+hoster|TurbobitNet.py|6c7ae43|0.32
 hoster|TurbouploadCom.py|353c669|0.08
 hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
