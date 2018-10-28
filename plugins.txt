@@ -101,7 +101,7 @@ accounts|VidPlayNet.py|353c669|0.07
 accounts|WebshareCz.py|353c669|0.16
 accounts|WorldbytezCom.py|353c669|0.06
 accounts|YibaishiwuCom.py|353c669|0.09
-accounts|ZeveraCom.py|353c669|0.36
+accounts|ZeveraCom.py|af37c78|0.37
 captcha|AdYouLike.py|353c669|0.11
 captcha|AdsCaptcha.py|353c669|0.14
 captcha|CircleCaptcha.py|353c669|1.11
@@ -500,7 +500,7 @@ hoster|ZDF.py|353c669|0.89
 hoster|ZShareNet.py|353c669|0.26
 hoster|ZahikiNet.py|353c669|0.07
 hoster|ZbigzCom.py|353c669|0.03
-hoster|ZeveraCom.py|353c669|0.38
+hoster|ZeveraCom.py|af37c78|0.39
 hoster|ZippyshareCom.py|0876b38|0.98
 internal|Account.py|9e1bba3|0.84
 internal|Addon.py|353c669|0.55
