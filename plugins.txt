@@ -410,7 +410,7 @@ hoster|QuickshareCz.py|353c669|0.64
 hoster|RPNetBiz.py|353c669|0.22
 hoster|RapideoPl.py|55a7144|0.13
 hoster|RapidfileshareNet.py|353c669|0.09
-hoster|RapidgatorNet.py|3285bf9|0.53
+hoster|RapidgatorNet.py|bc7458a|0.54
 hoster|RapiduNet.py|353c669|0.15
 hoster|RarefileNet.py|353c669|0.15
 hoster|RealdebridCom.py|4cdb601|0.78
