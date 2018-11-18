@@ -287,7 +287,7 @@ hoster|DlFreeFr.py|353c669|0.39
 hoster|DodanePl.py|353c669|0.08
 hoster|DropboxCom.py|353c669|0.11
 hoster|DuploadOrg.py|353c669|0.07
-hoster|EasybytezCom.py|353c669|0.29
+hoster|EasybytezCom.py|3478980|0.30
 hoster|EdiskCz.py|353c669|0.28
 hoster|EgoFilesCom.py|353c669|0.21
 hoster|EnteruploadCom.py|353c669|0.07
