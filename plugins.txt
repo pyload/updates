@@ -180,7 +180,7 @@ crypter|MegadyskPlFolder.py|353c669|0.03
 crypter|MegauploadComFolder.py|353c669|0.08
 crypter|MirrorcreatorCom.py|353c669|0.03
 crypter|Movie2KTo.py|353c669|0.56
-crypter|MultiUpOrg.py|d806432|0.13
+crypter|MultiUpOrg.py|eac71e1|0.14
 crypter|MultiloadCz.py|353c669|0.46
 crypter|MultiuploadCom.py|353c669|0.07
 crypter|NCryptIn.py|0ce0589|1.44
