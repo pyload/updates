@@ -305,7 +305,7 @@ hoster|FileboomMe.py|0806a02|0.08
 hoster|FilecloudIo.py|353c669|0.16
 hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
-hoster|FilejokerNet.py|1834937|0.05
+hoster|FilejokerNet.py|67ab933|0.06
 hoster|FilejungleCom.py|353c669|0.57
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepostCom.py|353c669|0.41
