@@ -527,7 +527,7 @@ internal|UnTar.py|353c669|0.04
 internal|UnZip.py|6128d50|1.25
 internal|XFSAccount.py|353c669|0.59
 internal|XFSCrypter.py|353c669|0.26
-internal|XFSHoster.py|bb64879|0.81
+internal|XFSHoster.py|623406e|0.82
 internal|misc.py|5e73885|0.52
 BLACKLIST
 accounts|BayfilesCom.py
