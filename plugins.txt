@@ -520,8 +520,8 @@ internal|Notifier.py|353c669|0.11
 internal|OCR.py|353c669|0.26
 internal|Plugin.py|687ac8e|0.74
 internal|SevenZip.py|353c669|0.27
-internal|SimpleCrypter.py|353c669|0.93
-internal|SimpleHoster.py|353c669|2.27
+internal|SimpleCrypter.py|cdb73c7|0.94
+internal|SimpleHoster.py|cdb73c7|2.28
 internal|UnRar.py|353c669|1.38
 internal|UnTar.py|353c669|0.04
 internal|UnZip.py|6128d50|1.25
