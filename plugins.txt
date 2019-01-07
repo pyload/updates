@@ -464,7 +464,7 @@ hoster|UpfileVn.py|353c669|0.01
 hoster|UpleaCom.py|353c669|0.21
 hoster|UploadStationCom.py|353c669|0.57
 hoster|UploadboxCom.py|353c669|0.11
-hoster|UploadedTo.py|353c669|1.07
+hoster|UploadedTo.py|b4e0328|1.08
 hoster|UploadgigCom.py|11baa62|0.06
 hoster|UploadhereCom.py|353c669|0.17
 hoster|UploadheroCom.py|353c669|0.23
