@@ -239,7 +239,7 @@ hooks|JustPremium.py|353c669|0.27
 hooks|LinkFilter.py|4977508|0.16
 hooks|LinkdecrypterComHook.py|353c669|1.11
 hooks|LogMarker.py|353c669|0.08
-hooks|MergeFiles.py|4d10b57|0.23
+hooks|MergeFiles.py|9edb6e6|0.24
 hooks|MultiHome.py|353c669|0.21
 hooks|PushBullet.py|353c669|0.05
 hooks|PushOver.py|353c669|0.07
