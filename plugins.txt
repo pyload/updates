@@ -439,7 +439,7 @@ hoster|SizedriveCom.py|353c669|0.07
 hoster|SmoozedCom.py|353c669|0.15
 hoster|SmuleCom.py|353c669|0.04
 hoster|SockshareCom.py|353c669|0.11
-hoster|SolidfilesCom.py|353c669|0.08
+hoster|SolidfilesCom.py|f98b5be|0.09
 hoster|SoundcloudCom.py|b80e14f|0.18
 hoster|SpeedLoadOrg.py|353c669|1.07
 hoster|SpeedfileCz.py|353c669|0.37
