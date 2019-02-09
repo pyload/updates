@@ -348,7 +348,7 @@ hoster|IfolderRu.py|353c669|0.44
 hoster|IronfilesNet.py|f2e728e|0.02
 hoster|JumbofilesCom.py|353c669|0.08
 hoster|JunocloudMe.py|353c669|0.11
-hoster|KatfileCom.py|353c669|0.01
+hoster|KatfileCom.py|ef0bc17|0.02
 hoster|Keep2ShareCc.py|353c669|0.43
 hoster|KickloadCom.py|353c669|0.26
 hoster|KingfilesNet.py|353c669|0.13
