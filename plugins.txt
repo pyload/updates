@@ -251,7 +251,7 @@ hooks|UpdateManager.py|7a80308|1.21
 hooks|UserAgentSwitcher.py|353c669|0.16
 hooks|WindowsPhoneNotify.py|353c669|0.18
 hooks|XFileSharing.py|353c669|0.56
-hooks|XMPP.py|353c669|0.18
+hooks|XMPP.py|9f8d0c4|0.19
 hoster|AlldebridCom.py|353c669|0.58
 hoster|AndroidfilehostCom.py|05a5d37|0.07
 hoster|BasePlugin.py|353c669|0.52
