@@ -513,7 +513,7 @@ internal|DeadCrypter.py|353c669|0.14
 internal|DeadHoster.py|353c669|0.24
 internal|Extractor.py|353c669|0.48
 internal|HjSplit.py|4860edf|0.01
-internal|Hoster.py|ecc82ff|0.74
+internal|Hoster.py|f9eeae9|0.75
 internal|MultiAccount.py|df6d7c2|0.22
 internal|MultiCrypter.py|353c669|0.10
 internal|MultiHoster.py|353c669|0.67
