@@ -331,7 +331,7 @@ hoster|Ftp.py|353c669|0.61
 hoster|GamefrontCom.py|353c669|0.13
 hoster|GigapetaCom.py|353c669|0.09
 hoster|GooIm.py|353c669|0.09
-hoster|GoogledriveCom.py|353c669|0.27
+hoster|GoogledriveCom.py|8684991|0.28
 hoster|HearthisAt.py|021228b|0.03
 hoster|HellshareCz.py|353c669|0.91
 hoster|HellspyCz.py|353c669|0.33
