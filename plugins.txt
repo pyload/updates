@@ -1,7 +1,7 @@
 0.4.9
 https://raw.githubusercontent.com/pyload/pyload/%(changeset)s/module/plugins/%(type)s/%(name)s
 type|name|changeset|version
-accounts|AlldebridCom.py|353c669|0.41
+accounts|AlldebridCom.py|e2a7948|0.42
 accounts|AniStreamCom.py|353c669|0.05
 accounts|BackinNet.py|353c669|0.06
 accounts|BigfileTo.py|353c669|0.11
@@ -252,7 +252,7 @@ hooks|UserAgentSwitcher.py|353c669|0.16
 hooks|WindowsPhoneNotify.py|353c669|0.18
 hooks|XFileSharing.py|353c669|0.56
 hooks|XMPP.py|417e60c|0.22
-hoster|AlldebridCom.py|353c669|0.58
+hoster|AlldebridCom.py|e2a7948|0.59
 hoster|AndroidfilehostCom.py|05a5d37|0.07
 hoster|BasePlugin.py|353c669|0.52
 hoster|BasketbuildCom.py|353c669|0.08
