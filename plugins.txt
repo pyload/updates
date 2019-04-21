@@ -75,7 +75,7 @@ accounts|RapidfileshareNet.py|353c669|0.11
 accounts|RapidgatorNet.py|353c669|0.24
 accounts|RapiduNet.py|353c669|0.12
 accounts|RarefileNet.py|353c669|0.09
-accounts|RealdebridCom.py|7dd92cf|0.59
+accounts|RealdebridCom.py|899964c|0.60
 accounts|RehostTo.py|353c669|0.25
 accounts|SafesharingEu.py|353c669|0.07
 accounts|SecureUploadEu.py|353c669|0.07
@@ -413,8 +413,8 @@ hoster|RapidfileshareNet.py|353c669|0.09
 hoster|RapidgatorNet.py|bc7458a|0.54
 hoster|RapiduNet.py|353c669|0.15
 hoster|RarefileNet.py|353c669|0.15
-hoster|RealdebridCom.py|4cdb601|0.78
-hoster|RealdebridComTorrent.py|9fa1e66|0.03
+hoster|RealdebridCom.py|899964c|0.79
+hoster|RealdebridComTorrent.py|899964c|0.04
 hoster|RedtubeCom.py|353c669|0.27
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
