@@ -281,7 +281,7 @@ hoster|DatoidCz.py|353c669|0.02
 hoster|DdlstorageCom.py|353c669|1.07
 hoster|DebridItaliaCom.py|353c669|0.25
 hoster|DebridlinkFr.py|353c669|0.06
-hoster|DepositfilesCom.py|353c669|0.63
+hoster|DepositfilesCom.py|71cc892|0.64
 hoster|DevhostSt.py|353c669|0.11
 hoster|DlFreeFr.py|353c669|0.39
 hoster|DodanePl.py|353c669|0.08
