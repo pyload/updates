@@ -46,7 +46,7 @@ accounts|Keep2ShareCc.py|353c669|0.15
 accounts|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 accounts|LinkifierCom.py|12767ba|0.01
 accounts|LinksnappyCom.py|353c669|0.17
-accounts|MegaCoNz.py|353c669|0.06
+accounts|MegaCoNz.py|c999a8a|0.07
 accounts|MegaDebridEu.py|91f94f1|0.37
 accounts|MegaRapidCz.py|353c669|0.42
 accounts|MegaRapidoNet.py|353c669|0.10
@@ -362,7 +362,7 @@ hoster|LolabitsEs.py|09322fc|0.08
 hoster|LomafileCom.py|353c669|0.57
 hoster|LuckyShareNet.py|353c669|0.14
 hoster|MediafireCom.py|f0c6df4|0.98
-hoster|MegaCoNz.py|a14772d|0.52
+hoster|MegaCoNz.py|c999a8a|0.53
 hoster|MegaDebridEu.py|e471367|0.59
 hoster|MegaFilesSe.py|353c669|0.07
 hoster|MegaRapidCz.py|353c669|0.64
