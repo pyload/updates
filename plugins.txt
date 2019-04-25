@@ -414,7 +414,7 @@ hoster|RapidgatorNet.py|bc7458a|0.54
 hoster|RapiduNet.py|353c669|0.15
 hoster|RarefileNet.py|353c669|0.15
 hoster|RealdebridCom.py|899964c|0.79
-hoster|RealdebridComTorrent.py|899964c|0.04
+hoster|RealdebridComTorrent.py|7ce013f|0.05
 hoster|RedtubeCom.py|353c669|0.27
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
