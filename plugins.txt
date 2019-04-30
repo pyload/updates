@@ -23,7 +23,7 @@ accounts|FastshareCz.py|ca8cd95|0.17
 accounts|File4SafeCom.py|353c669|0.11
 accounts|FilecloudIo.py|353c669|0.13
 accounts|FilefactoryCom.py|353c669|0.23
-accounts|FilejokerNet.py|353c669|0.02
+accounts|FilejokerNet.py|00974c8|0.03
 accounts|FilejungleCom.py|353c669|0.19
 accounts|FileomCom.py|353c669|0.07
 accounts|FilerNet.py|353c669|0.13
