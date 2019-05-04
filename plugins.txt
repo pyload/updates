@@ -370,6 +370,7 @@ hoster|MegacrypterCom.py|353c669|0.28
 hoster|MegadyskPl.py|353c669|0.04
 hoster|MegareleaseOrg.py|353c669|0.07
 hoster|MegasharesCom.py|353c669|0.37
+hoster|MegaupNet.py|4f70d09|0.01
 hoster|MegauploadCom.py|353c669|0.36
 hoster|MegavideoCom.py|353c669|0.26
 hoster|MovReelCom.py|353c669|1.31
