@@ -52,6 +52,7 @@ crypter|YoutubeBatch.py
 hooks|AlldebridCom.py
 hooks|AlldebridComHook.py
 hooks|Captcha9kw.py
+hooks|CaptchaBrotherhood.py
 hooks|CaptchaTrader.py
 hooks|ClickAndLoad.py
 hooks|DebridItaliaCom.py

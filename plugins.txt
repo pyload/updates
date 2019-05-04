@@ -109,7 +109,7 @@ captcha|CoinHive.py|13defae|0.01
 captcha|GigasizeCom.py|353c669|0.17
 captcha|LinksaveIn.py|353c669|0.19
 captcha|NetloadIn.py|353c669|0.17
-captcha|ReCaptcha.py|e84a8e5|0.39
+captcha|ReCaptcha.py|9f38cd6|0.40
 captcha|ShareonlineBiz.py|353c669|0.17
 captcha|SolveMedia.py|353c669|0.22
 captcha|UlozTo.py|e21a338|0.05
@@ -220,7 +220,6 @@ hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|353c669|0.21
 hooks|BypassCaptcha.py|5e73885|0.14
 hooks|Captcha9Kw.py|5e73885|0.39
-hooks|CaptchaBrotherhood.py|5e73885|0.16
 hooks|Checksum.py|353c669|0.34
 hooks|ClickNLoad.py|353c669|0.61
 hooks|CloudFlareDdos.py|da844c8|0.16
@@ -585,6 +584,7 @@ crypter|YoutubeBatch.py
 hooks|AlldebridCom.py
 hooks|AlldebridComHook.py
 hooks|Captcha9kw.py
+hooks|CaptchaBrotherhood.py
 hooks|CaptchaTrader.py
 hooks|ClickAndLoad.py
 hooks|DebridItaliaCom.py
