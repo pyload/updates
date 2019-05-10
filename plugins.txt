@@ -65,6 +65,7 @@ accounts|OboomCom.py|ede5ce2|0.33
 accounts|OneFichierCom.py|353c669|0.24
 accounts|OpenloadCo.py|353c669|0.03
 accounts|OverLoadMe.py|353c669|0.13
+accounts|PorntrexCom.py|271d709|0.01
 accounts|PremiumTo.py|353c669|0.19
 accounts|PremiumizeMe.py|3679226|0.31
 accounts|PutdriveCom.py|353c669|0.07
@@ -400,6 +401,7 @@ hoster|PandaplaNet.py|353c669|0.08
 hoster|PornhostCom.py|353c669|0.26
 hoster|PornhubCom.py|353c669|0.60
 hoster|PornovkaCz.py|353c669|0.02
+hoster|PorntrexCom.py|271d709|0.01
 hoster|PotloadCom.py|353c669|0.07
 hoster|PremiumTo.py|353c669|0.33
 hoster|PremiumizeMe.py|3679226|0.32
