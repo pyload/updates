@@ -110,7 +110,7 @@ captcha|CoinHive.py|13defae|0.01
 captcha|GigasizeCom.py|353c669|0.17
 captcha|LinksaveIn.py|353c669|0.19
 captcha|NetloadIn.py|353c669|0.17
-captcha|ReCaptcha.py|1f122f2|0.41
+captcha|ReCaptcha.py|3022fb1|0.42
 captcha|ShareonlineBiz.py|353c669|0.17
 captcha|SolveMedia.py|353c669|0.22
 captcha|UlozTo.py|e21a338|0.05
