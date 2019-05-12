@@ -42,7 +42,7 @@ accounts|HundredEightyUploadCom.py|353c669|0.08
 accounts|IronfilesNet.py|353c669|0.01
 accounts|JunkyvideoCom.py|353c669|0.06
 accounts|JunocloudMe.py|353c669|0.07
-accounts|Keep2ShareCc.py|353c669|0.15
+accounts|Keep2ShareCc.py|ab5a16c|0.16
 accounts|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 accounts|LinkifierCom.py|12767ba|0.01
 accounts|LinksnappyCom.py|353c669|0.17
