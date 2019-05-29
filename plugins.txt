@@ -97,7 +97,7 @@ accounts|UploadcCom.py|353c669|0.07
 accounts|UploadedTo.py|353c669|0.46
 accounts|UploadgigCom.py|353c669|0.03
 accounts|UploadheroCom.py|353c669|0.29
-accounts|UptoboxCom.py|3318e31|0.23
+accounts|UptoboxCom.py|27a5723|0.24
 accounts|VidPlayNet.py|353c669|0.07
 accounts|WebshareCz.py|353c669|0.16
 accounts|WorldbytezCom.py|353c669|0.06
