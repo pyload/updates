@@ -356,7 +356,6 @@ hoster|KingfilesNet.py|353c669|0.13
 hoster|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 hoster|LemUploadsCom.py|353c669|0.07
 hoster|LetitbitNet.py|353c669|0.39
-hoster|Libgen.py|e3c9678|0.5
 hoster|LibgenIo.py|14c9334|0.6
 hoster|LinkifierCom.py|fb2aad2|0.02
 hoster|LinksnappyCom.py|353c669|0.18
@@ -659,6 +658,7 @@ hoster|File4safeCom.py
 hoster|FileParadoxIn.py
 hoster|Keep2shareCC.py
 hoster|Keep2shareCc.py
+hoster|Libgen.py
 hoster|MegaDebrid.py
 hoster|MegaNz.py
 hoster|MultiDebridCom.py

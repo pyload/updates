@@ -121,6 +121,7 @@ hoster|File4safeCom.py
 hoster|FileParadoxIn.py
 hoster|Keep2shareCC.py
 hoster|Keep2shareCc.py
+hoster|Libgen.py
 hoster|MegaDebrid.py
 hoster|MegaNz.py
 hoster|MultiDebridCom.py
