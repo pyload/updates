@@ -357,7 +357,7 @@ hoster|KingfilesNet.py|353c669|0.13
 hoster|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 hoster|LemUploadsCom.py|353c669|0.07
 hoster|LetitbitNet.py|353c669|0.39
-hoster|LibgenIo.py|14c9334|0.6
+hoster|LibgenIo.py|c3111f2|0.7
 hoster|LinkifierCom.py|fb2aad2|0.02
 hoster|LinksnappyCom.py|353c669|0.18
 hoster|LoadTo.py|353c669|0.29
