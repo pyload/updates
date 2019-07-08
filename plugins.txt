@@ -83,7 +83,7 @@ accounts|SafesharingEu.py|353c669|0.07
 accounts|SecureUploadEu.py|353c669|0.07
 accounts|SendmywayCom.py|353c669|0.07
 accounts|SharebeastCom.py|353c669|0.06
-accounts|ShareonlineBiz.py|81f5328|0.47
+accounts|ShareonlineBiz.py|a380e81|0.48
 accounts|SimplyPremiumCom.py|353c669|0.14
 accounts|SimplydebridCom.py|07cc109|0.20
 accounts|SmoozedCom.py|353c669|0.13
@@ -434,7 +434,7 @@ hoster|Share4WebCom.py|353c669|0.17
 hoster|Share76Com.py|353c669|0.09
 hoster|ShareFilesCo.py|353c669|0.07
 hoster|SharebeesCom.py|353c669|0.07
-hoster|ShareonlineBiz.py|ee55347|0.71
+hoster|ShareonlineBiz.py|a380e81|0.72
 hoster|ShareplaceCom.py|d6a3c6f|0.19
 hoster|SharingmatrixCom.py|353c669|0.06
 hoster|ShragleCom.py|353c669|0.27
