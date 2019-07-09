@@ -18,6 +18,7 @@ accounts|DepositfilesCom.py|353c669|0.39
 accounts|EasybytezCom.py|353c669|0.18
 accounts|EuroshareEu.py|353c669|0.12
 accounts|ExashareCom.py|353c669|0.06
+accounts|ExtmatrixCom.py|542f5ce|0.01
 accounts|FastixRu.py|353c669|0.12
 accounts|FastshareCz.py|ca8cd95|0.17
 accounts|File4SafeCom.py|353c669|0.11
@@ -297,6 +298,7 @@ hoster|EpicShareNet.py|353c669|0.07
 hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
 hoster|ExtabitCom.py|353c669|0.73
+hoster|ExtmatrixCom.py|542f5ce|0.01
 hoster|FastixRu.py|353c669|0.22
 hoster|FastshareCz.py|969b4a1|0.44
 hoster|FileApeCom.py|353c669|0.17
