@@ -298,7 +298,7 @@ hoster|EpicShareNet.py|353c669|0.07
 hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
 hoster|ExtabitCom.py|353c669|0.73
-hoster|ExtmatrixCom.py|542f5ce|0.01
+hoster|ExtmatrixCom.py|2a37603|0.02
 hoster|FastixRu.py|353c669|0.22
 hoster|FastshareCz.py|969b4a1|0.44
 hoster|FileApeCom.py|353c669|0.17
