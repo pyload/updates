@@ -132,6 +132,7 @@ hoster|PandaPlanet.py
 hoster|Premium4Me.py
 hoster|PutlockerCom.py
 hoster|RapidshareCom.py
+hoster|RealdebridComTorrent.py
 hoster|ReloadCc.py
 hoster|SendmywayCom.py
 hoster|Share4webCom.py
