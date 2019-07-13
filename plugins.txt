@@ -34,7 +34,7 @@ accounts|FilesMailRu.py|353c669|0.18
 accounts|FileserveCom.py|353c669|0.27
 accounts|FourSharedCom.py|353c669|0.13
 accounts|FreakshareCom.py|353c669|0.21
-accounts|FshareVn.py|ae48ed2|0.22
+accounts|FshareVn.py|53b691c|0.23
 accounts|Ftp.py|353c669|0.07
 accounts|HellshareCz.py|353c669|0.26
 accounts|HighWayMe.py|353c669|0.10
