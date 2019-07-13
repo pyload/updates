@@ -527,10 +527,10 @@ internal|MultiHoster.py|353c669|0.67
 internal|Notifier.py|353c669|0.11
 internal|OCR.py|353c669|0.26
 internal|Plugin.py|687ac8e|0.74
-internal|SevenZip.py|51b752a|0.30
+internal|SevenZip.py|757cde1|0.31
 internal|SimpleCrypter.py|1865a14|0.96
 internal|SimpleHoster.py|1865a14|2.30
-internal|UnRar.py|c6b5517|1.42
+internal|UnRar.py|757cde1|1.43
 internal|UnTar.py|4860edf|0.05
 internal|UnZip.py|4860edf|1.26
 internal|XFSAccount.py|1212a68|0.60
