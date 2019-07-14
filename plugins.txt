@@ -536,7 +536,7 @@ internal|UnZip.py|4860edf|1.26
 internal|XFSAccount.py|1212a68|0.60
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|1212a68|0.83
-internal|misc.py|0885b7c|0.56
+internal|misc.py|4c3cd5f|0.57
 BLACKLIST
 accounts|BayfilesCom.py
 accounts|BillionuploadsCom.py
