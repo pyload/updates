@@ -306,7 +306,7 @@ hoster|FileApeCom.py|353c669|0.17
 hoster|FileSharkPl.py|353c669|0.22
 hoster|FileStoreTo.py|353c669|0.12
 hoster|FilebeerInfo.py|353c669|0.08
-hoster|FileboomMe.py|e212a2e|0.10
+hoster|FileboomMe.py|7ef5c84|0.11
 hoster|FilecloudIo.py|353c669|0.16
 hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
@@ -354,14 +354,14 @@ hoster|IronfilesNet.py|f2e728e|0.02
 hoster|JumbofilesCom.py|353c669|0.08
 hoster|JunocloudMe.py|353c669|0.11
 hoster|KatfileCom.py|ef0bc17|0.02
-hoster|Keep2ShareCc.py|2992af6|0.44
+hoster|Keep2ShareCc.py|7ef5c84|0.45
 hoster|KickloadCom.py|353c669|0.26
 hoster|KingfilesNet.py|353c669|0.13
 hoster|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 hoster|LemUploadsCom.py|353c669|0.07
 hoster|LetitbitNet.py|353c669|0.39
-hoster|LibgenIo.py|c3111f2|0.7
-hoster|LinkifierCom.py|fb2aad2|0.02
+hoster|LibgenIo.py|7ef5c84|0.71
+hoster|LinkifierCom.py|7ef5c84|0.03
 hoster|LinksnappyCom.py|353c669|0.18
 hoster|LoadTo.py|353c669|0.29
 hoster|LolabitsEs.py|09322fc|0.08
@@ -377,7 +377,7 @@ hoster|MegacrypterCom.py|353c669|0.28
 hoster|MegadyskPl.py|353c669|0.04
 hoster|MegareleaseOrg.py|353c669|0.07
 hoster|MegasharesCom.py|353c669|0.37
-hoster|MegaupNet.py|4f70d09|0.01
+hoster|MegaupNet.py|7ef5c84|0.02
 hoster|MegauploadCom.py|353c669|0.36
 hoster|MegavideoCom.py|353c669|0.26
 hoster|MovReelCom.py|353c669|1.31
@@ -410,13 +410,13 @@ hoster|PornovkaCz.py|353c669|0.02
 hoster|PorntrexCom.py|271d709|0.01
 hoster|PotloadCom.py|353c669|0.07
 hoster|PremiumTo.py|353c669|0.33
-hoster|PremiumizeMe.py|3679226|0.32
+hoster|PremiumizeMe.py|7ef5c84|0.33
 hoster|PromptfileCom.py|353c669|0.19
 hoster|PrzeklejPl.py|353c669|0.16
 hoster|PutdriveCom.py|353c669|0.07
 hoster|QuickshareCz.py|353c669|0.64
 hoster|RPNetBiz.py|353c669|0.22
-hoster|RapideoPl.py|55a7144|0.13
+hoster|RapideoPl.py|7ef5c84|0.14
 hoster|RapidfileshareNet.py|353c669|0.09
 hoster|RapidgatorNet.py|bc7458a|0.54
 hoster|RapiduNet.py|353c669|0.15
@@ -461,7 +461,7 @@ hoster|TurbobitNet.py|3203cad|0.33
 hoster|TurbouploadCom.py|353c669|0.08
 hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
-hoster|TwojlimitPl.py|353c669|0.01
+hoster|TwojlimitPl.py|7ef5c84|0.02
 hoster|UgouploadNet.py|353c669|0.04
 hoster|UlozTo.py|03f3361|1.42
 hoster|UloziskoSk.py|353c669|0.31
@@ -484,7 +484,7 @@ hoster|UserscloudCom.py|353c669|0.09
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|353c669|0.28
 hoster|VidPlayNet.py|353c669|0.11
-hoster|VimeoCom.py|353c669|0.12
+hoster|VimeoCom.py|7ef5c84|0.13
 hoster|Vipleech4UCom.py|353c669|0.25
 hoster|VkCom.py|353c669|0.06
 hoster|WarserverCz.py|353c669|0.18
@@ -511,7 +511,7 @@ hoster|ZeveraCom.py|af37c78|0.39
 hoster|ZippyshareCom.py|0876b38|0.98
 internal|Account.py|9e1bba3|0.84
 internal|Addon.py|353c669|0.55
-internal|Base.py|112c4bf|0.34
+internal|Base.py|7ef5c84|0.35
 internal|Captcha.py|5e73885|0.56
 internal|CaptchaService.py|353c669|0.36
 internal|Container.py|687ac8e|0.14
@@ -520,7 +520,7 @@ internal|DeadCrypter.py|353c669|0.14
 internal|DeadHoster.py|353c669|0.24
 internal|Extractor.py|353c669|0.48
 internal|HjSplit.py|4860edf|0.01
-internal|Hoster.py|f9eeae9|0.75
+internal|Hoster.py|7ef5c84|0.76
 internal|MultiAccount.py|df6d7c2|0.22
 internal|MultiCrypter.py|353c669|0.10
 internal|MultiHoster.py|353c669|0.67
