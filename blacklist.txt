@@ -20,6 +20,7 @@ accounts|Premium4Me.py
 accounts|RapidshareCom.py
 accounts|ReloadCc.py
 accounts|RyushareCom.py
+accounts|ShareonlineBiz.py
 accounts|ShareRapidCom.py
 accounts|StahnuTo.py
 accounts|UnrestrictLi.py
@@ -30,6 +31,7 @@ accounts|WarserverCz.py
 accounts|XFileSharingPro.py
 captcha|captcha.py
 captcha|OCR.py
+captcha|ShareonlineBiz.py
 container|DLC_25.py
 container|DLC_26.py
 container|DLC_27.py
