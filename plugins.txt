@@ -47,7 +47,7 @@ accounts|JunocloudMe.py|353c669|0.07
 accounts|Keep2ShareCc.py|ab5a16c|0.16
 accounts|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 accounts|LinkifierCom.py|12767ba|0.01
-accounts|LinksnappyCom.py|d61f2cb|0.18
+accounts|LinksnappyCom.py|38e7a50|0.19
 accounts|MegaCoNz.py|c999a8a|0.07
 accounts|MegaDebridEu.py|91f94f1|0.37
 accounts|MegaRapidCz.py|353c669|0.42
