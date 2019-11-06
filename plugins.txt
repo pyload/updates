@@ -360,6 +360,7 @@ hoster|KingfilesNet.py|353c669|0.13
 hoster|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 hoster|LemUploadsCom.py|353c669|0.07
 hoster|LetitbitNet.py|353c669|0.39
+hoster|LetsuploadCc.py|5188be2|0.01
 hoster|LibgenIo.py|7ef5c84|0.71
 hoster|LinkifierCom.py|7ef5c84|0.03
 hoster|LinksnappyCom.py|353c669|0.18
