@@ -534,9 +534,9 @@ internal|SimpleHoster.py|1865a14|2.30
 internal|UnRar.py|757cde1|1.43
 internal|UnTar.py|4860edf|0.05
 internal|UnZip.py|4860edf|1.26
-internal|XFSAccount.py|64e3ca6|0.61
+internal|XFSAccount.py|fa2103d|0.62
 internal|XFSCrypter.py|353c669|0.26
-internal|XFSHoster.py|64e3ca6|0.84
+internal|XFSHoster.py|fa2103d|0.85
 internal|misc.py|4c3cd5f|0.57
 BLACKLIST
 accounts|BayfilesCom.py
