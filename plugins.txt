@@ -421,7 +421,7 @@ hoster|RPNetBiz.py|353c669|0.22
 hoster|RapideoPl.py|7ef5c84|0.14
 hoster|RapidfileshareNet.py|353c669|0.09
 hoster|RapidgatorNet.py|bc7458a|0.54
-hoster|RapiduNet.py|353c669|0.15
+hoster|RapiduNet.py|6d82a07|0.16
 hoster|RarefileNet.py|353c669|0.15
 hoster|RealdebridCom.py|899964c|0.79
 hoster|RedtubeCom.py|353c669|0.27
