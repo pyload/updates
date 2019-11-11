@@ -459,7 +459,7 @@ hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
 hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TenluaVn.py|353c669|0.03
-hoster|TurbobitNet.py|a93e89c|0.34
+hoster|TurbobitNet.py|523420f|0.35
 hoster|TurbouploadCom.py|353c669|0.08
 hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
