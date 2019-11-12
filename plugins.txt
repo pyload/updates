@@ -523,7 +523,7 @@ internal|DeadHoster.py|353c669|0.24
 internal|Extractor.py|353c669|0.48
 internal|HjSplit.py|4860edf|0.01
 internal|Hoster.py|7ef5c84|0.76
-internal|MultiAccount.py|df6d7c2|0.22
+internal|MultiAccount.py|6437137|0.23
 internal|MultiCrypter.py|353c669|0.10
 internal|MultiHoster.py|353c669|0.67
 internal|Notifier.py|353c669|0.11
