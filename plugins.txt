@@ -70,7 +70,7 @@ accounts|OpenloadCo.py|353c669|0.03
 accounts|OverLoadMe.py|353c669|0.13
 accounts|PorntrexCom.py|271d709|0.01
 accounts|PremiumTo.py|42b50df|0.20
-accounts|PremiumizeMe.py|3679226|0.31
+accounts|PremiumizeMe.py|7637a71|0.32
 accounts|PutdriveCom.py|353c669|0.07
 accounts|QuickshareCz.py|353c669|0.11
 accounts|RPNetBiz.py|353c669|0.22
