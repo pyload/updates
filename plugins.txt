@@ -217,7 +217,7 @@ crypter|WiiReloadedOrg.py|353c669|0.16
 crypter|WuploadComFolder.py|353c669|0.07
 crypter|XFileSharingFolder.py|353c669|0.25
 crypter|XupPl.py|353c669|0.16
-crypter|YoutubeComFolder.py|353c669|1.09
+crypter|YoutubeComFolder.py|3e28da2|1.10
 hooks|AndroidPhoneNotify.py|353c669|0.16
 hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|353c669|0.21
