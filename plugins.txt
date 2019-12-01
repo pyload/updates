@@ -221,6 +221,7 @@ crypter|YoutubeComFolder.py|3e28da2|1.10
 hooks|AndroidPhoneNotify.py|353c669|0.16
 hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|353c669|0.21
+hooks|AppriseNotify.py|9be673d|0.01
 hooks|BypassCaptcha.py|5e73885|0.14
 hooks|Captcha9Kw.py|5e73885|0.39
 hooks|Checksum.py|353c669|0.34
