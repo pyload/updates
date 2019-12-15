@@ -311,7 +311,7 @@ hoster|FileboomMe.py|7ef5c84|0.11
 hoster|FilecloudIo.py|353c669|0.16
 hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
-hoster|FilejokerNet.py|2175db2|0.08
+hoster|FilejokerNet.py|de179c4|0.09
 hoster|FilejungleCom.py|353c669|0.57
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepostCom.py|353c669|0.41
@@ -539,7 +539,7 @@ internal|UnZip.py|4860edf|1.26
 internal|XFSAccount.py|fa2103d|0.62
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|fa2103d|0.85
-internal|misc.py|4c3cd5f|0.57
+internal|misc.py|de179c4|0.58
 BLACKLIST
 accounts|BayfilesCom.py
 accounts|BillionuploadsCom.py
