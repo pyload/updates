@@ -1,7 +1,7 @@
 0.4.9
 https://raw.githubusercontent.com/pyload/pyload/%(changeset)s/module/plugins/%(type)s/%(name)s
 type|name|changeset|version
-accounts|AlldebridCom.py|e2a7948|0.42
+accounts|AlldebridCom.py|fa74914|0.43
 accounts|AniStreamCom.py|353c669|0.05
 accounts|BackinNet.py|353c669|0.06
 accounts|BigfileTo.py|353c669|0.11
