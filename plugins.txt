@@ -38,7 +38,7 @@ accounts|FreakshareCom.py|353c669|0.21
 accounts|FshareVn.py|53b691c|0.23
 accounts|Ftp.py|353c669|0.07
 accounts|HellshareCz.py|353c669|0.26
-accounts|HighWayMe.py|353c669|0.10
+accounts|HighWayMe.py|993468e|0.11
 accounts|Http.py|353c669|0.07
 accounts|HugefilesNet.py|353c669|0.07
 accounts|HundredEightyUploadCom.py|353c669|0.08
@@ -342,7 +342,7 @@ hoster|GoogledriveCom.py|1f58422|0.31
 hoster|HearthisAt.py|021228b|0.03
 hoster|HellshareCz.py|353c669|0.91
 hoster|HellspyCz.py|353c669|0.33
-hoster|HighWayMe.py|ba55ba7|0.24
+hoster|HighWayMe.py|993468e|0.25
 hoster|HostujeNet.py|353c669|0.06
 hoster|HotfileCom.py|353c669|0.42
 hoster|Http.py|353c669|0.10
