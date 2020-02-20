@@ -1,4 +1,4 @@
-0.4.9
+0.4.20
 https://raw.githubusercontent.com/pyload/pyload/%(changeset)s/module/plugins/%(type)s/%(name)s
 type|name|changeset|version
 accounts|AlldebridCom.py|fa74914|0.43
