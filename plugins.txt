@@ -525,7 +525,7 @@ internal|DeadCrypter.py|353c669|0.14
 internal|DeadHoster.py|353c669|0.24
 internal|Extractor.py|1f29cd1|0.49
 internal|HjSplit.py|1f29cd1|0.02
-internal|Hoster.py|1f29cd1|0.77
+internal|Hoster.py|ae9e855|0.78
 internal|MultiAccount.py|6437137|0.23
 internal|MultiCrypter.py|353c669|0.10
 internal|MultiHoster.py|353c669|0.67
