@@ -126,7 +126,7 @@ crypter|C1NeonCom.py|353c669|0.11
 crypter|ChipDe.py|353c669|0.16
 crypter|CloudMailRuFolder.py|1f29cd1|0.02
 crypter|CloudzillaToFolder.py|353c669|0.11
-crypter|CriptTo.py|654d9c4|0.02
+crypter|CriptTo.py|8d9f7cd|0.03
 crypter|CrockoComFolder.py|353c669|0.07
 crypter|CryptCat.py|353c669|0.04
 crypter|CryptItCom.py|353c669|0.16
