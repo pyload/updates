@@ -528,7 +528,7 @@ internal|HjSplit.py|1f29cd1|0.02
 internal|Hoster.py|ae9e855|0.78
 internal|MultiAccount.py|6437137|0.23
 internal|MultiCrypter.py|353c669|0.10
-internal|MultiHoster.py|353c669|0.67
+internal|MultiHoster.py|18baa15|0.68
 internal|Notifier.py|1f29cd1|0.12
 internal|OCR.py|1f29cd1|0.27
 internal|Plugin.py|1f29cd1|0.75
