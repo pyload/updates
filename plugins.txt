@@ -252,7 +252,7 @@ hooks|SkipRev.py|353c669|0.38
 hooks|TransmissionRPC.py|353c669|0.19
 hooks|UnSkipOnFail.py|353c669|0.14
 hooks|UpdateManager.py|7a80308|1.21
-hooks|UserAgentSwitcher.py|1f29cd1|0.17
+hooks|UserAgentSwitcher.py|49f61c1|0.18
 hooks|WindowsPhoneNotify.py|353c669|0.18
 hooks|XFileSharing.py|353c669|0.56
 hooks|XMPP.py|417e60c|0.22
