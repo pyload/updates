@@ -256,6 +256,7 @@ hooks|UserAgentSwitcher.py|49f61c1|0.18
 hooks|WindowsPhoneNotify.py|353c669|0.18
 hooks|XFileSharing.py|353c669|0.56
 hooks|XMPP.py|417e60c|0.22
+hoster|AlfafileNet.py|33b8c7b|0.01
 hoster|AlldebridCom.py|e2a7948|0.59
 hoster|AndroidfilehostCom.py|05a5d37|0.07
 hoster|AnonfileCom.py|06a562d|0.01
@@ -541,7 +542,7 @@ internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|fa2103d|0.62
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|fa2103d|0.85
-internal|misc.py|d89da18|0.59
+internal|misc.py|33b8c7b|0.60
 BLACKLIST
 accounts|BayfilesCom.py
 accounts|BillionuploadsCom.py
