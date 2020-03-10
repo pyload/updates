@@ -37,6 +37,7 @@ accounts|FourSharedCom.py|353c669|0.13
 accounts|FreakshareCom.py|353c669|0.21
 accounts|FshareVn.py|53b691c|0.23
 accounts|Ftp.py|353c669|0.07
+accounts|GetTwentyFourOrg|173738f|0.01
 accounts|HellshareCz.py|353c669|0.26
 accounts|HighWayMe.py|1f29cd1|0.12
 accounts|Http.py|353c669|0.07
@@ -337,6 +338,7 @@ hoster|FreevideoCz.py|353c669|0.35
 hoster|FshareVn.py|ae48ed2|0.32
 hoster|Ftp.py|353c669|0.61
 hoster|GamefrontCom.py|353c669|0.13
+hoster|GetTwentyFourOrg|173738f|0.01
 hoster|GigapetaCom.py|353c669|0.09
 hoster|GooIm.py|353c669|0.09
 hoster|GoogledriveCom.py|1f58422|0.31
