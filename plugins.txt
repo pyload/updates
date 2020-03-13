@@ -305,7 +305,7 @@ hoster|ExashareCom.py|353c669|0.08
 hoster|ExtabitCom.py|353c669|0.73
 hoster|ExtmatrixCom.py|2a37603|0.02
 hoster|FastixRu.py|353c669|0.22
-hoster|FastshareCz.py|969b4a1|0.44
+hoster|FastshareCz.py|492307b|0.45
 hoster|FileApeCom.py|353c669|0.17
 hoster|FileSharkPl.py|353c669|0.22
 hoster|FileStoreTo.py|353c669|0.12
