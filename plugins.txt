@@ -417,7 +417,7 @@ hoster|PornhubCom.py|353c669|0.60
 hoster|PornovkaCz.py|353c669|0.02
 hoster|PorntrexCom.py|271d709|0.01
 hoster|PotloadCom.py|353c669|0.07
-hoster|PremiumTo.py|1f29cd1|0.35
+hoster|PremiumTo.py|578fb2e|0.36
 hoster|PremiumizeMe.py|7ef5c84|0.33
 hoster|PromptfileCom.py|353c669|0.19
 hoster|PrzeklejPl.py|353c669|0.16
