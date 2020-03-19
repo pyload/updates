@@ -471,7 +471,7 @@ hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
 hoster|UgouploadNet.py|353c669|0.04
-hoster|UlozTo.py|4db4b28|1.44
+hoster|UlozTo.py|df90e60|1.45
 hoster|UloziskoSk.py|353c669|0.31
 hoster|UnibytesCom.py|353c669|0.21
 hoster|UnrestrictLi.py|353c669|0.28
