@@ -429,7 +429,7 @@ hoster|RapidfileshareNet.py|353c669|0.09
 hoster|RapidgatorNet.py|bc7458a|0.54
 hoster|RapiduNet.py|6d82a07|0.16
 hoster|RarefileNet.py|353c669|0.15
-hoster|RealdebridCom.py|899964c|0.79
+hoster|RealdebridCom.py|18a1569|0.80
 hoster|RedtubeCom.py|353c669|0.27
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
@@ -531,7 +531,7 @@ internal|HjSplit.py|1f29cd1|0.02
 internal|Hoster.py|ae9e855|0.78
 internal|MultiAccount.py|6437137|0.23
 internal|MultiCrypter.py|b0a1bdd|0.11
-internal|MultiHoster.py|b0a1bdd|0.69
+internal|MultiHoster.py|18a1569|0.70
 internal|Notifier.py|1f29cd1|0.12
 internal|OCR.py|b0a1bdd|0.28
 internal|Plugin.py|b0a1bdd|0.76
