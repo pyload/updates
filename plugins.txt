@@ -94,7 +94,7 @@ accounts|TenluaVn.py|353c669|0.01
 accounts|TurbobitNet.py|6c7ae43|0.12
 accounts|TusfilesNet.py|353c669|0.11
 accounts|TwojlimitPl.py|353c669|0.01
-accounts|UlozTo.py|0e11e71|0.34
+accounts|UlozTo.py|3530638|0.35
 accounts|UpleaCom.py|353c669|0.02
 accounts|UploadcCom.py|353c669|0.07
 accounts|UploadedTo.py|353c669|0.46
@@ -471,7 +471,7 @@ hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
 hoster|UgouploadNet.py|353c669|0.04
-hoster|UlozTo.py|df90e60|1.45
+hoster|UlozTo.py|3530638|1.46
 hoster|UloziskoSk.py|353c669|0.31
 hoster|UnibytesCom.py|353c669|0.21
 hoster|UnrestrictLi.py|353c669|0.28
