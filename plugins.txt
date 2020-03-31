@@ -80,7 +80,7 @@ accounts|RapidfileshareNet.py|353c669|0.11
 accounts|RapidgatorNet.py|1f29cd1|0.25
 accounts|RapiduNet.py|353c669|0.12
 accounts|RarefileNet.py|353c669|0.09
-accounts|RealdebridCom.py|899964c|0.60
+accounts|RealdebridCom.py|ca8983b|0.61
 accounts|RehostTo.py|353c669|0.25
 accounts|SafesharingEu.py|353c669|0.07
 accounts|SecureUploadEu.py|353c669|0.07
@@ -196,7 +196,7 @@ crypter|PastebinCom.py|353c669|0.09
 crypter|PastedCo.py|353c669|0.06
 crypter|QuickshareCzFolder.py|353c669|0.17
 crypter|RSLayerCom.py|353c669|0.26
-crypter|RealdebridComTorrent.py|1f29cd1|0.09
+crypter|RealdebridComTorrent.py|ca8983b|0.10
 crypter|RelinkUs.py|353c669|3.22
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SecuredIn.py|353c669|0.26
@@ -429,7 +429,7 @@ hoster|RapidfileshareNet.py|353c669|0.09
 hoster|RapidgatorNet.py|bc7458a|0.54
 hoster|RapiduNet.py|6d82a07|0.16
 hoster|RarefileNet.py|353c669|0.15
-hoster|RealdebridCom.py|18a1569|0.80
+hoster|RealdebridCom.py|ca8983b|0.81
 hoster|RedtubeCom.py|353c669|0.27
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
