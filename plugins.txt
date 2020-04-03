@@ -510,7 +510,7 @@ hoster|YesPornPleaseCom.py|353c669|0.02
 hoster|YibaishiwuCom.py|353c669|0.19
 hoster|YoupornCom.py|353c669|0.26
 hoster|YourfilesTo.py|353c669|0.28
-hoster|YoutubeCom.py|6bff74d|0.77
+hoster|YoutubeCom.py|534cb9a|0.78
 hoster|ZDF.py|1f29cd1|0.90
 hoster|ZShareNet.py|353c669|0.26
 hoster|ZahikiNet.py|353c669|0.07
