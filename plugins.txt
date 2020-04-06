@@ -178,7 +178,7 @@ crypter|LixIn.py|353c669|0.28
 crypter|LofCc.py|353c669|0.26
 crypter|MBLinkInfo.py|353c669|0.08
 crypter|MediafireComFolder.py|353c669|0.25
-crypter|MegaCoNzFolder.py|353c669|0.21
+crypter|MegaCoNzFolder.py|470dc51|0.22
 crypter|MegaRapidCzFolder.py|353c669|0.08
 crypter|MegadyskPlFolder.py|353c669|0.03
 crypter|MegauploadComFolder.py|353c669|0.08
@@ -376,7 +376,7 @@ hoster|LolabitsEs.py|09322fc|0.08
 hoster|LomafileCom.py|353c669|0.57
 hoster|LuckyShareNet.py|353c669|0.14
 hoster|MediafireCom.py|f0c6df4|0.98
-hoster|MegaCoNz.py|1f29cd1|0.54
+hoster|MegaCoNz.py|470dc51|0.55
 hoster|MegaDebridEu.py|1f29cd1|0.60
 hoster|MegaFilesSe.py|353c669|0.07
 hoster|MegaRapidCz.py|353c669|0.64
