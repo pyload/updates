@@ -500,7 +500,7 @@ hoster|WebshareCz.py|353c669|0.25
 hoster|WrzucTo.py|353c669|0.09
 hoster|WuploadCom.py|353c669|0.28
 hoster|X7To.py|353c669|0.46
-hoster|XDCC.py|576a7f4|0.50
+hoster|XDCC.py|11917bd|0.51
 hoster|XFileSharing.py|b0a1bdd|0.66
 hoster|XHamsterCom.py|353c669|0.19
 hoster|XVideosCom.py|24782b8|0.17
