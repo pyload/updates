@@ -285,7 +285,7 @@ hoster|DatafileCom.py|353c669|0.05
 hoster|DataportCz.py|353c669|0.47
 hoster|DateiTo.py|353c669|0.14
 hoster|DatoidCz.py|353c669|0.02
-hoster|DdlTo.py|e233ec7|0.04
+hoster|DdlTo.py|68d727c|0.05
 hoster|DdlstorageCom.py|353c669|1.07
 hoster|DebridItaliaCom.py|48b0504|0.26
 hoster|DebridlinkFr.py|353c669|0.06
