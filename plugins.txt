@@ -119,7 +119,7 @@ captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
 container|DLC.py|1f29cd1|0.33
 container|RSDF.py|1f29cd1|0.38
-container|TORRENT.py|1f29cd1|0.02
+container|TORRENT.py|3a39acf|0.03
 container|TXT.py|1f29cd1|0.22
 crypter|AlldebridComTorrent.py|dd3d610|0.01
 crypter|BigfileToFolder.py|353c669|0.11
