@@ -12,7 +12,7 @@ accounts|CloudzillaTo.py|353c669|0.09
 accounts|CramitIn.py|353c669|0.08
 accounts|CzshareCom.py|353c669|0.28
 accounts|DatoidCz.py|353c669|0.39
-accounts|DdlTo.py|acbfb65|0.01
+accounts|DdlTo.py|e2e1aff|0.02
 accounts|DebridItaliaCom.py|353c669|0.22
 accounts|DebridlinkFr.py|353c669|0.03
 accounts|DepositfilesCom.py|353c669|0.39
@@ -286,7 +286,7 @@ hoster|DatafileCom.py|353c669|0.05
 hoster|DataportCz.py|353c669|0.47
 hoster|DateiTo.py|353c669|0.14
 hoster|DatoidCz.py|353c669|0.02
-hoster|DdlTo.py|68d727c|0.05
+hoster|DdlTo.py|e2e1aff|0.06
 hoster|DdlstorageCom.py|353c669|1.07
 hoster|DebridItaliaCom.py|48b0504|0.26
 hoster|DebridlinkFr.py|353c669|0.06
