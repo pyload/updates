@@ -239,7 +239,7 @@ hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|1f29cd1|0.14
 hooks|ExternalScripts.py|1f29cd1|0.74
 hooks|ExtractArchive.py|1f29cd1|1.69
-hooks|HotFolder.py|353c669|0.24
+hooks|HotFolder.py|6c2c829|0.25
 hooks|IRC.py|417e60c|0.28
 hooks|ImageTyperz.py|5e73885|0.15
 hooks|JustPremium.py|353c669|0.27
