@@ -237,7 +237,7 @@ hooks|DiscordNotifier.py|d070dff|0.1
 hooks|DownloadScheduler.py|353c669|0.30
 hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|1f29cd1|0.14
-hooks|ExternalScripts.py|1f29cd1|0.74
+hooks|ExternalScripts.py|59e59ec|0.75
 hooks|ExtractArchive.py|1f29cd1|1.69
 hooks|HotFolder.py|395bc11|0.26
 hooks|IRC.py|417e60c|0.28
