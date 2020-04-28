@@ -503,7 +503,7 @@ hoster|WebshareCz.py|353c669|0.25
 hoster|WrzucTo.py|353c669|0.09
 hoster|WuploadCom.py|353c669|0.28
 hoster|X7To.py|353c669|0.46
-hoster|XDCC.py|fc897ee|0.52
+hoster|XDCC.py|04d4225|0.53
 hoster|XFileSharing.py|b0a1bdd|0.66
 hoster|XHamsterCom.py|353c669|0.19
 hoster|XVideosCom.py|24782b8|0.17
