@@ -316,7 +316,7 @@ hoster|FileboomMe.py|7ef5c84|0.11
 hoster|FilecloudIo.py|353c669|0.16
 hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
-hoster|FilejokerNet.py|de179c4|0.09
+hoster|FilejokerNet.py|ab1c14d|0.10
 hoster|FilejungleCom.py|353c669|0.57
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepostCom.py|353c669|0.41
