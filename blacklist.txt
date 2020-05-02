@@ -54,6 +54,7 @@ crypter|XFileSharingProFolder.py
 crypter|YoutubeBatch.py
 hooks|AlldebridCom.py
 hooks|AlldebridComHook.py
+hooks|AndroidPhoneNotify.py
 hooks|Captcha9kw.py
 hooks|CaptchaBrotherhood.py
 hooks|CaptchaTrader.py
