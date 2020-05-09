@@ -122,7 +122,7 @@ container|DLC.py|1f29cd1|0.33
 container|RSDF.py|1f29cd1|0.38
 container|TORRENT.py|3a39acf|0.03
 container|TXT.py|1f29cd1|0.22
-crypter|AlldebridComTorrent.py|dd3d610|0.01
+crypter|AlldebridComTorrent.py|6d0ccf6|0.02
 crypter|BigfileToFolder.py|353c669|0.11
 crypter|BitshareComFolder.py|353c669|0.11
 crypter|C1NeonCom.py|353c669|0.11
@@ -198,7 +198,7 @@ crypter|PastebinCom.py|353c669|0.09
 crypter|PastedCo.py|353c669|0.06
 crypter|QuickshareCzFolder.py|353c669|0.17
 crypter|RSLayerCom.py|353c669|0.26
-crypter|RealdebridComTorrent.py|a4a5204|0.11
+crypter|RealdebridComTorrent.py|6d0ccf6|0.12
 crypter|RelinkUs.py|353c669|3.22
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SecuredIn.py|353c669|0.26
@@ -209,6 +209,7 @@ crypter|SharingmatrixComFolder.py|353c669|0.07
 crypter|SpeedLoadOrgFolder.py|353c669|0.36
 crypter|StealthTo.py|353c669|0.25
 crypter|TNTVillageScambioeticoOrg.py|353c669|0.07
+crypter|TORRENT.py|6d0ccf6|0.01
 crypter|TenluaVnFolder.py|353c669|0.02
 crypter|TinyurlCom.py|353c669|0.07
 crypter|TnyCz.py|353c669|0.09
@@ -251,6 +252,7 @@ hooks|PushBullet.py|353c669|0.05
 hooks|PushOver.py|353c669|0.07
 hooks|RestartFailed.py|353c669|1.65
 hooks|SkipRev.py|353c669|0.38
+hooks|TORRENT.py|6d0ccf6|0.01
 hooks|TransmissionRPC.py|353c669|0.19
 hooks|UnSkipOnFail.py|353c669|0.14
 hooks|UpdateManager.py|7a80308|1.21
@@ -516,7 +518,7 @@ hoster|YoutubeCom.py|0be6253|0.80
 hoster|ZDF.py|1f29cd1|0.90
 hoster|ZShareNet.py|353c669|0.26
 hoster|ZahikiNet.py|353c669|0.07
-hoster|ZbigzCom.py|353c669|0.03
+hoster|ZbigzCom.py|6d0ccf6|0.04
 hoster|ZeveraCom.py|af37c78|0.39
 hoster|ZippyshareCom.py|df98629|0.99
 internal|Account.py|b0a1bdd|0.86
