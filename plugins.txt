@@ -120,7 +120,7 @@ captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
 container|DLC.py|1f29cd1|0.33
 container|RSDF.py|1f29cd1|0.38
-container|TORRENT.py|3a39acf|0.03
+container|TORRENT.py|50e1c2e|0.04
 container|TXT.py|1f29cd1|0.22
 crypter|AlldebridComTorrent.py|6d0ccf6|0.02
 crypter|BigfileToFolder.py|353c669|0.11
@@ -209,7 +209,6 @@ crypter|SharingmatrixComFolder.py|353c669|0.07
 crypter|SpeedLoadOrgFolder.py|353c669|0.36
 crypter|StealthTo.py|353c669|0.25
 crypter|TNTVillageScambioeticoOrg.py|353c669|0.07
-crypter|TORRENT.py|6d0ccf6|0.01
 crypter|TenluaVnFolder.py|353c669|0.02
 crypter|TinyurlCom.py|353c669|0.07
 crypter|TnyCz.py|353c669|0.09
@@ -601,6 +600,7 @@ crypter|Movie2kTo.py
 crypter|OneKhDe.py
 crypter|RapidfileshareNetFolder.py
 crypter|ShareRapidComFolder.py
+crypter|TORRENT.py
 crypter|UploadableChFolder.py
 crypter|XFileSharingProFolder.py
 crypter|YoutubeBatch.py

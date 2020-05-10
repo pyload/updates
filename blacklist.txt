@@ -49,6 +49,7 @@ crypter|Movie2kTo.py
 crypter|OneKhDe.py
 crypter|RapidfileshareNetFolder.py
 crypter|ShareRapidComFolder.py
+crypter|TORRENT.py
 crypter|UploadableChFolder.py
 crypter|XFileSharingProFolder.py
 crypter|YoutubeBatch.py
