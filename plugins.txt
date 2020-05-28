@@ -252,7 +252,7 @@ hooks|PushBullet.py|353c669|0.05
 hooks|PushOver.py|353c669|0.07
 hooks|RestartFailed.py|353c669|1.65
 hooks|SkipRev.py|353c669|0.38
-hooks|TORRENT.py|e534114|0.03
+hooks|TORRENT.py|4eaa634|0.04
 hooks|TransmissionRPC.py|353c669|0.19
 hooks|UnSkipOnFail.py|353c669|0.14
 hooks|UpdateManager.py|7a80308|1.21
