@@ -469,7 +469,7 @@ hoster|StorageTo.py|353c669|0.06
 hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
 hoster|SuprafilesMe.py|39882a2|0.01
-hoster|TbSevenPl.py|bd52dc6|0.01
+hoster|TbSevenPl.py|684e1ea|0.02
 hoster|TenluaVn.py|353c669|0.03
 hoster|TurbobitNet.py|c993d09|0.36
 hoster|TurbouploadCom.py|353c669|0.08
