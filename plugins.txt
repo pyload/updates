@@ -58,7 +58,7 @@ accounts|MegaRapidoNet.py|353c669|0.10
 accounts|MegasharesCom.py|353c669|0.11
 accounts|MovReelCom.py|353c669|0.08
 accounts|MultihostersCom.py|353c669|0.08
-accounts|MultishareCz.py|353c669|0.14
+accounts|MultishareCz.py|b80a0c7|0.15
 accounts|MyfastfileCom.py|353c669|0.12
 accounts|NitrobitNet.py|353c669|0.01
 accounts|NitroflareCom.py|353c669|0.20
@@ -395,7 +395,7 @@ hoster|MegauploadCom.py|353c669|0.36
 hoster|MegavideoCom.py|353c669|0.26
 hoster|MovReelCom.py|353c669|1.31
 hoster|MultihostersCom.py|353c669|0.08
-hoster|MultishareCz.py|353c669|0.48
+hoster|MultishareCz.py|b80a0c7|0.49
 hoster|MyfastfileCom.py|353c669|0.16
 hoster|MystoreTo.py|353c669|0.08
 hoster|MyvideoDe.py|353c669|0.96
