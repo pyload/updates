@@ -324,7 +324,7 @@ hoster|FilejungleCom.py|353c669|0.57
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepostCom.py|353c669|0.41
 hoster|FilepupNet.py|353c669|0.08
-hoster|FilerNet.py|841779b|0.29
+hoster|FilerNet.py|0f59ac1|0.30
 hoster|FilerioCom.py|353c669|0.13
 hoster|FilesMailRu.py|353c669|0.41
 hoster|FileserveCom.py|353c669|0.71
