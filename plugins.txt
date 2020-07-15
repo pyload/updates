@@ -120,7 +120,7 @@ captcha|ReCaptcha.py|846bdc3|0.43
 captcha|SolveMedia.py|353c669|0.22
 captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
-container|DLC.py|1f29cd1|0.33
+container|DLC.py|7b045a4|0.34
 container|RSDF.py|1f29cd1|0.38
 container|TORRENT.py|50e1c2e|0.04
 container|TXT.py|1f29cd1|0.22
