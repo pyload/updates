@@ -376,7 +376,7 @@ hoster|LetsuploadCc.py|af9bbbc|0.02
 hoster|LetsuploadCo.py|1f29cd1|0.03
 hoster|LibgenIo.py|7ef5c84|0.71
 hoster|LinkifierCom.py|7ef5c84|0.03
-hoster|LinksnappyCom.py|353c669|0.18
+hoster|LinksnappyCom.py|70fc912|0.19
 hoster|LoadTo.py|353c669|0.29
 hoster|LolabitsEs.py|09322fc|0.08
 hoster|LomafileCom.py|353c669|0.57
