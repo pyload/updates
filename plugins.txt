@@ -542,7 +542,7 @@ internal|MultiCrypter.py|b0a1bdd|0.11
 internal|MultiHoster.py|18a1569|0.70
 internal|Notifier.py|1f29cd1|0.12
 internal|OCR.py|b0a1bdd|0.28
-internal|Plugin.py|b0a1bdd|0.76
+internal|Plugin.py|65c0dd1|0.77
 internal|SevenZip.py|1f29cd1|0.32
 internal|SimpleCrypter.py|1865a14|0.96
 internal|SimpleHoster.py|1f29cd1|2.31
