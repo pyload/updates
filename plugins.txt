@@ -201,7 +201,7 @@ crypter|PastebinCom.py|353c669|0.09
 crypter|PastedCo.py|353c669|0.06
 crypter|QuickshareCzFolder.py|353c669|0.17
 crypter|RSLayerCom.py|353c669|0.26
-crypter|RealdebridComTorrent.py|aaa98b3|0.13
+crypter|RealdebridComTorrent.py|ff43b56|0.14
 crypter|RelinkUs.py|353c669|3.22
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SecuredIn.py|353c669|0.26
