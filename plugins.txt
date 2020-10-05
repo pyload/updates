@@ -140,7 +140,7 @@ crypter|DailymotionComFolder.py|1f29cd1|0.09
 crypter|DataHuFolder.py|353c669|0.13
 crypter|DatafileComFolder.py|353c669|0.02
 crypter|DdlstorageComFolder.py|353c669|0.09
-crypter|DebridlinkFrTorrent.py|78971db|0.01
+crypter|DebridlinkFrTorrent.py|385e94c|0.02
 crypter|DepositfilesComFolder.py|353c669|0.07
 crypter|Dereferer.py|b0a1bdd|0.27
 crypter|DevhostStFolder.py|353c669|0.12
