@@ -16,7 +16,7 @@ accounts|DdlTo.py|645dfd3|0.03
 accounts|DebridItaliaCom.py|353c669|0.22
 accounts|DebridlinkFr.py|53c2e19|0.05
 accounts|DepositfilesCom.py|353c669|0.39
-accounts|DownsterNet.py|acd446e|0.03
+accounts|DownsterNet.py|131adc8|0.04
 accounts|EasybytezCom.py|353c669|0.18
 accounts|EuroshareEu.py|353c669|0.12
 accounts|ExashareCom.py|353c669|0.06
