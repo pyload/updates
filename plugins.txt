@@ -16,7 +16,7 @@ accounts|DdlTo.py|645dfd3|0.03
 accounts|DebridItaliaCom.py|353c669|0.22
 accounts|DebridlinkFr.py|53c2e19|0.05
 accounts|DepositfilesCom.py|353c669|0.39
-accounts|DownsterNet.py|fb077ad|0.02
+accounts|DownsterNet.py|acd446e|0.03
 accounts|EasybytezCom.py|353c669|0.18
 accounts|EuroshareEu.py|353c669|0.12
 accounts|ExashareCom.py|353c669|0.06
@@ -298,7 +298,7 @@ hoster|DepositfilesCom.py|71cc892|0.64
 hoster|DevhostSt.py|353c669|0.11
 hoster|DlFreeFr.py|353c669|0.39
 hoster|DodanePl.py|353c669|0.08
-hoster|DownsterNet.py|fb077ad|0.02
+hoster|DownsterNet.py|acd446e|0.03
 hoster|DropboxCom.py|353c669|0.11
 hoster|DuploadOrg.py|353c669|0.07
 hoster|EasybytezCom.py|3478980|0.30
