@@ -405,6 +405,7 @@ hoster|MyvideoDe.py|353c669|0.96
 hoster|NahrajCz.py|353c669|0.26
 hoster|NarodRu.py|353c669|0.17
 hoster|NetloadIn.py|353c669|0.55
+hoster|NippyshareCom.py|4309267|0.01
 hoster|NitrobitNet.py|353c669|0.02
 hoster|NitroflareCom.py|cfccb4e|0.29
 hoster|NoPremiumPl.py|353c669|0.13
