@@ -279,7 +279,7 @@ hoster|ClicknuploadCom.py|353c669|0.06
 hoster|CloudMailRu.py|1f29cd1|0.03
 hoster|CloudzerNet.py|353c669|0.11
 hoster|CloudzillaTo.py|353c669|0.13
-hoster|CosmoboxOrg.py|be3d26e|0.02
+hoster|CosmoboxOrg.py|59e19ed|0.03
 hoster|CramitIn.py|353c669|0.13
 hoster|CrockoCom.py|353c669|0.27
 hoster|CyberlockerCh.py|353c669|0.07
