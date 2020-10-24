@@ -41,6 +41,7 @@ crypter|C1neonCom.py
 crypter|DailymotionBatch.py
 crypter|DontKnowMe.py
 crypter|DownloadVimeoCom.py
+crypter|DuckCryptInfo.py
 crypter|Go4Up.py
 crypter|HotfileFolderCom.py
 crypter|ImgurComAlbum.py
