@@ -169,7 +169,7 @@ crypter|GoogledriveComDereferer.py|353c669|0.01
 crypter|GoogledriveComFolder.py|353c669|0.12
 crypter|HearthisAtFolder.py|021228b|0.01
 crypter|HflixIn.py|353c669|0.12
-crypter|HoerbuchIn.py|353c669|0.67
+crypter|HoerbuchIn.py|d54e68a|0.68
 crypter|HotfileComFolder.py|353c669|0.36
 crypter|ILoadTo.py|353c669|0.16
 crypter|ImgurCom.py|353c669|0.61
