@@ -161,7 +161,6 @@ crypter|HflixIn.py|353c669|0.12
 crypter|HoerbuchIn.py|d54e68a|0.68
 crypter|ImgurCom.py|353c669|0.61
 crypter|JDlist.py|353c669|0.05
-crypter|LinkCryptWs.py|353c669|0.21
 crypter|LinkdecrypterCom.py|353c669|0.39
 crypter|LixIn.py|353c669|0.28
 crypter|MediafireComFolder.py|353c669|0.25
@@ -180,7 +179,6 @@ crypter|RealdebridComTorrent.py|ff43b56|0.14
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SexuriaCom.py|353c669|0.15
 crypter|ShSt.py|353c669|0.09
-crypter|ShareLinksBiz.py|ebb24e4|1.29
 crypter|TNTVillageScambioeticoOrg.py|353c669|0.07
 crypter|TenluaVnFolder.py|353c669|0.02
 crypter|TinyurlCom.py|353c669|0.07
@@ -335,7 +333,6 @@ hoster|MultihostersCom.py|353c669|0.08
 hoster|MultishareCz.py|b80a0c7|0.49
 hoster|MyfastfileCom.py|353c669|0.16
 hoster|MystoreTo.py|353c669|0.08
-hoster|MyvideoDe.py|353c669|0.96
 hoster|NarodRu.py|353c669|0.17
 hoster|NippyshareCom.py|4309267|0.01
 hoster|NitrobitNet.py|353c669|0.02
@@ -520,6 +517,7 @@ crypter|ILoadTo.py
 crypter|ImgurComAlbum.py
 crypter|JunocloudMeFolder.py
 crypter|LetitbitNetFolder.py
+crypter|LinkCryptWs.py
 crypter|LinkSaveIn.py
 crypter|LofCc.py
 crypter|MBLinkInfo.py
@@ -535,6 +533,7 @@ crypter|RapidfileshareNetFolder.py
 crypter|RelinkUs.py
 crypter|RSLayerCom.py
 crypter|SecuredIn.py
+crypter|ShareLinksBiz.py
 crypter|ShareRapidComFolder.py
 crypter|SharingmatrixComFolder.py
 crypter|SpeedLoadOrgFolder.py
@@ -658,6 +657,7 @@ hoster|MegareleaseOrg.py
 hoster|MegauploadCom.py
 hoster|MegavideoCom.py
 hoster|MultiDebridCom.py
+hoster|MyvideoDe.py
 hoster|NahrajCz.py
 hoster|NetloadIn.py
 hoster|NowDownloadEu.py

@@ -60,6 +60,7 @@ crypter|ILoadTo.py
 crypter|ImgurComAlbum.py
 crypter|JunocloudMeFolder.py
 crypter|LetitbitNetFolder.py
+crypter|LinkCryptWs.py
 crypter|LinkSaveIn.py
 crypter|LofCc.py
 crypter|MBLinkInfo.py
@@ -75,6 +76,7 @@ crypter|RapidfileshareNetFolder.py
 crypter|RelinkUs.py
 crypter|RSLayerCom.py
 crypter|SecuredIn.py
+crypter|ShareLinksBiz.py
 crypter|ShareRapidComFolder.py
 crypter|SharingmatrixComFolder.py
 crypter|SpeedLoadOrgFolder.py
@@ -198,6 +200,7 @@ hoster|MegareleaseOrg.py
 hoster|MegauploadCom.py
 hoster|MegavideoCom.py
 hoster|MultiDebridCom.py
+hoster|MyvideoDe.py
 hoster|NahrajCz.py
 hoster|NetloadIn.py
 hoster|NowDownloadEu.py
