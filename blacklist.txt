@@ -72,6 +72,7 @@ crypter|NetfolderIn.py
 crypter|OneKhDe.py
 crypter|OronComFolder.py
 crypter|RapidfileshareNetFolder.py
+crypter|RelinkUs.py
 crypter|RSLayerCom.py
 crypter|SecuredIn.py
 crypter|ShareRapidComFolder.py

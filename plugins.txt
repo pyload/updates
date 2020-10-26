@@ -177,7 +177,6 @@ crypter|PastebinCom.py|353c669|0.09
 crypter|PastedCo.py|353c669|0.06
 crypter|QuickshareCzFolder.py|353c669|0.17
 crypter|RealdebridComTorrent.py|ff43b56|0.14
-crypter|RelinkUs.py|353c669|3.22
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SexuriaCom.py|353c669|0.15
 crypter|ShSt.py|353c669|0.09
@@ -533,6 +532,7 @@ crypter|NetfolderIn.py
 crypter|OneKhDe.py
 crypter|OronComFolder.py
 crypter|RapidfileshareNetFolder.py
+crypter|RelinkUs.py
 crypter|RSLayerCom.py
 crypter|SecuredIn.py
 crypter|ShareRapidComFolder.py
