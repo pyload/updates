@@ -123,7 +123,7 @@ container|TORRENT.py|50e1c2e|0.04
 container|TXT.py|1f29cd1|0.22
 crypter|AlldebridComTorrent.py|6d0ccf6|0.02
 crypter|BigfileToFolder.py|353c669|0.11
-crypter|ChipDe.py|353c669|0.16
+crypter|ChipDe.py|cf47157|0.17
 crypter|CloudMailRuFolder.py|1f29cd1|0.02
 crypter|CloudzillaToFolder.py|353c669|0.11
 crypter|CriptTo.py|8d9f7cd|0.03
