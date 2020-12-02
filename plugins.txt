@@ -352,7 +352,7 @@ hoster|PornhubCom.py|353c669|0.60
 hoster|PornovkaCz.py|353c669|0.02
 hoster|PorntrexCom.py|271d709|0.01
 hoster|PremiumTo.py|578fb2e|0.36
-hoster|PremiumizeMe.py|7ef5c84|0.33
+hoster|PremiumizeMe.py|c380fa1|0.34
 hoster|PromptfileCom.py|353c669|0.19
 hoster|PutdriveCom.py|353c669|0.07
 hoster|QuickshareCz.py|353c669|0.64
