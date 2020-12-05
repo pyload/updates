@@ -50,7 +50,7 @@ accounts|JunocloudMe.py|353c669|0.07
 accounts|Keep2ShareCc.py|1f29cd1|0.17
 accounts|LeechThreeHundreedSixtyCom.py|1f29cd1|0.02
 accounts|LinkifierCom.py|b5c92b4|0.03
-accounts|LinksnappyCom.py|981800e|0.21
+accounts|LinksnappyCom.py|ae26d7d|0.22
 accounts|MegaCoNz.py|1f29cd1|0.08
 accounts|MegaDebridEu.py|91f94f1|0.37
 accounts|MegaRapidCz.py|1f29cd1|0.43
