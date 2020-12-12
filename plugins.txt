@@ -421,7 +421,7 @@ hoster|YesPornPleaseCom.py|353c669|0.02
 hoster|YibaishiwuCom.py|353c669|0.19
 hoster|YoupornCom.py|353c669|0.26
 hoster|YourfilesTo.py|353c669|0.28
-hoster|YoutubeCom.py|0be6253|0.80
+hoster|YoutubeCom.py|83a61b2|0.81
 hoster|ZDF.py|1f29cd1|0.90
 hoster|ZbigzCom.py|6d0ccf6|0.04
 hoster|ZeveraCom.py|af37c78|0.39
