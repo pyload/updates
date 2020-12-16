@@ -315,7 +315,7 @@ hoster|LetsuploadCc.py|af9bbbc|0.02
 hoster|LetsuploadCo.py|1f29cd1|0.03
 hoster|LibgenIo.py|7ef5c84|0.71
 hoster|LinkifierCom.py|7ef5c84|0.03
-hoster|LinksnappyCom.py|70fc912|0.19
+hoster|LinksnappyCom.py|ff1f0af|0.20
 hoster|LinksnappyComTorrent.py|9740840|0.01
 hoster|LoadTo.py|353c669|0.29
 hoster|LuckyShareNet.py|353c669|0.14
