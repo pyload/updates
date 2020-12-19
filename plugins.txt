@@ -17,7 +17,6 @@ accounts|DebridItaliaCom.py|353c669|0.22
 accounts|DebridlinkFr.py|53c2e19|0.05
 accounts|DepositfilesCom.py|353c669|0.39
 accounts|DownsterNet.py|131adc8|0.04
-accounts|EasybytezCom.py|353c669|0.18
 accounts|EuroshareEu.py|353c669|0.12
 accounts|ExashareCom.py|353c669|0.06
 accounts|ExtmatrixCom.py|542f5ce|0.01
@@ -138,7 +137,6 @@ crypter|DepositfilesComFolder.py|353c669|0.07
 crypter|Dereferer.py|b0a1bdd|0.27
 crypter|DevhostStFolder.py|353c669|0.12
 crypter|DlProtectCom.py|195e725|0.13
-crypter|EasybytezComFolder.py|353c669|0.17
 crypter|EmbeduploadCom.py|353c669|0.08
 crypter|FilecloudIoFolder.py|353c669|0.09
 crypter|FilecryptCc.py|5f5aaf5|0.42
@@ -258,7 +256,6 @@ hoster|DevhostSt.py|353c669|0.11
 hoster|DlFreeFr.py|353c669|0.39
 hoster|DownsterNet.py|acd446e|0.03
 hoster|DropboxCom.py|353c669|0.11
-hoster|EasybytezCom.py|3478980|0.30
 hoster|EdiskCz.py|353c669|0.28
 hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
@@ -460,6 +457,7 @@ accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
+accounts|EasybytezCom.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
@@ -507,6 +505,7 @@ crypter|DontKnowMe.py
 crypter|DownloadVimeoCom.py
 crypter|DuckCryptInfo.py
 crypter|DuploadOrgFolder.py
+crypter|EasybytezComFolder.py
 crypter|FilebeerInfoFolder.py
 crypter|FilesonicComFolder.py
 crypter|FiredriveComFolder.py
@@ -623,6 +622,7 @@ hoster|CyberlockerCh.py
 hoster|DdlstorageCom.py
 hoster|DodanePl.py
 hoster|DuploadOrg.py
+hoster|EasybytezCom.py
 hoster|EgoFilesCom.py
 hoster|EnteruploadCom.py
 hoster|EpicShareNet.py
