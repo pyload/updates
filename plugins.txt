@@ -390,7 +390,7 @@ hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
 hoster|UgouploadNet.py|353c669|0.04
-hoster|UlozTo.py|235603d|1.48
+hoster|UlozTo.py|2d88f9e|1.49
 hoster|UloziskoSk.py|353c669|0.31
 hoster|UnibytesCom.py|353c669|0.21
 hoster|UpfileVn.py|353c669|0.01
