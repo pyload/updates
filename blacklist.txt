@@ -3,7 +3,6 @@ accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
-accounts|EasybytezCom.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
@@ -51,7 +50,6 @@ crypter|DontKnowMe.py
 crypter|DownloadVimeoCom.py
 crypter|DuckCryptInfo.py
 crypter|DuploadOrgFolder.py
-crypter|EasybytezComFolder.py
 crypter|FilebeerInfoFolder.py
 crypter|FilesonicComFolder.py
 crypter|FiredriveComFolder.py
@@ -168,7 +166,6 @@ hoster|CyberlockerCh.py
 hoster|DdlstorageCom.py
 hoster|DodanePl.py
 hoster|DuploadOrg.py
-hoster|EasybytezCom.py
 hoster|EgoFilesCom.py
 hoster|EnteruploadCom.py
 hoster|EpicShareNet.py
