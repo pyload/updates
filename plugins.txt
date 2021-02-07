@@ -100,7 +100,7 @@ accounts|UlozTo.py|3530638|0.35
 accounts|UpleaCom.py|353c669|0.02
 accounts|UploadcCom.py|353c669|0.07
 accounts|UploadedTo.py|353c669|0.46
-accounts|UploadgigCom.py|353c669|0.03
+accounts|UploadgigCom.py|0a3c36d|0.04
 accounts|UploadheroCom.py|353c669|0.29
 accounts|UpstoreNet.py|f27b455|0.01
 accounts|UptoboxCom.py|27a5723|0.24
