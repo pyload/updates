@@ -103,7 +103,7 @@ accounts|UploadedTo.py|353c669|0.46
 accounts|UploadgigCom.py|0a3c36d|0.04
 accounts|UploadheroCom.py|353c669|0.29
 accounts|UpstoreNet.py|f27b455|0.01
-accounts|UptoboxCom.py|27a5723|0.24
+accounts|UptoboxCom.py|da1250e|0.25
 accounts|VidPlayNet.py|353c669|0.07
 accounts|WebshareCz.py|b2bacd3|0.17
 accounts|WorldbytezCom.py|353c669|0.06
