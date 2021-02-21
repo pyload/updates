@@ -405,7 +405,7 @@ hoster|UploadgigCom.py|11baa62|0.06
 hoster|UploadheroCom.py|353c669|0.23
 hoster|UploadrocketNet.py|353c669|0.02
 hoster|UpstoreNet.py|5350ea5|0.18
-hoster|UptoboxCom.py|1d1fc61|0.37
+hoster|UptoboxCom.py|a9a16dc|0.38
 hoster|UserscloudCom.py|353c669|0.09
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|353c669|0.28
