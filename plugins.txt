@@ -12,7 +12,7 @@ accounts|CloudzillaTo.py|353c669|0.09
 accounts|CramitIn.py|353c669|0.08
 accounts|CzshareCom.py|353c669|0.28
 accounts|DatoidCz.py|353c669|0.39
-accounts|DdlTo.py|645dfd3|0.03
+accounts|DdownloadCom.py|dc5c055|0.04
 accounts|DebridItaliaCom.py|353c669|0.22
 accounts|DebridlinkFr.py|53c2e19|0.05
 accounts|DepositfilesCom.py|353c669|0.39
@@ -251,7 +251,7 @@ hoster|DatafileCom.py|353c669|0.05
 hoster|DataportCz.py|353c669|0.47
 hoster|DateiTo.py|353c669|0.14
 hoster|DatoidCz.py|353c669|0.02
-hoster|DdlTo.py|fa40a57|0.08
+hoster|DdownloadCom.py|dc5c055|0.09
 hoster|DebridItaliaCom.py|48b0504|0.26
 hoster|DebridlinkFr.py|78971db|0.07
 hoster|DepositfilesCom.py|71cc892|0.64
@@ -463,6 +463,7 @@ accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
+accounts|DdlTo.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
@@ -624,6 +625,7 @@ hoster|BoltsharingCom.py
 hoster|CloudzerNet.py
 hoster|CyberlockerCh.py
 hoster|DdlstorageCom.py
+hoster|DdlTo.py
 hoster|DodanePl.py
 hoster|DuploadOrg.py
 hoster|EgoFilesCom.py

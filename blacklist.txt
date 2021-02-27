@@ -3,6 +3,7 @@ accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
+accounts|DdlTo.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
@@ -164,6 +165,7 @@ hoster|BoltsharingCom.py
 hoster|CloudzerNet.py
 hoster|CyberlockerCh.py
 hoster|DdlstorageCom.py
+hoster|DdlTo.py
 hoster|DodanePl.py
 hoster|DuploadOrg.py
 hoster|EgoFilesCom.py
