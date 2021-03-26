@@ -301,7 +301,7 @@ hoster|HellshareCz.py|353c669|0.91
 hoster|HighWayMe.py|993468e|0.25
 hoster|HitfileNet.py|1f29cd1|0.01
 hoster|HostujeNet.py|353c669|0.06
-hoster|Http.py|fdb4bc7|0.11
+hoster|Http.py|ce0b34d|0.12
 hoster|HugefilesNet.py|353c669|0.12
 hoster|HundredEightyUploadCom.py|353c669|0.11
 hoster|IfolderRu.py|353c669|0.44
