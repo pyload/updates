@@ -409,6 +409,7 @@ hoster|UploadshipCom.py|76f9036|0.01
 hoster|UpstoreNet.py|5350ea5|0.18
 hoster|UptoboxCom.py|a9a16dc|0.38
 hoster|UserscloudCom.py|353c669|0.09
+hoster|UseruploadNet.py|7ffe473|0.01
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|353c669|0.28
 hoster|VidPlayNet.py|353c669|0.11
