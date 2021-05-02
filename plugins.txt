@@ -283,7 +283,7 @@ hoster|FilerNet.py|0f59ac1|0.30
 hoster|FilerioCom.py|9a07a94|0.14
 hoster|FilesMailRu.py|353c669|0.41
 hoster|FileserveCom.py|353c669|0.71
-hoster|FileuploadCom.py|413505b|0.01
+hoster|FileuploadCom.py|c033f0e|0.02
 hoster|FileuploadNet.py|353c669|0.07
 hoster|FiregetCom.py|3bec6f9|0.01
 hoster|FistfastNet.py|353c669|0.01
@@ -405,11 +405,11 @@ hoster|UploadedTo.py|c2ce86e|1.09
 hoster|UploadgigCom.py|11baa62|0.06
 hoster|UploadheroCom.py|353c669|0.23
 hoster|UploadrocketNet.py|353c669|0.02
-hoster|UploadshipCom.py|76f9036|0.01
+hoster|UploadshipCom.py|c033f0e|0.02
 hoster|UpstoreNet.py|5350ea5|0.18
 hoster|UptoboxCom.py|a9a16dc|0.38
 hoster|UserscloudCom.py|353c669|0.09
-hoster|UseruploadNet.py|7ffe473|0.01
+hoster|UseruploadNet.py|c033f0e|0.02
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|353c669|0.28
 hoster|VidPlayNet.py|353c669|0.11
