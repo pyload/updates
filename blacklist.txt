@@ -32,6 +32,7 @@ accounts|Vipleech4uCom.py
 accounts|WarserverCz.py
 accounts|XFileSharingPro.py
 captcha|AdsCaptcha.py
+captcha|AdYouLike.py
 captcha|captcha.py
 captcha|GigasizeCom.py
 captcha|LinksaveIn.py

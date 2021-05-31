@@ -109,7 +109,6 @@ accounts|WebshareCz.py|b2bacd3|0.17
 accounts|WorldbytezCom.py|353c669|0.06
 accounts|YibaishiwuCom.py|353c669|0.09
 accounts|ZeveraCom.py|9ea3c80|0.38
-captcha|AdYouLike.py|353c669|0.11
 captcha|CircleCaptcha.py|353c669|1.11
 captcha|CoinHive.py|13defae|0.01
 captcha|HCaptcha.py|71f5e6e|0.01
@@ -494,6 +493,7 @@ accounts|Vipleech4uCom.py
 accounts|WarserverCz.py
 accounts|XFileSharingPro.py
 captcha|AdsCaptcha.py
+captcha|AdYouLike.py
 captcha|captcha.py
 captcha|GigasizeCom.py
 captcha|LinksaveIn.py
