@@ -342,7 +342,7 @@ hoster|NitroflareCom.py|3f39a97|0.30
 hoster|NoPremiumPl.py|353c669|0.13
 hoster|NofileIo.py|353c669|0.01
 hoster|NosuploadCom.py|353c669|0.38
-hoster|NovafileCom.py|353c669|0.11
+hoster|NovafileCom.py|9564597|0.12
 hoster|NowVideoSx.py|353c669|0.17
 hoster|OboomCom.py|ede5ce2|0.47
 hoster|OneFichierCom.py|c9ce623|1.18
