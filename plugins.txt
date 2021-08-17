@@ -363,7 +363,7 @@ hoster|QuickshareCz.py|353c669|0.64
 hoster|RPNetBiz.py|353c669|0.22
 hoster|RapideoPl.py|7ef5c84|0.14
 hoster|RapidfileshareNet.py|353c669|0.09
-hoster|RapidgatorNet.py|628d5e5|0.57
+hoster|RapidgatorNet.py|0ccd6a5|0.58
 hoster|RapiduNet.py|3bbb03b|0.17
 hoster|RarefileNet.py|353c669|0.15
 hoster|RealdebridCom.py|ca8983b|0.81
