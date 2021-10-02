@@ -367,7 +367,7 @@ hoster|RapidgatorNet.py|0ccd6a5|0.58
 hoster|RapiduNet.py|3bbb03b|0.17
 hoster|RarefileNet.py|353c669|0.15
 hoster|RealdebridCom.py|ca8983b|0.81
-hoster|RedtubeCom.py|353c669|0.27
+hoster|RedtubeCom.py|83f1018|0.28
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
 hoster|RgHostNet.py|353c669|0.09
