@@ -408,7 +408,7 @@ hoster|UploadrocketNet.py|353c669|0.02
 hoster|UploadshipCom.py|c033f0e|0.02
 hoster|UpstoreNet.py|5350ea5|0.18
 hoster|UptoboxCom.py|a9a16dc|0.38
-hoster|UserscloudCom.py|353c669|0.09
+hoster|UserscloudCom.py|96f6fb7|0.10
 hoster|UseruploadNet.py|c033f0e|0.02
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|353c669|0.28
