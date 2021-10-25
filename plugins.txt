@@ -330,7 +330,7 @@ hoster|MegaRapidoNet.py|353c669|0.12
 hoster|MegacrypterCom.py|353c669|0.28
 hoster|MegadyskPl.py|353c669|0.04
 hoster|MegasharesCom.py|353c669|0.37
-hoster|MegaupNet.py|7ef5c84|0.02
+hoster|MegaupNet.py|edda3c9|0.03
 hoster|MovReelCom.py|353c669|1.31
 hoster|MultihostersCom.py|353c669|0.08
 hoster|MultishareCz.py|b80a0c7|0.49
