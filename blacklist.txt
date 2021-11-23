@@ -52,6 +52,7 @@ crypter|C1neonCom.py
 crypter|CrockoComFolder.py
 crypter|CryptItCom.py
 crypter|DailymotionBatch.py
+crypter|DatafileComFolder.py
 crypter|DdlstorageComFolder.py
 crypter|DontKnowMe.py
 crypter|DownloadVimeoCom.py
@@ -173,6 +174,7 @@ hoster|CatShareNet.py
 hoster|CloudzerNet.py
 hoster|CrockoCom.py
 hoster|CyberlockerCh.py
+hoster|DatafileCom.py
 hoster|DdlstorageCom.py
 hoster|DdlTo.py
 hoster|DodanePl.py

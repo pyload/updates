@@ -127,7 +127,6 @@ crypter|CryptCat.py|353c669|0.04
 crypter|CzshareComFolder.py|353c669|0.27
 crypter|DailymotionComFolder.py|1f29cd1|0.09
 crypter|DataHuFolder.py|353c669|0.13
-crypter|DatafileComFolder.py|353c669|0.02
 crypter|DebridlinkFrTorrent.py|385e94c|0.02
 crypter|DepositfilesComFolder.py|353c669|0.07
 crypter|Dereferer.py|b0a1bdd|0.27
@@ -239,7 +238,6 @@ hoster|CzshareCom.py|353c669|1.11
 hoster|DailymotionCom.py|0e65b66|0.30
 hoster|DailyuploadsNet.py|353c669|0.01
 hoster|DataHu.py|353c669|0.08
-hoster|DatafileCom.py|353c669|0.05
 hoster|DataportCz.py|353c669|0.47
 hoster|DateiTo.py|353c669|0.14
 hoster|DatoidCz.py|353c669|0.02
@@ -509,6 +507,7 @@ crypter|C1neonCom.py
 crypter|CrockoComFolder.py
 crypter|CryptItCom.py
 crypter|DailymotionBatch.py
+crypter|DatafileComFolder.py
 crypter|DdlstorageComFolder.py
 crypter|DontKnowMe.py
 crypter|DownloadVimeoCom.py
@@ -630,6 +629,7 @@ hoster|CatShareNet.py
 hoster|CloudzerNet.py
 hoster|CrockoCom.py
 hoster|CyberlockerCh.py
+hoster|DatafileCom.py
 hoster|DdlstorageCom.py
 hoster|DdlTo.py
 hoster|DodanePl.py
