@@ -1,4 +1,5 @@
 accounts|BayfilesCom.py
+accounts|BigfileTo.py
 accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
 accounts|CyberlockerCh.py
@@ -43,6 +44,7 @@ container|DLC_25.py
 container|DLC_26.py
 container|DLC_27.py
 container|LinkList.py
+crypter|BigfileToFolder.py
 crypter|BitshareComFolder.py
 crypter|C1NeonCom.py
 crypter|C1neonCom.py
@@ -161,6 +163,7 @@ hooks|XMPPInterface.py
 hooks|ZeveraCom.py
 hooks|ZeveraComHook.py
 hoster|BayfilesCom.py
+hoster|BigfileTo.py
 hoster|BillionuploadsCom.py
 hoster|BitshareCom.py
 hoster|BoltsharingCom.py

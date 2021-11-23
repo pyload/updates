@@ -4,7 +4,6 @@ type|name|changeset|version
 accounts|AlldebridCom.py|dd3d610|0.44
 accounts|AniStreamCom.py|353c669|0.05
 accounts|BackinNet.py|353c669|0.06
-accounts|BigfileTo.py|353c669|0.11
 accounts|CatShareNet.py|353c669|0.16
 accounts|CloudsharesNet.py|353c669|0.03
 accounts|CloudsixMe.py|353c669|0.05
@@ -121,7 +120,6 @@ container|RSDF.py|1f29cd1|0.38
 container|TORRENT.py|6fe564c|0.05
 container|TXT.py|1f29cd1|0.22
 crypter|AlldebridComTorrent.py|6d0ccf6|0.02
-crypter|BigfileToFolder.py|353c669|0.11
 crypter|ChipDe.py|cf47157|0.17
 crypter|CloudMailRuFolder.py|a126137|0.03
 crypter|CloudzillaToFolder.py|353c669|0.11
@@ -234,7 +232,6 @@ hoster|AnonfileCom.py|631c8c8|0.02
 hoster|BasePlugin.py|353c669|0.52
 hoster|BasketbuildCom.py|353c669|0.08
 hoster|BezvadataCz.py|353c669|0.35
-hoster|BigfileTo.py|353c669|0.19
 hoster|CatShareNet.py|353c669|0.22
 hoster|ClicknuploadCom.py|353c669|0.06
 hoster|CloudMailRu.py|a126137|0.04
@@ -463,6 +460,7 @@ internal|XFSHoster.py|fa2103d|0.85
 internal|misc.py|4624c67|0.65
 BLACKLIST
 accounts|BayfilesCom.py
+accounts|BigfileTo.py
 accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
 accounts|CyberlockerCh.py
@@ -507,6 +505,7 @@ container|DLC_25.py
 container|DLC_26.py
 container|DLC_27.py
 container|LinkList.py
+crypter|BigfileToFolder.py
 crypter|BitshareComFolder.py
 crypter|C1NeonCom.py
 crypter|C1neonCom.py
@@ -625,6 +624,7 @@ hooks|XMPPInterface.py
 hooks|ZeveraCom.py
 hooks|ZeveraComHook.py
 hoster|BayfilesCom.py
+hoster|BigfileTo.py
 hoster|BillionuploadsCom.py
 hoster|BitshareCom.py
 hoster|BoltsharingCom.py
