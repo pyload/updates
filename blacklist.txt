@@ -238,6 +238,7 @@ hoster|PutlockerCom.py
 hoster|RapidshareCom.py
 hoster|RealdebridComTorrent.py
 hoster|ReloadCc.py
+hoster|RockfileEu.py
 hoster|RyushareCom.py
 hoster|SendmywayCom.py
 hoster|Share4webCom.py

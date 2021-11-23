@@ -355,7 +355,6 @@ hoster|RedtubeCom.py|83f1018|0.28
 hoster|RehostTo.py|353c669|0.29
 hoster|RemixshareCom.py|353c669|0.11
 hoster|RgHostNet.py|353c669|0.09
-hoster|RockfileEu.py|4fad17b|0.14
 hoster|SafesharingEu.py|353c669|0.11
 hoster|SecureUploadEu.py|353c669|0.11
 hoster|SenditCloud.py|353c669|0.01
@@ -685,6 +684,7 @@ hoster|PutlockerCom.py
 hoster|RapidshareCom.py
 hoster|RealdebridComTorrent.py
 hoster|ReloadCc.py
+hoster|RockfileEu.py
 hoster|RyushareCom.py
 hoster|SendmywayCom.py
 hoster|Share4webCom.py
