@@ -62,7 +62,6 @@ accounts|NoPremiumPl.py|1f29cd1|0.12
 accounts|NosuploadCom.py|353c669|0.07
 accounts|NovafileCom.py|353c669|0.07
 accounts|NowVideoSx.py|353c669|0.11
-accounts|OboomCom.py|1f29cd1|0.34
 accounts|OneFichierCom.py|353c669|0.24
 accounts|OpenloadCo.py|353c669|0.03
 accounts|OverLoadMe.py|353c669|0.13
@@ -329,7 +328,6 @@ hoster|NofileIo.py|353c669|0.01
 hoster|NosuploadCom.py|353c669|0.38
 hoster|NovafileCom.py|9564597|0.12
 hoster|NowVideoSx.py|353c669|0.17
-hoster|OboomCom.py|ede5ce2|0.47
 hoster|OneFichierCom.py|c9ce623|1.18
 hoster|OnlineTvRecorder.py|004c286|0.05
 hoster|OpenloadIo.py|353c669|0.20
@@ -467,6 +465,7 @@ accounts|MegaDebrid.py
 accounts|MultiDebridCom.py
 accounts|NetloadIn.py
 accounts|NowVideoAt.py
+accounts|OboomCom.py
 accounts|Premium4Me.py
 accounts|RapidshareCom.py
 accounts|ReloadCc.py
@@ -672,6 +671,7 @@ hoster|NetloadIn.py
 hoster|NowDownloadEu.py
 hoster|NowDownloadSx.py
 hoster|NowVideoAt.py
+hoster|OboomCom.py
 hoster|OronCom.py
 hoster|PandaplaNet.py
 hoster|PandaPlaNet.py

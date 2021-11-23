@@ -22,6 +22,7 @@ accounts|MegaDebrid.py
 accounts|MultiDebridCom.py
 accounts|NetloadIn.py
 accounts|NowVideoAt.py
+accounts|OboomCom.py
 accounts|Premium4Me.py
 accounts|RapidshareCom.py
 accounts|ReloadCc.py
@@ -227,6 +228,7 @@ hoster|NetloadIn.py
 hoster|NowDownloadEu.py
 hoster|NowDownloadSx.py
 hoster|NowVideoAt.py
+hoster|OboomCom.py
 hoster|OronCom.py
 hoster|PandaplaNet.py
 hoster|PandaPlaNet.py
