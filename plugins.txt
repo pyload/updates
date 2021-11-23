@@ -378,7 +378,6 @@ hoster|TurbobitNet.py|345921b|0.41
 hoster|TusfilesNet.py|353c669|0.18
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
-hoster|UgouploadNet.py|353c669|0.04
 hoster|UlozTo.py|2d88f9e|1.49
 hoster|UloziskoSk.py|353c669|0.31
 hoster|UnibytesCom.py|353c669|0.21
@@ -702,6 +701,7 @@ hoster|SpeedLoadOrg.py
 hoster|StahnuTo.py
 hoster|StorageTo.py
 hoster|TurbouploadCom.py
+hoster|UgouploadNet.py
 hoster|UnrestrictLi.py
 hoster|UploadableCh.py
 hoster|UploadboxCom.py

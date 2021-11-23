@@ -256,6 +256,7 @@ hoster|SpeedLoadOrg.py
 hoster|StahnuTo.py
 hoster|StorageTo.py
 hoster|TurbouploadCom.py
+hoster|UgouploadNet.py
 hoster|UnrestrictLi.py
 hoster|UploadableCh.py
 hoster|UploadboxCom.py
