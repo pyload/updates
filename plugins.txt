@@ -252,7 +252,6 @@ hoster|EasybytezCom.py|ade2ecc|0.32
 hoster|EdiskCz.py|353c669|0.28
 hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
-hoster|ExtabitCom.py|353c669|0.73
 hoster|ExtmatrixCom.py|2a37603|0.02
 hoster|FastixRu.py|353c669|0.22
 hoster|FastshareCz.py|492307b|0.45
@@ -637,6 +636,7 @@ hoster|DuploadOrg.py
 hoster|EgoFilesCom.py
 hoster|EnteruploadCom.py
 hoster|EpicShareNet.py
+hoster|ExtabitCom.py
 hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py

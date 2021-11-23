@@ -183,6 +183,7 @@ hoster|DuploadOrg.py
 hoster|EgoFilesCom.py
 hoster|EnteruploadCom.py
 hoster|EpicShareNet.py
+hoster|ExtabitCom.py
 hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py
