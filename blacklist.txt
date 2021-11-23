@@ -2,6 +2,7 @@ accounts|BayfilesCom.py
 accounts|BigfileTo.py
 accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
+accounts|CatShareNet.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
 accounts|DdlTo.py
@@ -167,6 +168,7 @@ hoster|BigfileTo.py
 hoster|BillionuploadsCom.py
 hoster|BitshareCom.py
 hoster|BoltsharingCom.py
+hoster|CatShareNet.py
 hoster|CloudzerNet.py
 hoster|CyberlockerCh.py
 hoster|DdlstorageCom.py

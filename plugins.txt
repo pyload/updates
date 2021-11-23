@@ -4,7 +4,6 @@ type|name|changeset|version
 accounts|AlldebridCom.py|dd3d610|0.44
 accounts|AniStreamCom.py|353c669|0.05
 accounts|BackinNet.py|353c669|0.06
-accounts|CatShareNet.py|353c669|0.16
 accounts|CloudsharesNet.py|353c669|0.03
 accounts|CloudsixMe.py|353c669|0.05
 accounts|CloudzillaTo.py|353c669|0.09
@@ -232,7 +231,6 @@ hoster|AnonfileCom.py|631c8c8|0.02
 hoster|BasePlugin.py|353c669|0.52
 hoster|BasketbuildCom.py|353c669|0.08
 hoster|BezvadataCz.py|353c669|0.35
-hoster|CatShareNet.py|353c669|0.22
 hoster|ClicknuploadCom.py|353c669|0.06
 hoster|CloudMailRu.py|a126137|0.04
 hoster|CloudzillaTo.py|353c669|0.13
@@ -463,6 +461,7 @@ accounts|BayfilesCom.py
 accounts|BigfileTo.py
 accounts|BillionuploadsCom.py
 accounts|BitshareCom.py
+accounts|CatShareNet.py
 accounts|CyberlockerCh.py
 accounts|DdlstorageCom.py
 accounts|DdlTo.py
@@ -628,6 +627,7 @@ hoster|BigfileTo.py
 hoster|BillionuploadsCom.py
 hoster|BitshareCom.py
 hoster|BoltsharingCom.py
+hoster|CatShareNet.py
 hoster|CloudzerNet.py
 hoster|CyberlockerCh.py
 hoster|DdlstorageCom.py
