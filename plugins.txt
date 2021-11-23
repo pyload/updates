@@ -306,7 +306,6 @@ hoster|LinkifierCom.py|f469421|0.04
 hoster|LinksnappyCom.py|ff1f0af|0.20
 hoster|LinksnappyComTorrent.py|9740840|0.01
 hoster|LoadTo.py|353c669|0.29
-hoster|LuckyShareNet.py|353c669|0.14
 hoster|MediafireCom.py|f0c6df4|0.98
 hoster|MegaCoNz.py|9644c00|0.56
 hoster|MegaDebridEu.py|1f29cd1|0.60
@@ -661,6 +660,7 @@ hoster|LetitbitNet.py
 hoster|Libgen.py
 hoster|LolabitsEs.py
 hoster|LomafileCom.py
+hoster|LuckyShareNet.py
 hoster|MegaDebrid.py
 hoster|MegaFilesSe.py
 hoster|MegaNz.py

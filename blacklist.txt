@@ -213,6 +213,7 @@ hoster|LetitbitNet.py
 hoster|Libgen.py
 hoster|LolabitsEs.py
 hoster|LomafileCom.py
+hoster|LuckyShareNet.py
 hoster|MegaDebrid.py
 hoster|MegaFilesSe.py
 hoster|MegaNz.py
