@@ -31,7 +31,6 @@ accounts|FileomCom.py|353c669|0.07
 accounts|FilerNet.py|353c669|0.13
 accounts|FilerioCom.py|353c669|0.08
 accounts|FilesMailRu.py|353c669|0.18
-accounts|FileserveCom.py|353c669|0.27
 accounts|FourSharedCom.py|353c669|0.13
 accounts|FreakshareCom.py|353c669|0.21
 accounts|FshareVn.py|4b905ce|0.26
@@ -138,7 +137,6 @@ crypter|FilecloudIoFolder.py|353c669|0.09
 crypter|FilecryptCc.py|a93f2d1|0.44
 crypter|FilefactoryComFolder.py|353c669|0.38
 crypter|FilerNetFolder.py|353c669|0.48
-crypter|FileserveComFolder.py|353c669|0.18
 crypter|FilestubeCom.py|353c669|0.11
 crypter|FiletramCom.py|353c669|0.08
 crypter|FourChanOrg.py|353c669|0.38
@@ -271,7 +269,6 @@ hoster|FilepupNet.py|353c669|0.08
 hoster|FilerNet.py|0f59ac1|0.30
 hoster|FilerioCom.py|9a07a94|0.14
 hoster|FilesMailRu.py|353c669|0.41
-hoster|FileserveCom.py|353c669|0.71
 hoster|FileuploadCom.py|c033f0e|0.02
 hoster|FileuploadNet.py|353c669|0.07
 hoster|FiregetCom.py|3bec6f9|0.01
@@ -462,6 +459,7 @@ accounts|DdlTo.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
+accounts|FileserveCom.py
 accounts|FreeWayMe.py
 accounts|GetTwentyFourOrg
 accounts|HotfileCom.py
@@ -512,6 +510,7 @@ crypter|DownloadVimeoCom.py
 crypter|DuckCryptInfo.py
 crypter|DuploadOrgFolder.py
 crypter|FilebeerInfoFolder.py
+crypter|FileserveComFolder.py
 crypter|FilesonicComFolder.py
 crypter|FiredriveComFolder.py
 crypter|Go4Up.py
@@ -641,6 +640,7 @@ hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py
 hoster|FileParadoxIn.py
+hoster|FileserveCom.py
 hoster|FileshareInUa.py
 hoster|FilesonicCom.py
 hoster|FilezyNet.py

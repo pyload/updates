@@ -9,6 +9,7 @@ accounts|DdlTo.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
+accounts|FileserveCom.py
 accounts|FreeWayMe.py
 accounts|GetTwentyFourOrg
 accounts|HotfileCom.py
@@ -59,6 +60,7 @@ crypter|DownloadVimeoCom.py
 crypter|DuckCryptInfo.py
 crypter|DuploadOrgFolder.py
 crypter|FilebeerInfoFolder.py
+crypter|FileserveComFolder.py
 crypter|FilesonicComFolder.py
 crypter|FiredriveComFolder.py
 crypter|Go4Up.py
@@ -188,6 +190,7 @@ hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py
 hoster|FileParadoxIn.py
+hoster|FileserveCom.py
 hoster|FileshareInUa.py
 hoster|FilesonicCom.py
 hoster|FilezyNet.py
