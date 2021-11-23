@@ -10,6 +10,7 @@ accounts|EgoFilesCom.py
 accounts|File4safeCom.py
 accounts|FileParadoxIn.py
 accounts|FileserveCom.py
+accounts|FreakshareCom.py
 accounts|FreeWayMe.py
 accounts|GetTwentyFourOrg
 accounts|HotfileCom.py
@@ -195,6 +196,7 @@ hoster|FileshareInUa.py
 hoster|FilesonicCom.py
 hoster|FilezyNet.py
 hoster|FiredriveCom.py
+hoster|FreakshareCom.py
 hoster|FreevideoCz.py
 hoster|FreeWayMe.py
 hoster|GetTwentyFourOrg
