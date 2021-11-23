@@ -239,7 +239,6 @@ hoster|DailymotionCom.py|0e65b66|0.30
 hoster|DailyuploadsNet.py|353c669|0.01
 hoster|DataHu.py|353c669|0.08
 hoster|DataportCz.py|353c669|0.47
-hoster|DateiTo.py|353c669|0.14
 hoster|DatoidCz.py|353c669|0.02
 hoster|DdownloadCom.py|dc5c055|0.09
 hoster|DebridItaliaCom.py|48b0504|0.26
@@ -630,6 +629,7 @@ hoster|CloudzerNet.py
 hoster|CrockoCom.py
 hoster|CyberlockerCh.py
 hoster|DatafileCom.py
+hoster|DateiTo.py
 hoster|DdlstorageCom.py
 hoster|DdlTo.py
 hoster|DodanePl.py

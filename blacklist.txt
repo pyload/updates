@@ -175,6 +175,7 @@ hoster|CloudzerNet.py
 hoster|CrockoCom.py
 hoster|CyberlockerCh.py
 hoster|DatafileCom.py
+hoster|DateiTo.py
 hoster|DdlstorageCom.py
 hoster|DdlTo.py
 hoster|DodanePl.py
