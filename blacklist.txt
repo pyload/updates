@@ -49,6 +49,7 @@ crypter|BigfileToFolder.py
 crypter|BitshareComFolder.py
 crypter|C1NeonCom.py
 crypter|C1neonCom.py
+crypter|CrockoComFolder.py
 crypter|CryptItCom.py
 crypter|DailymotionBatch.py
 crypter|DdlstorageComFolder.py
@@ -170,6 +171,7 @@ hoster|BitshareCom.py
 hoster|BoltsharingCom.py
 hoster|CatShareNet.py
 hoster|CloudzerNet.py
+hoster|CrockoCom.py
 hoster|CyberlockerCh.py
 hoster|DdlstorageCom.py
 hoster|DdlTo.py
