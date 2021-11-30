@@ -192,6 +192,7 @@ hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py
 hoster|FileParadoxIn.py
+hoster|FilepostCom.py
 hoster|FileserveCom.py
 hoster|FileshareInUa.py
 hoster|FilesonicCom.py

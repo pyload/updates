@@ -262,7 +262,6 @@ hoster|FilefoxCc.py|a766412|0.01
 hoster|FilejokerNet.py|0c72ab1|0.11
 hoster|FilejungleCom.py|353c669|0.57
 hoster|FileomCom.py|353c669|0.11
-hoster|FilepostCom.py|353c669|0.41
 hoster|FilepupNet.py|353c669|0.08
 hoster|FilerNet.py|0f59ac1|0.30
 hoster|FilerioCom.py|9a07a94|0.14
@@ -635,6 +634,7 @@ hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py
 hoster|FileParadoxIn.py
+hoster|FilepostCom.py
 hoster|FileserveCom.py
 hoster|FileshareInUa.py
 hoster|FilesonicCom.py
