@@ -267,7 +267,7 @@ hoster|FilerNet.py|2f94275|0.31
 hoster|FilerioCom.py|9a07a94|0.14
 hoster|FilesMailRu.py|353c669|0.41
 hoster|FileuploadCom.py|c033f0e|0.02
-hoster|FileuploadNet.py|353c669|0.07
+hoster|FileuploadNet.py|5f03613|0.08
 hoster|FiregetCom.py|2d43b99|0.02
 hoster|FistfastNet.py|353c669|0.01
 hoster|FlyFilesNet.py|353c669|0.15
