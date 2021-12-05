@@ -259,7 +259,7 @@ hoster|FilecloudIo.py|2f94275|0.17
 hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
 hoster|FilefoxCc.py|2f94275|0.02
-hoster|FilejokerNet.py|2f94275|0.12
+hoster|FilejokerNet.py|6c56977|0.13
 hoster|FilejungleCom.py|353c669|0.57
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepupNet.py|353c669|0.08
