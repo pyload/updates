@@ -26,7 +26,6 @@ accounts|FileboomMe.py|13919ba|0.04
 accounts|FilecloudIo.py|353c669|0.13
 accounts|FilefactoryCom.py|353c669|0.23
 accounts|FilejokerNet.py|1f29cd1|0.04
-accounts|FilejungleCom.py|353c669|0.19
 accounts|FileomCom.py|353c669|0.07
 accounts|FilerNet.py|353c669|0.13
 accounts|FilerioCom.py|353c669|0.08
@@ -260,7 +259,6 @@ hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
 hoster|FilefoxCc.py|2f94275|0.02
 hoster|FilejokerNet.py|6c56977|0.13
-hoster|FilejungleCom.py|353c669|0.57
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepupNet.py|353c669|0.08
 hoster|FilerNet.py|2f94275|0.31
@@ -450,6 +448,7 @@ accounts|DdlstorageCom.py
 accounts|DdlTo.py
 accounts|EgoFilesCom.py
 accounts|File4safeCom.py
+accounts|FilejungleCom.py
 accounts|FileParadoxIn.py
 accounts|FileserveCom.py
 accounts|FreakshareCom.py
@@ -633,6 +632,7 @@ hoster|ExtabitCom.py
 hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py
+hoster|FilejungleCom.py
 hoster|FileParadoxIn.py
 hoster|FilepostCom.py
 hoster|FileserveCom.py
