@@ -184,7 +184,7 @@ hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|1f29cd1|0.22
 hooks|AppriseNotify.py|9be673d|0.01
 hooks|BypassCaptcha.py|5e73885|0.14
-hooks|Captcha9Kw.py|2377914|0.42
+hooks|Captcha9Kw.py|925eda7|0.43
 hooks|Checksum.py|1f29cd1|0.35
 hooks|ClickNLoad.py|353c669|0.61
 hooks|CloudFlareDdos.py|2f94275|0.17
