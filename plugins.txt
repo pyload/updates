@@ -31,7 +31,7 @@ accounts|FilerNet.py|353c669|0.13
 accounts|FilerioCom.py|353c669|0.08
 accounts|FilesMailRu.py|353c669|0.18
 accounts|FourSharedCom.py|353c669|0.13
-accounts|FshareVn.py|4b905ce|0.26
+accounts|FshareVn.py|dac8836|0.27
 accounts|Ftp.py|353c669|0.07
 accounts|GetTwentyFourOrg.py|edfd623|0.04
 accounts|HellshareCz.py|353c669|0.26
@@ -270,7 +270,7 @@ hoster|FiregetCom.py|2d43b99|0.02
 hoster|FistfastNet.py|353c669|0.01
 hoster|FlyFilesNet.py|353c669|0.15
 hoster|FourSharedCom.py|353c669|0.37
-hoster|FshareVn.py|13919ba|0.35
+hoster|FshareVn.py|dac8836|0.36
 hoster|Ftp.py|353c669|0.61
 hoster|GamefrontCom.py|353c669|0.13
 hoster|GetTwentyFourOrg.py|edfd623|0.04
