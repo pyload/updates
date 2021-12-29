@@ -429,7 +429,7 @@ internal|OCR.py|b0a1bdd|0.28
 internal|Plugin.py|65c0dd1|0.77
 internal|SevenZip.py|1f29cd1|0.32
 internal|SimpleCrypter.py|13919ba|0.97
-internal|SimpleHoster.py|98d8554|2.36
+internal|SimpleHoster.py|ce198d2|2.37
 internal|UnRar.py|1f29cd1|1.44
 internal|UnTar.py|4860edf|0.05
 internal|UnZip.py|1f29cd1|1.27
