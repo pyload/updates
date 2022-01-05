@@ -106,7 +106,7 @@ accounts|ZeveraCom.py|9ea3c80|0.38
 captcha|CircleCaptcha.py|353c669|1.11
 captcha|CoinHive.py|13defae|0.01
 captcha|HCaptcha.py|7c14105|0.02
-captcha|ReCaptcha.py|2377914|0.46
+captcha|ReCaptcha.py|ebead80|0.47
 captcha|SolveMedia.py|353c669|0.22
 captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
