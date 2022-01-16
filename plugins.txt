@@ -393,6 +393,7 @@ hoster|VidPlayNet.py|353c669|0.11
 hoster|VimeoCom.py|13919ba|0.14
 hoster|VkCom.py|353c669|0.06
 hoster|WebshareCz.py|13919ba|0.26
+hoster|WetransferCom.py|5bd80fc|0.01
 hoster|WrzucTo.py|353c669|0.09
 hoster|XDCC.py|04d4225|0.53
 hoster|XFileSharing.py|ce80af2|0.67
