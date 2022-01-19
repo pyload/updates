@@ -434,7 +434,7 @@ internal|SimpleHoster.py|5864d8a|2.39
 internal|UnRar.py|1f29cd1|1.44
 internal|UnTar.py|4860edf|0.05
 internal|UnZip.py|1f29cd1|1.27
-internal|XFSAccount.py|fa2103d|0.62
+internal|XFSAccount.py|4f70abc|0.63
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|2f94275|0.86
 internal|misc.py|4624c67|0.65
