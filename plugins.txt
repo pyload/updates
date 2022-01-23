@@ -225,6 +225,7 @@ hoster|AnonfileCom.py|631c8c8|0.02
 hoster|BasePlugin.py|353c669|0.52
 hoster|BasketbuildCom.py|353c669|0.08
 hoster|BezvadataCz.py|353c669|0.35
+hoster|ClicknuploadCc.py|a4c6fac|0.01
 hoster|ClicknuploadCom.py|353c669|0.06
 hoster|CloudMailRu.py|13919ba|0.05
 hoster|CloudzillaTo.py|353c669|0.13
