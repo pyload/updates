@@ -431,12 +431,12 @@ internal|Notifier.py|1f29cd1|0.12
 internal|OCR.py|b0a1bdd|0.28
 internal|Plugin.py|65c0dd1|0.77
 internal|SevenZip.py|1f29cd1|0.32
-internal|SimpleCrypter.py|13919ba|0.97
+internal|SimpleCrypter.py|1dc46a7|0.98
 internal|SimpleHoster.py|51f9dae|2.40
 internal|UnRar.py|1f29cd1|1.44
 internal|UnTar.py|4860edf|0.05
 internal|UnZip.py|1f29cd1|1.27
-internal|XFSAccount.py|4f70abc|0.63
+internal|XFSAccount.py|1dc46a7|0.64
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|2f94275|0.86
 internal|misc.py|4624c67|0.65
