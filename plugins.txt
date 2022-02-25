@@ -151,7 +151,6 @@ crypter|HflixIn.py|353c669|0.12
 crypter|HoerbuchIn.py|d54e68a|0.68
 crypter|ImgurCom.py|353c669|0.61
 crypter|JDlist.py|353c669|0.05
-crypter|LinkdecrypterCom.py|353c669|0.39
 crypter|LixIn.py|353c669|0.28
 crypter|MediafireComFolder.py|353c669|0.25
 crypter|MegaCoNzFolder.py|9644c00|0.25
@@ -202,7 +201,6 @@ hooks|IRC.py|417e60c|0.28
 hooks|ImageTyperz.py|5e73885|0.15
 hooks|JustPremium.py|353c669|0.27
 hooks|LinkFilter.py|4977508|0.16
-hooks|LinkdecrypterComHook.py|353c669|1.11
 hooks|LogMarker.py|353c669|0.08
 hooks|MergeFiles.py|9edb6e6|0.24
 hooks|MultiHome.py|353c669|0.21
@@ -517,6 +515,7 @@ crypter|ImgurComAlbum.py
 crypter|JunocloudMeFolder.py
 crypter|LetitbitNetFolder.py
 crypter|LinkCryptWs.py
+crypter|LinkdecrypterCom.py
 crypter|LinkSaveIn.py
 crypter|LofCc.py
 crypter|MBLinkInfo.py
@@ -564,6 +563,7 @@ hooks|HighWayMe.py
 hooks|HighWayMeHook.py
 hooks|IRCInterface.py
 hooks|LinkdecrypterCom.py
+hooks|LinkdecrypterComHook.py
 hooks|LinksnappyCom.py
 hooks|LinksnappyComHook.py
 hooks|MegaDebrid.py

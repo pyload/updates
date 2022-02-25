@@ -74,6 +74,7 @@ crypter|ImgurComAlbum.py
 crypter|JunocloudMeFolder.py
 crypter|LetitbitNetFolder.py
 crypter|LinkCryptWs.py
+crypter|LinkdecrypterCom.py
 crypter|LinkSaveIn.py
 crypter|LofCc.py
 crypter|MBLinkInfo.py
@@ -121,6 +122,7 @@ hooks|HighWayMe.py
 hooks|HighWayMeHook.py
 hooks|IRCInterface.py
 hooks|LinkdecrypterCom.py
+hooks|LinkdecrypterComHook.py
 hooks|LinksnappyCom.py
 hooks|LinksnappyComHook.py
 hooks|MegaDebrid.py
