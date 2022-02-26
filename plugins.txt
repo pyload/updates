@@ -194,8 +194,8 @@ hooks|DiscordNotifier.py|d070dff|0.1
 hooks|DownloadScheduler.py|353c669|0.30
 hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|1f29cd1|0.14
-hooks|ExternalScripts.py|59e59ec|0.75
-hooks|ExtractArchive.py|fae647c|1.70
+hooks|ExternalScripts.py|583429e|0.76
+hooks|ExtractArchive.py|583429e|1.71
 hooks|HotFolder.py|395bc11|0.26
 hooks|IRC.py|417e60c|0.28
 hooks|ImageTyperz.py|5e73885|0.15
