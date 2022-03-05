@@ -372,7 +372,7 @@ hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TbSevenPl.py|684e1ea|0.02
 hoster|TenluaVn.py|13919ba|0.04
 hoster|TurbobitNet.py|2f94275|0.42
-hoster|TusfilesNet.py|353c669|0.18
+hoster|TusfilesNet.py|89dc3f9|0.19
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
 hoster|UlozTo.py|2f94275|1.50
