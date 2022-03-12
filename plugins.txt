@@ -58,7 +58,7 @@ accounts|MultihostersCom.py|353c669|0.08
 accounts|MultishareCz.py|b80a0c7|0.15
 accounts|MyfastfileCom.py|353c669|0.12
 accounts|NitrobitNet.py|353c669|0.01
-accounts|NitroflareCom.py|353c669|0.20
+accounts|NitroflareCom.py|239cce9|0.21
 accounts|NoPremiumPl.py|1f29cd1|0.12
 accounts|NosuploadCom.py|353c669|0.07
 accounts|NovafileCom.py|353c669|0.07
@@ -321,7 +321,7 @@ hoster|MystoreTo.py|353c669|0.08
 hoster|NarodRu.py|353c669|0.17
 hoster|NippyshareCom.py|4309267|0.01
 hoster|NitrobitNet.py|353c669|0.02
-hoster|NitroflareCom.py|51f9dae|0.38
+hoster|NitroflareCom.py|239cce9|0.39
 hoster|NoPremiumPl.py|353c669|0.13
 hoster|NofileIo.py|353c669|0.01
 hoster|NosuploadCom.py|353c669|0.38
