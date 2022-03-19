@@ -433,7 +433,7 @@ internal|Plugin.py|65c0dd1|0.77
 internal|SevenZip.py|abe1955|0.36
 internal|SimpleCrypter.py|1dc46a7|0.98
 internal|SimpleHoster.py|51f9dae|2.40
-internal|UnRar.py|1f29cd1|1.44
+internal|UnRar.py|3b03db3|1.45
 internal|UnTar.py|4860edf|0.05
 internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|1dc46a7|0.64
