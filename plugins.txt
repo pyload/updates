@@ -430,7 +430,7 @@ internal|MultiHoster.py|13919ba|0.71
 internal|Notifier.py|1f29cd1|0.12
 internal|OCR.py|b0a1bdd|0.28
 internal|Plugin.py|65c0dd1|0.77
-internal|SevenZip.py|abe1955|0.36
+internal|SevenZip.py|14bb793|0.37
 internal|SimpleCrypter.py|1dc46a7|0.98
 internal|SimpleHoster.py|51f9dae|2.40
 internal|UnRar.py|3b03db3|1.45
