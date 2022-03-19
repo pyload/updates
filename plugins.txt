@@ -196,7 +196,7 @@ hooks|DownloadScheduler.py|353c669|0.30
 hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|1f29cd1|0.14
 hooks|ExternalScripts.py|583429e|0.76
-hooks|ExtractArchive.py|583429e|1.71
+hooks|ExtractArchive.py|6cd221c|1.72
 hooks|HotFolder.py|395bc11|0.26
 hooks|IRC.py|417e60c|0.28
 hooks|ImageTyperz.py|5e73885|0.15
