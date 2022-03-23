@@ -441,7 +441,6 @@ internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|2f94275|0.86
 internal|misc.py|4624c67|0.65
 BLACKLIST
-accounts|AcciodebridCom.py
 accounts|BayfilesCom.py
 accounts|BigfileTo.py
 accounts|BillionuploadsCom.py
@@ -616,7 +615,6 @@ hooks|XFileSharingPro.py
 hooks|XMPPInterface.py
 hooks|ZeveraCom.py
 hooks|ZeveraComHook.py
-hoster|AcciodebridCom.py
 hoster|BayfilesCom.py
 hoster|BigfileTo.py
 hoster|BillionuploadsCom.py
