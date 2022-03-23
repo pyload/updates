@@ -381,7 +381,7 @@ hoster|UnibytesCom.py|353c669|0.21
 hoster|UpfileVn.py|353c669|0.01
 hoster|UpleaCom.py|353c669|0.21
 hoster|UploadedTo.py|13919ba|1.11
-hoster|UploadgigCom.py|885a5d8|0.09
+hoster|UploadgigCom.py|a953b30|0.10
 hoster|UploadheroCom.py|353c669|0.23
 hoster|UploadrocketNet.py|353c669|0.02
 hoster|UploadshipCom.py|c033f0e|0.02
