@@ -321,7 +321,7 @@ hoster|MystoreTo.py|353c669|0.08
 hoster|NarodRu.py|353c669|0.17
 hoster|NippyshareCom.py|4309267|0.01
 hoster|NitrobitNet.py|353c669|0.02
-hoster|NitroflareCom.py|239cce9|0.39
+hoster|NitroflareCom.py|fbbddd3|0.40
 hoster|NoPremiumPl.py|353c669|0.13
 hoster|NofileIo.py|353c669|0.01
 hoster|NosuploadCom.py|353c669|0.38
