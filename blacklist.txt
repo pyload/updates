@@ -1,4 +1,3 @@
-accounts|AcciodebridCom.py
 accounts|BayfilesCom.py
 accounts|BigfileTo.py
 accounts|BillionuploadsCom.py
@@ -173,7 +172,6 @@ hooks|XFileSharingPro.py
 hooks|XMPPInterface.py
 hooks|ZeveraCom.py
 hooks|ZeveraComHook.py
-hoster|AcciodebridCom.py
 hoster|BayfilesCom.py
 hoster|BigfileTo.py
 hoster|BillionuploadsCom.py
