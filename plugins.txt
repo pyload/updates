@@ -21,7 +21,7 @@ accounts|EuroshareEu.py|353c669|0.12
 accounts|ExashareCom.py|353c669|0.06
 accounts|ExtmatrixCom.py|542f5ce|0.01
 accounts|FastixRu.py|1f29cd1|0.13
-accounts|FastshareCz.py|ca8cd95|0.17
+accounts|FastshareCz.py|2c3151c|0.18
 accounts|File4SafeCom.py|353c669|0.11
 accounts|FileboomMe.py|13919ba|0.04
 accounts|FilecloudIo.py|353c669|0.13
