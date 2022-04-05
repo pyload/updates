@@ -183,7 +183,7 @@ crypter|YoutubeComFolder.py|1f29cd1|1.11
 hooks|AntiCaptcha.py|2377914|0.02
 hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|1f29cd1|0.22
-hooks|AppriseNotify.py|9be673d|0.01
+hooks|AppriseNotify.py|6bb2586|0.02
 hooks|BypassCaptcha.py|5e73885|0.14
 hooks|Captcha9Kw.py|36a10e0|0.44
 hooks|Checksum.py|843ca9d|0.36
@@ -191,7 +191,7 @@ hooks|ClickNLoad.py|353c669|0.61
 hooks|CloudFlareDdos.py|2f94275|0.17
 hooks|DeathByCaptcha.py|1f29cd1|0.17
 hooks|DeleteFinished.py|353c669|1.19
-hooks|DiscordNotifier.py|d070dff|0.1
+hooks|DiscordNotifier.py|6bb2586|0.11
 hooks|DownloadScheduler.py|353c669|0.30
 hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|1f29cd1|0.14
@@ -205,8 +205,8 @@ hooks|LinkFilter.py|4977508|0.16
 hooks|LogMarker.py|353c669|0.08
 hooks|MergeFiles.py|9edb6e6|0.24
 hooks|MultiHome.py|353c669|0.21
-hooks|PushBullet.py|353c669|0.05
-hooks|PushOver.py|353c669|0.07
+hooks|PushBullet.py|6bb2586|0.06
+hooks|PushOver.py|6bb2586|0.08
 hooks|RestartFailed.py|353c669|1.65
 hooks|SkipRev.py|353c669|0.38
 hooks|TORRENT.py|6fe564c|0.07
@@ -214,7 +214,7 @@ hooks|TransmissionRPC.py|353c669|0.19
 hooks|UnSkipOnFail.py|353c669|0.14
 hooks|UpdateManager.py|7a80308|1.21
 hooks|UserAgentSwitcher.py|49f61c1|0.18
-hooks|WindowsPhoneNotify.py|353c669|0.18
+hooks|WindowsPhoneNotify.py|6bb2586|0.19
 hooks|XFileSharing.py|353c669|0.56
 hooks|XMPP.py|417e60c|0.22
 hoster|AccioDebridCom.py|362448f|0.02
@@ -427,7 +427,7 @@ internal|Hoster.py|9964619|0.81
 internal|MultiAccount.py|6dd7ade|0.24
 internal|MultiCrypter.py|b0a1bdd|0.11
 internal|MultiHoster.py|13919ba|0.71
-internal|Notifier.py|1f29cd1|0.12
+internal|Notifier.py|6bb2586|0.13
 internal|OCR.py|b0a1bdd|0.28
 internal|Plugin.py|65c0dd1|0.77
 internal|SevenZip.py|8db8b55|0.38
