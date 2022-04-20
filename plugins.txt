@@ -219,7 +219,7 @@ hooks|XFileSharing.py|353c669|0.56
 hooks|XMPP.py|417e60c|0.22
 hoster|AccioDebridCom.py|362448f|0.02
 hoster|AlfafileNet.py|d5123f7|0.07
-hoster|AlldebridCom.py|7d0c639|0.62
+hoster|AlldebridCom.py|983d2f9|0.63
 hoster|AndroidfilehostCom.py|05a5d37|0.07
 hoster|AnonfileCom.py|631c8c8|0.02
 hoster|BasePlugin.py|353c669|0.52
