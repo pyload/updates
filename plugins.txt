@@ -254,7 +254,7 @@ hoster|FastixRu.py|353c669|0.22
 hoster|FastshareCz.py|492307b|0.45
 hoster|FileAl.py|f25b15c|0.01
 hoster|FileSharkPl.py|353c669|0.22
-hoster|FileStoreTo.py|0e17c83|0.13
+hoster|FileStoreTo.py|cdc4196|0.14
 hoster|FileboomMe.py|13919ba|0.12
 hoster|FilecloudIo.py|2f94275|0.17
 hoster|FiledropperCom.py|353c669|0.06
