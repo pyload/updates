@@ -295,7 +295,7 @@ hoster|JunocloudMe.py|353c669|0.11
 hoster|KatfileCom.py|66e6a47|0.03
 hoster|Keep2ShareCc.py|13919ba|0.46
 hoster|KingfilesNet.py|353c669|0.13
-hoster|KrakenfilesCom.py|6f3739d|0.01
+hoster|KrakenfilesCom.py|7d4b45d|0.02
 hoster|LeechThreeHundreedSixtyCom.py|73f514f|0.01
 hoster|LetsuploadCc.py|af9bbbc|0.02
 hoster|LetsuploadCo.py|1f29cd1|0.03
