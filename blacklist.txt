@@ -172,7 +172,6 @@ hooks|XFileSharingPro.py
 hooks|XMPPInterface.py
 hooks|ZeveraCom.py
 hooks|ZeveraComHook.py
-hoster|BayfilesCom.py
 hoster|BigfileTo.py
 hoster|BillionuploadsCom.py
 hoster|BitshareCom.py
