@@ -224,7 +224,7 @@ hoster|AndroidfilehostCom.py|05a5d37|0.07
 hoster|AnonfileCom.py|631c8c8|0.02
 hoster|BasePlugin.py|353c669|0.52
 hoster|BasketbuildCom.py|353c669|0.08
-hoster|BayfilesCom.py|550a2f1|0.01
+hoster|BayfilesCom.py|2775a90|0.02
 hoster|BezvadataCz.py|353c669|0.35
 hoster|ClicknuploadCc.py|a4c6fac|0.01
 hoster|ClicknuploadCom.py|353c669|0.06
