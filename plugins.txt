@@ -4,6 +4,7 @@ type|name|changeset|version
 accounts|AccioDebridCom.py|362448f|0.02
 accounts|AlldebridCom.py|dd3d610|0.44
 accounts|AniStreamCom.py|353c669|0.05
+accounts|ArchiveOrg.py|145f8c1|0.01
 accounts|BackinNet.py|353c669|0.06
 accounts|CloudsharesNet.py|353c669|0.03
 accounts|CloudsixMe.py|353c669|0.05
@@ -117,6 +118,7 @@ container|RSDF.py|1f29cd1|0.38
 container|TORRENT.py|6fe564c|0.05
 container|TXT.py|1f29cd1|0.22
 crypter|AlldebridComTorrent.py|6d0ccf6|0.02
+crypter|ArchiveOrgFolder.py|145f8c1|0.01
 crypter|ChipDe.py|cf47157|0.17
 crypter|CloudMailRuFolder.py|a126137|0.03
 crypter|CloudzillaToFolder.py|353c669|0.11
@@ -222,6 +224,7 @@ hoster|AlfafileNet.py|d5123f7|0.07
 hoster|AlldebridCom.py|983d2f9|0.63
 hoster|AndroidfilehostCom.py|05a5d37|0.07
 hoster|AnonfileCom.py|631c8c8|0.02
+hoster|ArchiveOrg.py|145f8c1|0.01
 hoster|BasePlugin.py|353c669|0.52
 hoster|BasketbuildCom.py|353c669|0.08
 hoster|BayfilesCom.py|2775a90|0.02
