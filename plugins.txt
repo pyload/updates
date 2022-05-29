@@ -401,7 +401,7 @@ hoster|VkCom.py|353c669|0.06
 hoster|WebshareCz.py|13919ba|0.26
 hoster|WetransferCom.py|5bd80fc|0.01
 hoster|WrzucTo.py|353c669|0.09
-hoster|XDCC.py|5f5ff00|0.54
+hoster|XDCC.py|827157f|0.55
 hoster|XFileSharing.py|ce80af2|0.67
 hoster|XHamsterCom.py|353c669|0.19
 hoster|XVideosCom.py|24782b8|0.17
