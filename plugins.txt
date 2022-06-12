@@ -146,6 +146,7 @@ crypter|FreetexthostCom.py|353c669|0.06
 crypter|FshareVnFolder.py|6ee8c37|0.11
 crypter|FurLy.py|353c669|0.06
 crypter|Go4UpCom.py|353c669|0.19
+crypter|GofileIoFolder.py|2a5d4a5|0.01
 crypter|GooGl.py|92d50f6|0.09
 crypter|GoogledriveComDereferer.py|353c669|0.01
 crypter|GoogledriveComFolder.py|353c669|0.12
@@ -281,6 +282,7 @@ hoster|Ftp.py|353c669|0.61
 hoster|GamefrontCom.py|353c669|0.13
 hoster|GetTwentyFourOrg.py|edfd623|0.04
 hoster|GigapetaCom.py|353c669|0.09
+hoster|GofileIo.py|2a5d4a5|0.01
 hoster|GooIm.py|353c669|0.09
 hoster|GoogledriveCom.py|21abb03|0.32
 hoster|HearthisAt.py|021228b|0.03
