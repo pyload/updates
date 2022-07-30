@@ -127,7 +127,7 @@ crypter|CryptCat.py|353c669|0.04
 crypter|CzshareComFolder.py|353c669|0.27
 crypter|DailymotionComFolder.py|1f29cd1|0.09
 crypter|DataHuFolder.py|353c669|0.13
-crypter|DebridlinkFrTorrent.py|385e94c|0.02
+crypter|DebridlinkFrTorrent.py|f929ee9|0.04
 crypter|DepositfilesComFolder.py|353c669|0.07
 crypter|Dereferer.py|b0a1bdd|0.27
 crypter|DevhostStFolder.py|353c669|0.12
