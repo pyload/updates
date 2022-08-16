@@ -14,7 +14,7 @@ accounts|CzshareCom.py|353c669|0.28
 accounts|DatoidCz.py|353c669|0.39
 accounts|DdownloadCom.py|dc5c055|0.04
 accounts|DebridItaliaCom.py|353c669|0.22
-accounts|DebridlinkFr.py|53c2e19|0.05
+accounts|DebridlinkFr.py|417b6b6|0.06
 accounts|DepositfilesCom.py|353c669|0.39
 accounts|DownsterNet.py|131adc8|0.04
 accounts|EasybytezCom.py|ade2ecc|0.20
