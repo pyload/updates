@@ -24,6 +24,7 @@ accounts|ExtmatrixCom.py|542f5ce|0.01
 accounts|FastixRu.py|1f29cd1|0.13
 accounts|FastshareCz.py|2c3151c|0.18
 accounts|File4SafeCom.py|353c669|0.11
+accounts|FileStoreTo.py|d99fb60|0.01
 accounts|FileboomMe.py|13919ba|0.04
 accounts|FilecloudIo.py|353c669|0.13
 accounts|FilefactoryCom.py|353c669|0.23
@@ -259,7 +260,7 @@ hoster|FastixRu.py|353c669|0.22
 hoster|FastshareCz.py|492307b|0.45
 hoster|FileAl.py|f25b15c|0.01
 hoster|FileSharkPl.py|353c669|0.22
-hoster|FileStoreTo.py|cdc4196|0.14
+hoster|FileStoreTo.py|d99fb60|0.15
 hoster|FileboomMe.py|13919ba|0.12
 hoster|FilecloudIo.py|2f94275|0.17
 hoster|FiledropperCom.py|353c669|0.06
