@@ -136,7 +136,7 @@ crypter|DlProtectCom.py|195e725|0.13
 crypter|EasybytezComFolder.py|ade2ecc|0.19
 crypter|EmbeduploadCom.py|353c669|0.08
 crypter|FilecloudIoFolder.py|353c669|0.09
-crypter|FilecryptCc.py|2f94275|0.45
+crypter|FilecryptCc.py|e61e110|0.46
 crypter|FilefactoryComFolder.py|353c669|0.38
 crypter|FilerNetFolder.py|353c669|0.48
 crypter|FilestubeCom.py|353c669|0.11
