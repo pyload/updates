@@ -105,6 +105,7 @@ accounts|UptoboxCom.py|da1250e|0.25
 accounts|VidPlayNet.py|353c669|0.07
 accounts|WebshareCz.py|13919ba|0.18
 accounts|WorldbytezCom.py|353c669|0.06
+accounts|WrzucajplikiPl.py|086aa47|0.01
 accounts|YibaishiwuCom.py|353c669|0.09
 accounts|ZeveraCom.py|9ea3c80|0.38
 captcha|CircleCaptcha.py|353c669|1.11
@@ -404,6 +405,7 @@ hoster|VkCom.py|353c669|0.06
 hoster|WebshareCz.py|13919ba|0.26
 hoster|WetransferCom.py|5bd80fc|0.01
 hoster|WrzucTo.py|353c669|0.09
+hoster|WrzucajplikiPl.py|086aa47|0.01
 hoster|XDCC.py|827157f|0.55
 hoster|XFileSharing.py|ce80af2|0.67
 hoster|XHamsterCom.py|353c669|0.19
