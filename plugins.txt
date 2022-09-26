@@ -121,7 +121,7 @@ container|TORRENT.py|6fe564c|0.05
 container|TXT.py|1f29cd1|0.22
 crypter|AlldebridComTorrent.py|6d0ccf6|0.02
 crypter|ArchiveOrgFolder.py|145f8c1|0.01
-crypter|ChipDe.py|cf47157|0.17
+crypter|ChipDe.py|e44dc83|0.18
 crypter|CloudMailRuFolder.py|a126137|0.03
 crypter|CloudzillaToFolder.py|353c669|0.11
 crypter|CriptTo.py|13919ba|0.05
