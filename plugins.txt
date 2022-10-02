@@ -202,7 +202,7 @@ hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|1f29cd1|0.14
 hooks|ExternalScripts.py|583429e|0.76
 hooks|ExtractArchive.py|6cd221c|1.72
-hooks|HotFolder.py|395bc11|0.26
+hooks|HotFolder.py|90ca538|0.27
 hooks|IRC.py|417e60c|0.28
 hooks|ImageTyperz.py|5e73885|0.15
 hooks|JustPremium.py|353c669|0.27
