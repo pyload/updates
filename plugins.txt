@@ -447,7 +447,7 @@ internal|UnTar.py|4860edf|0.05
 internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|1dc46a7|0.64
 internal|XFSCrypter.py|353c669|0.26
-internal|XFSHoster.py|2f94275|0.86
+internal|XFSHoster.py|796683c|0.87
 internal|misc.py|1422988|0.66
 BLACKLIST
 accounts|BayfilesCom.py
