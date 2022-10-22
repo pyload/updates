@@ -239,7 +239,7 @@ hoster|CloudzillaTo.py|353c669|0.13
 hoster|CosmoboxOrg.py|59e19ed|0.03
 hoster|CramitIn.py|353c669|0.13
 hoster|CzshareCom.py|353c669|1.11
-hoster|DailymotionCom.py|1ded751|0.31
+hoster|DailymotionCom.py|fec47cb|0.32
 hoster|DailyuploadsNet.py|353c669|0.01
 hoster|DataHu.py|353c669|0.08
 hoster|DataportCz.py|353c669|0.47
