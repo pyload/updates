@@ -398,7 +398,7 @@ hoster|UptoboxCom.py|a9a16dc|0.38
 hoster|UserscloudCom.py|96f6fb7|0.10
 hoster|UseruploadNet.py|c033f0e|0.02
 hoster|VeehdCom.py|353c669|0.29
-hoster|VeohCom.py|3e0e56c|0.29
+hoster|VeohCom.py|4307a26|0.30
 hoster|VidPlayNet.py|353c669|0.11
 hoster|VimeoCom.py|13919ba|0.14
 hoster|VkCom.py|353c669|0.06
