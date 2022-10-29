@@ -177,6 +177,7 @@ hoster|BillionuploadsCom.py
 hoster|BitshareCom.py
 hoster|BoltsharingCom.py
 hoster|CatShareNet.py
+hoster|ClicknuploadCc.py
 hoster|CloudzerNet.py
 hoster|CrockoCom.py
 hoster|CyberlockerCh.py
