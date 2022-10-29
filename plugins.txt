@@ -274,7 +274,7 @@ hoster|FilerioCom.py|9a07a94|0.14
 hoster|FilesMailRu.py|353c669|0.41
 hoster|FileuploadCom.py|c033f0e|0.02
 hoster|FileuploadNet.py|5f03613|0.08
-hoster|FiregetCom.py|919d12b|0.03
+hoster|FiregetCom.py|2333d1c|0.04
 hoster|FistfastNet.py|353c669|0.01
 hoster|FlyFilesNet.py|353c669|0.15
 hoster|FourSharedCom.py|353c669|0.37
@@ -404,7 +404,7 @@ hoster|VkCom.py|353c669|0.06
 hoster|WebshareCz.py|13919ba|0.26
 hoster|WetransferCom.py|5bd80fc|0.01
 hoster|WrzucTo.py|353c669|0.09
-hoster|WrzucajplikiPl.py|8995155|0.02
+hoster|WrzucajplikiPl.py|2333d1c|0.03
 hoster|XDCC.py|827157f|0.55
 hoster|XFileSharing.py|ce80af2|0.67
 hoster|XHamsterCom.py|353c669|0.19
@@ -447,7 +447,7 @@ internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|1dc46a7|0.64
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|9303edc|0.88
-internal|misc.py|1422988|0.66
+internal|misc.py|2333d1c|0.67
 BLACKLIST
 accounts|BayfilesCom.py
 accounts|BigfileTo.py
