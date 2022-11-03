@@ -440,7 +440,7 @@ internal|OCR.py|b0a1bdd|0.28
 internal|Plugin.py|65c0dd1|0.77
 internal|SevenZip.py|dbf1273|0.39
 internal|SimpleCrypter.py|1dc46a7|0.98
-internal|SimpleHoster.py|51f9dae|2.40
+internal|SimpleHoster.py|c6d05ae|2.41
 internal|UnRar.py|8db8b55|1.46
 internal|UnTar.py|a2011d4|0.06
 internal|UnZip.py|1f29cd1|1.27
