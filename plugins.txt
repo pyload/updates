@@ -98,7 +98,6 @@ accounts|TwojlimitPl.py|353c669|0.01
 accounts|UlozTo.py|3530638|0.35
 accounts|UpleaCom.py|353c669|0.02
 accounts|UploadcCom.py|353c669|0.07
-accounts|UploadedTo.py|58b91e4|0.47
 accounts|UploadgigCom.py|2f94275|0.05
 accounts|UploadheroCom.py|353c669|0.29
 accounts|UpstoreNet.py|f27b455|0.01
@@ -182,7 +181,6 @@ crypter|TnyCz.py|353c669|0.09
 crypter|TurbobitNetFolder.py|353c669|0.11
 crypter|TusfilesNetFolder.py|353c669|0.17
 crypter|UlozToFolder.py|353c669|0.27
-crypter|UploadedToFolder.py|353c669|0.49
 crypter|XFileSharingFolder.py|b0a1bdd|0.26
 crypter|XupPl.py|353c669|0.16
 crypter|YoutubeComFolder.py|1f29cd1|1.11
@@ -389,7 +387,6 @@ hoster|UloziskoSk.py|353c669|0.31
 hoster|UnibytesCom.py|353c669|0.21
 hoster|UpfileVn.py|353c669|0.01
 hoster|UpleaCom.py|353c669|0.21
-hoster|UploadedTo.py|13919ba|1.11
 hoster|UploadgigCom.py|a953b30|0.10
 hoster|UploadheroCom.py|353c669|0.23
 hoster|UploadrocketNet.py|353c669|0.02
@@ -486,6 +483,7 @@ accounts|ShareRapidCom.py
 accounts|StahnuTo.py
 accounts|UnrestrictLi.py
 accounts|UploadableCh.py
+accounts|UploadedTo.py
 accounts|UploadingCom.py
 accounts|Vipleech4uCom.py
 accounts|WarserverCz.py
@@ -551,6 +549,7 @@ crypter|StealthTo.py
 crypter|TORRENT.py
 crypter|TrailerzoneInfo.py
 crypter|UploadableChFolder.py
+crypter|UploadedToFolder.py
 crypter|WiiReloadedOrg.py
 crypter|WuploadComFolder.py
 crypter|XFileSharingProFolder.py
@@ -721,6 +720,7 @@ hoster|UgouploadNet.py
 hoster|UnrestrictLi.py
 hoster|UploadableCh.py
 hoster|UploadboxCom.py
+hoster|UploadedTo.py
 hoster|UploadhereCom.py
 hoster|UploadingCom.py
 hoster|UploadkingCom.py

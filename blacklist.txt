@@ -33,6 +33,7 @@ accounts|ShareRapidCom.py
 accounts|StahnuTo.py
 accounts|UnrestrictLi.py
 accounts|UploadableCh.py
+accounts|UploadedTo.py
 accounts|UploadingCom.py
 accounts|Vipleech4uCom.py
 accounts|WarserverCz.py
@@ -98,6 +99,7 @@ crypter|StealthTo.py
 crypter|TORRENT.py
 crypter|TrailerzoneInfo.py
 crypter|UploadableChFolder.py
+crypter|UploadedToFolder.py
 crypter|WiiReloadedOrg.py
 crypter|WuploadComFolder.py
 crypter|XFileSharingProFolder.py
@@ -268,6 +270,7 @@ hoster|UgouploadNet.py
 hoster|UnrestrictLi.py
 hoster|UploadableCh.py
 hoster|UploadboxCom.py
+hoster|UploadedTo.py
 hoster|UploadhereCom.py
 hoster|UploadingCom.py
 hoster|UploadkingCom.py
