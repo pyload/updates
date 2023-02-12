@@ -250,6 +250,7 @@ hoster|DepositfilesCom.py|56e6516|0.65
 hoster|DevhostSt.py|353c669|0.11
 hoster|DlFreeFr.py|353c669|0.39
 hoster|DownsterNet.py|9dfd351|0.04
+hoster|DropDownload.py|119ccda|0.02
 hoster|DropboxCom.py|353c669|0.11
 hoster|EasybytezCom.py|ade2ecc|0.32
 hoster|EdiskCz.py|353c669|0.28
@@ -266,7 +267,7 @@ hoster|FilecloudIo.py|2f94275|0.17
 hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
 hoster|FilefoxCc.py|2f94275|0.02
-hoster|FilejokerNet.py|a4b3b1b|0.14
+hoster|FilejokerNet.py|119ccda|0.15
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepupNet.py|353c669|0.08
 hoster|FilerNet.py|2f94275|0.31
@@ -371,14 +372,14 @@ hoster|SizedriveCom.py|353c669|0.07
 hoster|SmoozedCom.py|353c669|0.15
 hoster|SmuleCom.py|13919ba|0.05
 hoster|SolidfilesCom.py|f98b5be|0.09
-hoster|SoundcloudCom.py|b80e14f|0.18
+hoster|SoundcloudCom.py|119ccda|0.19
 hoster|SpeedyshareCom.py|353c669|0.11
 hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
 hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TbSevenPl.py|684e1ea|0.02
 hoster|TenluaVn.py|13919ba|0.04
-hoster|TurbobitNet.py|020b072|0.43
+hoster|TurbobitNet.py|119ccda|0.44
 hoster|TusfilesNet.py|b9cb437|0.20
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
