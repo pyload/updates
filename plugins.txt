@@ -420,7 +420,7 @@ hoster|ZDF.py|13919ba|0.93
 hoster|ZbigzCom.py|6d0ccf6|0.04
 hoster|ZeveraCom.py|af37c78|0.39
 hoster|ZippyshareCom.py|df98629|0.99
-internal|Account.py|b0a1bdd|0.86
+internal|Account.py|2190e89|0.87
 internal|Addon.py|b0a1bdd|0.56
 internal|Base.py|13919ba|0.40
 internal|Captcha.py|c1a8ab1|0.60
@@ -437,7 +437,7 @@ internal|MultiCrypter.py|b0a1bdd|0.11
 internal|MultiHoster.py|12464a9|0.72
 internal|Notifier.py|6bb2586|0.13
 internal|OCR.py|b0a1bdd|0.28
-internal|Plugin.py|65c0dd1|0.77
+internal|Plugin.py|2190e89|0.78
 internal|SevenZip.py|dbf1273|0.39
 internal|SimpleCrypter.py|1dc46a7|0.98
 internal|SimpleHoster.py|c6d05ae|2.41
