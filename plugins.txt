@@ -250,7 +250,7 @@ hoster|DepositfilesCom.py|56e6516|0.65
 hoster|DevhostSt.py|353c669|0.11
 hoster|DlFreeFr.py|353c669|0.39
 hoster|DownsterNet.py|9dfd351|0.04
-hoster|DropDownload.py|119ccda|0.02
+hoster|DropDownload.py|89f4cc0|0.03
 hoster|DropboxCom.py|353c669|0.11
 hoster|EasybytezCom.py|ade2ecc|0.32
 hoster|EdiskCz.py|353c669|0.28
