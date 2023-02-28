@@ -151,7 +151,7 @@ crypter|Go4UpCom.py|353c669|0.19
 crypter|GofileIoFolder.py|2a5d4a5|0.01
 crypter|GooGl.py|92d50f6|0.09
 crypter|GoogledriveComDereferer.py|353c669|0.01
-crypter|GoogledriveComFolder.py|353c669|0.12
+crypter|GoogledriveComFolder.py|daef518|0.13
 crypter|HearthisAtFolder.py|021228b|0.01
 crypter|HflixIn.py|353c669|0.12
 crypter|HoerbuchIn.py|d54e68a|0.68
