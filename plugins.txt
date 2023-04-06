@@ -111,7 +111,7 @@ accounts|ZeveraCom.py|9ea3c80|0.38
 captcha|CircleCaptcha.py|353c669|1.11
 captcha|CoinHive.py|13defae|0.01
 captcha|HCaptcha.py|197af12|0.03
-captcha|ReCaptcha.py|7867da4|0.48
+captcha|ReCaptcha.py|d05b53a|0.49
 captcha|SolveMedia.py|353c669|0.22
 captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
