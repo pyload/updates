@@ -253,7 +253,7 @@ hoster|DownsterNet.py|9dfd351|0.04
 hoster|DropDownload.py|89f4cc0|0.03
 hoster|DropboxCom.py|353c669|0.11
 hoster|EasybytezCom.py|ade2ecc|0.32
-hoster|EasyuploadIo.py|1fdaa59|0.01
+hoster|EasyuploadIo.py|05177cb|0.02
 hoster|EdiskCz.py|353c669|0.28
 hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
