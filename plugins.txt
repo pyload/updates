@@ -288,7 +288,7 @@ hoster|GetTwentyFourOrg.py|edfd623|0.04
 hoster|GigapetaCom.py|353c669|0.09
 hoster|GofileIo.py|2a5d4a5|0.01
 hoster|GooIm.py|353c669|0.09
-hoster|GoogledriveCom.py|0677fe8|0.33
+hoster|GoogledriveCom.py|0b98c25|0.34
 hoster|HearthisAt.py|021228b|0.03
 hoster|HellshareCz.py|353c669|0.91
 hoster|HighWayMe.py|993468e|0.25
