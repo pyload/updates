@@ -12,7 +12,7 @@ accounts|CloudzillaTo.py|353c669|0.09
 accounts|CramitIn.py|353c669|0.08
 accounts|CzshareCom.py|353c669|0.28
 accounts|DatoidCz.py|353c669|0.39
-accounts|DdownloadCom.py|9c0ce8b|0.06
+accounts|DdownloadCom.py|a8f2644|0.07
 accounts|DebridItaliaCom.py|353c669|0.22
 accounts|DebridlinkFr.py|417b6b6|0.06
 accounts|DebridplanetCom.py|665a809|0.01
@@ -242,7 +242,7 @@ hoster|DailyuploadsNet.py|353c669|0.01
 hoster|DataHu.py|353c669|0.08
 hoster|DataportCz.py|353c669|0.47
 hoster|DatoidCz.py|353c669|0.02
-hoster|DdownloadCom.py|13919ba|0.10
+hoster|DdownloadCom.py|a8f2644|0.11
 hoster|DebridItaliaCom.py|48b0504|0.26
 hoster|DebridlinkFr.py|78971db|0.07
 hoster|DebridplanetCom.py|665a809|0.01
