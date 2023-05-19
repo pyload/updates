@@ -101,7 +101,7 @@ accounts|UploadcCom.py|353c669|0.07
 accounts|UploadgigCom.py|2f94275|0.05
 accounts|UploadheroCom.py|353c669|0.29
 accounts|UpstoreNet.py|f27b455|0.01
-accounts|UptoboxCom.py|da1250e|0.25
+accounts|UptoboxCom.py|379e9d5|0.26
 accounts|VidPlayNet.py|353c669|0.07
 accounts|WebshareCz.py|13919ba|0.18
 accounts|WorldbytezCom.py|353c669|0.06
@@ -395,7 +395,7 @@ hoster|UploadheroCom.py|353c669|0.23
 hoster|UploadrocketNet.py|353c669|0.02
 hoster|UploadshipCom.py|c033f0e|0.02
 hoster|UpstoreNet.py|5350ea5|0.18
-hoster|UptoboxCom.py|a9a16dc|0.38
+hoster|UptoboxCom.py|379e9d5|0.39
 hoster|UserscloudCom.py|96f6fb7|0.10
 hoster|UseruploadNet.py|c033f0e|0.02
 hoster|VeehdCom.py|353c669|0.29
