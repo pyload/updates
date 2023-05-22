@@ -375,7 +375,7 @@ hoster|SizedriveCom.py|353c669|0.07
 hoster|SmoozedCom.py|353c669|0.15
 hoster|SmuleCom.py|13919ba|0.05
 hoster|SolidfilesCom.py|f98b5be|0.09
-hoster|SoundcloudCom.py|119ccda|0.19
+hoster|SoundcloudCom.py|ba24c7d|0.20
 hoster|SpeedyshareCom.py|353c669|0.11
 hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
