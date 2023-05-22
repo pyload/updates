@@ -273,6 +273,7 @@ hoster|FilejokerNet.py|119ccda|0.15
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepupNet.py|353c669|0.08
 hoster|FilerNet.py|2f94275|0.31
+hoster|FilericeCom.py|697f252|0.01
 hoster|FilerioCom.py|9a07a94|0.14
 hoster|FilesMailRu.py|353c669|0.41
 hoster|FileuploadCom.py|c033f0e|0.02
