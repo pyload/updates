@@ -67,7 +67,6 @@ accounts|NosuploadCom.py|353c669|0.07
 accounts|NovafileCom.py|353c669|0.07
 accounts|NowVideoSx.py|353c669|0.11
 accounts|OneFichierCom.py|353c669|0.24
-accounts|OpenloadCo.py|353c669|0.03
 accounts|OverLoadMe.py|353c669|0.13
 accounts|PorntrexCom.py|271d709|0.01
 accounts|PremiumTo.py|1f29cd1|0.21
@@ -266,7 +265,6 @@ hoster|FileSharkPl.py|353c669|0.22
 hoster|FileStoreTo.py|6ec1406|0.16
 hoster|FileboomMe.py|13919ba|0.12
 hoster|FilecloudIo.py|2f94275|0.17
-hoster|FiledropperCom.py|353c669|0.06
 hoster|FilefactoryCom.py|353c669|0.64
 hoster|FilefoxCc.py|2f94275|0.02
 hoster|FilejokerNet.py|119ccda|0.15
@@ -340,7 +338,6 @@ hoster|NovafileCom.py|b217c46|0.13
 hoster|NowVideoSx.py|353c669|0.17
 hoster|OneFichierCom.py|13919ba|1.19
 hoster|OnlineTvRecorder.py|004c286|0.05
-hoster|OpenloadIo.py|13919ba|0.21
 hoster|OverLoadMe.py|353c669|0.20
 hoster|PixeldrainCom.py|13919ba|0.02
 hoster|PornhostCom.py|81352c5|0.27
@@ -477,6 +474,7 @@ accounts|MultiDebridCom.py
 accounts|NetloadIn.py
 accounts|NowVideoAt.py
 accounts|OboomCom.py
+accounts|OpenloadCo.py
 accounts|Premium4Me.py
 accounts|RapidshareCom.py
 accounts|ReloadCc.py
@@ -650,6 +648,7 @@ hoster|ExtabitCom.py
 hoster|File4safeCom.py
 hoster|FileApeCom.py
 hoster|FilebeerInfo.py
+hoster|FiledropperCom.py
 hoster|FilejungleCom.py
 hoster|FileParadoxIn.py
 hoster|FilepostCom.py
@@ -690,6 +689,7 @@ hoster|NowDownloadEu.py
 hoster|NowDownloadSx.py
 hoster|NowVideoAt.py
 hoster|OboomCom.py
+hoster|OpenloadIo.py
 hoster|OronCom.py
 hoster|PandaplaNet.py
 hoster|PandaPlaNet.py
