@@ -282,6 +282,7 @@ hoster|WuploadCom.py
 hoster|X7To.py
 hoster|XFileSharingPro.py
 hoster|ZahikiNet.py
+hoster|ZippyshareCom.py
 hoster|ZShareNet.py
 internal|AbstractExtractor.py
 internal|AdsCaptcha.py
