@@ -35,6 +35,7 @@ accounts|StahnuTo.py
 accounts|UnrestrictLi.py
 accounts|UploadableCh.py
 accounts|UploadedTo.py
+accounts|UploadheroCom.py
 accounts|UploadingCom.py
 accounts|Vipleech4uCom.py
 accounts|WarserverCz.py
@@ -275,6 +276,7 @@ hoster|UploadableCh.py
 hoster|UploadboxCom.py
 hoster|UploadedTo.py
 hoster|UploadhereCom.py
+hoster|UploadheroCom.py
 hoster|UploadingCom.py
 hoster|UploadkingCom.py
 hoster|UploadStationCom.py
