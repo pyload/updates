@@ -146,7 +146,7 @@ crypter|FreetexthostCom.py|353c669|0.06
 crypter|FshareVnFolder.py|6ee8c37|0.11
 crypter|FurLy.py|353c669|0.06
 crypter|Go4UpCom.py|353c669|0.19
-crypter|GofileIoFolder.py|2a5d4a5|0.01
+crypter|GofileIoFolder.py|51e2ff9|0.02
 crypter|GooGl.py|92d50f6|0.09
 crypter|GoogledriveComDereferer.py|353c669|0.01
 crypter|GoogledriveComFolder.py|daef518|0.13
