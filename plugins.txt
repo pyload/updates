@@ -279,7 +279,7 @@ hoster|FiregetCom.py|bb7002f|0.05
 hoster|FistfastNet.py|353c669|0.01
 hoster|FlyFilesNet.py|353c669|0.15
 hoster|FourSharedCom.py|353c669|0.37
-hoster|FshareVn.py|3a071bc|0.37
+hoster|FshareVn.py|59d4932|0.38
 hoster|Ftp.py|353c669|0.61
 hoster|GamefrontCom.py|353c669|0.13
 hoster|GetTwentyFourOrg.py|edfd623|0.04
