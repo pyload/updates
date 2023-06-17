@@ -323,6 +323,7 @@ hoster|MegacrypterCom.py|353c669|0.28
 hoster|MegadyskPl.py|13919ba|0.05
 hoster|MegasharesCom.py|353c669|0.37
 hoster|MegaupNet.py|edda3c9|0.03
+hoster|MexaSh.py|3839123|0.01
 hoster|MovReelCom.py|353c669|1.31
 hoster|MultihostersCom.py|353c669|0.08
 hoster|MultishareCz.py|b80a0c7|0.49
