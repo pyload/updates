@@ -124,7 +124,6 @@ crypter|ChipDe.py|e44dc83|0.18
 crypter|CloudMailRuFolder.py|a126137|0.03
 crypter|CloudzillaToFolder.py|353c669|0.11
 crypter|CriptTo.py|13919ba|0.05
-crypter|CryptCat.py|353c669|0.04
 crypter|CzshareComFolder.py|353c669|0.27
 crypter|DailymotionComFolder.py|1f29cd1|0.09
 crypter|DataHuFolder.py|353c669|0.13
@@ -132,7 +131,6 @@ crypter|DebridlinkFrTorrent.py|f929ee9|0.04
 crypter|DepositfilesComFolder.py|353c669|0.07
 crypter|Dereferer.py|b0a1bdd|0.27
 crypter|DevhostStFolder.py|353c669|0.12
-crypter|DlProtectCom.py|195e725|0.13
 crypter|EasybytezComFolder.py|ade2ecc|0.19
 crypter|EmbeduploadCom.py|353c669|0.08
 crypter|FilecloudIoFolder.py|353c669|0.09
@@ -508,10 +506,12 @@ crypter|BitshareComFolder.py
 crypter|C1NeonCom.py
 crypter|C1neonCom.py
 crypter|CrockoComFolder.py
+crypter|CryptCat.py
 crypter|CryptItCom.py
 crypter|DailymotionBatch.py
 crypter|DatafileComFolder.py
 crypter|DdlstorageComFolder.py
+crypter|DlProtectCom.py
 crypter|DontKnowMe.py
 crypter|DownloadVimeoCom.py
 crypter|DuckCryptInfo.py

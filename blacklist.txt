@@ -57,10 +57,12 @@ crypter|BitshareComFolder.py
 crypter|C1NeonCom.py
 crypter|C1neonCom.py
 crypter|CrockoComFolder.py
+crypter|CryptCat.py
 crypter|CryptItCom.py
 crypter|DailymotionBatch.py
 crypter|DatafileComFolder.py
 crypter|DdlstorageComFolder.py
+crypter|DlProtectCom.py
 crypter|DontKnowMe.py
 crypter|DownloadVimeoCom.py
 crypter|DuckCryptInfo.py
