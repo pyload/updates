@@ -134,7 +134,7 @@ crypter|DevhostStFolder.py|353c669|0.12
 crypter|EasybytezComFolder.py|ade2ecc|0.19
 crypter|EmbeduploadCom.py|353c669|0.08
 crypter|FilecloudIoFolder.py|353c669|0.09
-crypter|FilecryptCc.py|0aed66f|0.48
+crypter|FilecryptCc.py|025df33|0.49
 crypter|FilefactoryComFolder.py|353c669|0.38
 crypter|FilerNetFolder.py|353c669|0.48
 crypter|FilestubeCom.py|353c669|0.11
@@ -156,7 +156,7 @@ crypter|ImgurCom.py|353c669|0.61
 crypter|JDlist.py|353c669|0.05
 crypter|LixIn.py|353c669|0.28
 crypter|MediafireComFolder.py|353c669|0.25
-crypter|MegaCoNzFolder.py|9644c00|0.25
+crypter|MegaCoNzFolder.py|025df33|0.26
 crypter|MegaRapidCzFolder.py|353c669|0.08
 crypter|MegadyskPlFolder.py|13919ba|0.04
 crypter|MirrorcreatorCom.py|353c669|0.03
@@ -279,7 +279,7 @@ hoster|FiregetCom.py|bb7002f|0.05
 hoster|FistfastNet.py|353c669|0.01
 hoster|FlyFilesNet.py|353c669|0.15
 hoster|FourSharedCom.py|353c669|0.37
-hoster|FshareVn.py|c53b972|0.39
+hoster|FshareVn.py|025df33|0.40
 hoster|Ftp.py|353c669|0.61
 hoster|GamefrontCom.py|353c669|0.13
 hoster|GetTwentyFourOrg.py|edfd623|0.04
@@ -372,7 +372,7 @@ hoster|SizedriveCom.py|353c669|0.07
 hoster|SmoozedCom.py|353c669|0.15
 hoster|SmuleCom.py|13919ba|0.05
 hoster|SolidfilesCom.py|f98b5be|0.09
-hoster|SoundcloudCom.py|ba24c7d|0.20
+hoster|SoundcloudCom.py|025df33|0.21
 hoster|SpeedyshareCom.py|353c669|0.11
 hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
@@ -393,7 +393,7 @@ hoster|UploadrocketNet.py|353c669|0.02
 hoster|UploadshipCom.py|c033f0e|0.02
 hoster|UpstoreNet.py|5350ea5|0.18
 hoster|UptoboxCom.py|379e9d5|0.39
-hoster|UserscloudCom.py|96f6fb7|0.10
+hoster|UserscloudCom.py|025df33|0.11
 hoster|UseruploadNet.py|c033f0e|0.02
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|4307a26|0.30
@@ -414,7 +414,7 @@ hoster|YesPornPleaseCom.py|353c669|0.02
 hoster|YibaishiwuCom.py|353c669|0.19
 hoster|YoupornCom.py|353c669|0.26
 hoster|YourfilesTo.py|353c669|0.28
-hoster|YoutubeCom.py|3e040c8|0.87
+hoster|YoutubeCom.py|025df33|0.88
 hoster|ZDF.py|13919ba|0.93
 hoster|ZbigzCom.py|6d0ccf6|0.04
 hoster|ZeveraCom.py|af37c78|0.39
@@ -445,7 +445,7 @@ internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|1dc46a7|0.64
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|5cd1a47|0.89
-internal|misc.py|2333d1c|0.67
+internal|misc.py|025df33|0.68
 BLACKLIST
 accounts|BayfilesCom.py
 accounts|BigfileTo.py
