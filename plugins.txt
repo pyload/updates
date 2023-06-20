@@ -100,7 +100,7 @@ accounts|UpleaCom.py|353c669|0.02
 accounts|UploadcCom.py|353c669|0.07
 accounts|UploadgigCom.py|2f94275|0.05
 accounts|UpstoreNet.py|f27b455|0.01
-accounts|UptoboxCom.py|3ff7095|0.27
+accounts|UptoboxCom.py|4c71897|0.28
 accounts|VidPlayNet.py|353c669|0.07
 accounts|WebshareCz.py|13919ba|0.18
 accounts|WorldbytezCom.py|353c669|0.06
