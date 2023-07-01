@@ -146,9 +146,9 @@ crypter|FshareVnFolder.py|6ee8c37|0.11
 crypter|FurLy.py|353c669|0.06
 crypter|Go4UpCom.py|353c669|0.19
 crypter|GofileIoFolder.py|51e2ff9|0.02
-crypter|GooGl.py|92d50f6|0.09
-crypter|GoogledriveComDereferer.py|353c669|0.01
-crypter|GoogledriveComFolder.py|daef518|0.13
+crypter|GooGl.py|d93a2a1|0.10
+crypter|GoogledriveComDereferer.py|d93a2a1|0.02
+crypter|GoogledriveComFolder.py|d93a2a1|0.14
 crypter|HearthisAtFolder.py|021228b|0.01
 crypter|HflixIn.py|353c669|0.12
 crypter|HoerbuchIn.py|d54e68a|0.68
@@ -181,7 +181,7 @@ crypter|UlozToFolder.py|353c669|0.27
 crypter|WetransferComDereferer.py|94cd64b|0.01
 crypter|XFileSharingFolder.py|b0a1bdd|0.26
 crypter|XupPl.py|353c669|0.16
-crypter|YoutubeComFolder.py|1f29cd1|1.11
+crypter|YoutubeComFolder.py|d93a2a1|1.12
 hooks|AntiCaptcha.py|2377914|0.02
 hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|1f29cd1|0.22
@@ -286,7 +286,7 @@ hoster|GetTwentyFourOrg.py|edfd623|0.04
 hoster|GigapetaCom.py|353c669|0.09
 hoster|GofileIo.py|2a5d4a5|0.01
 hoster|GooIm.py|353c669|0.09
-hoster|GoogledriveCom.py|0b98c25|0.34
+hoster|GoogledriveCom.py|d93a2a1|0.35
 hoster|HearthisAt.py|021228b|0.03
 hoster|HellshareCz.py|353c669|0.91
 hoster|HighWayMe.py|993468e|0.25
