@@ -402,6 +402,7 @@ hoster|VimeoCom.py|13919ba|0.14
 hoster|VkCom.py|353c669|0.06
 hoster|WebshareCz.py|13919ba|0.26
 hoster|WetransferCom.py|5bd80fc|0.01
+hoster|WorkuploadCom.py|71e861d|0.01
 hoster|WrzucTo.py|353c669|0.09
 hoster|WrzucajplikiPl.py|2333d1c|0.03
 hoster|XDCC.py|827157f|0.55
