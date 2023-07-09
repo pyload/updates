@@ -179,6 +179,7 @@ crypter|TurbobitNetFolder.py|353c669|0.11
 crypter|TusfilesNetFolder.py|353c669|0.17
 crypter|UlozToFolder.py|353c669|0.27
 crypter|WetransferComDereferer.py|94cd64b|0.01
+crypter|WorkuploadComFolder.py|dbe3dc0|0.01
 crypter|XFileSharingFolder.py|b0a1bdd|0.26
 crypter|XupPl.py|353c669|0.16
 crypter|YoutubeComFolder.py|d93a2a1|1.12
@@ -402,7 +403,7 @@ hoster|VimeoCom.py|13919ba|0.14
 hoster|VkCom.py|353c669|0.06
 hoster|WebshareCz.py|13919ba|0.26
 hoster|WetransferCom.py|5bd80fc|0.01
-hoster|WorkuploadCom.py|71e861d|0.01
+hoster|WorkuploadCom.py|dbe3dc0|0.02
 hoster|WrzucTo.py|353c669|0.09
 hoster|WrzucajplikiPl.py|2333d1c|0.03
 hoster|XDCC.py|827157f|0.55
