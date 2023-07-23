@@ -384,7 +384,7 @@ hoster|TurbobitNet.py|3812025|0.46
 hoster|TusfilesNet.py|b9cb437|0.20
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
-hoster|UlozTo.py|ead9526|1.51
+hoster|UlozTo.py|05f6a77|1.52
 hoster|UloziskoSk.py|353c669|0.31
 hoster|UnibytesCom.py|353c669|0.21
 hoster|UpfileVn.py|353c669|0.01
