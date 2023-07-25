@@ -160,7 +160,7 @@ crypter|MegaCoNzFolder.py|025df33|0.26
 crypter|MegaRapidCzFolder.py|353c669|0.08
 crypter|MegadyskPlFolder.py|13919ba|0.04
 crypter|MirrorcreatorCom.py|353c669|0.03
-crypter|MultiUpOrg.py|2968a56|0.17
+crypter|MultiUpOrg.py|bf7beb1|0.18
 crypter|MultiloadCz.py|353c669|0.46
 crypter|NitroflareComFolder.py|353c669|0.08
 crypter|NosvideoCom.py|353c669|0.08
