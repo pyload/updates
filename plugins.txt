@@ -291,7 +291,7 @@ hoster|GoogledriveCom.py|d93a2a1|0.35
 hoster|HearthisAt.py|021228b|0.03
 hoster|HellshareCz.py|353c669|0.91
 hoster|HighWayMe.py|993468e|0.25
-hoster|HitfileNet.py|2f94275|0.02
+hoster|HitfileNet.py|9e666af|0.03
 hoster|HostujeNet.py|353c669|0.06
 hoster|HotlinkCc.py|1d30831|0.01
 hoster|Http.py|ad313e8|0.14
