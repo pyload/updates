@@ -171,6 +171,7 @@ crypter|RealdebridComTorrent.py|ff43b56|0.14
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SexuriaCom.py|353c669|0.15
 crypter|ShSt.py|353c669|0.09
+crypter|SwisstransferComFolder.py|7e8712f|0.01
 crypter|TNTVillageScambioeticoOrg.py|353c669|0.07
 crypter|TenluaVnFolder.py|13919ba|0.03
 crypter|TinyurlCom.py|353c669|0.07
