@@ -268,7 +268,7 @@ hoster|FileboomMe.py|13919ba|0.12
 hoster|FilecloudIo.py|2f94275|0.17
 hoster|FilefactoryCom.py|353c669|0.64
 hoster|FilefoxCc.py|2f94275|0.02
-hoster|FilejokerNet.py|119ccda|0.15
+hoster|FilejokerNet.py|5cfb12d|0.16
 hoster|FileomCom.py|353c669|0.11
 hoster|FilepupNet.py|353c669|0.08
 hoster|FilerNet.py|2f94275|0.31
