@@ -134,7 +134,7 @@ crypter|DevhostStFolder.py|353c669|0.12
 crypter|EasybytezComFolder.py|ade2ecc|0.19
 crypter|EmbeduploadCom.py|353c669|0.08
 crypter|FilecloudIoFolder.py|353c669|0.09
-crypter|FilecryptCc.py|025df33|0.49
+crypter|FilecryptCc.py|095e2cb|0.50
 crypter|FilefactoryComFolder.py|353c669|0.38
 crypter|FilerNetFolder.py|353c669|0.48
 crypter|FilestubeCom.py|353c669|0.11
@@ -156,7 +156,7 @@ crypter|ImgurCom.py|353c669|0.61
 crypter|JDlist.py|353c669|0.05
 crypter|LixIn.py|353c669|0.28
 crypter|MediafireComFolder.py|353c669|0.25
-crypter|MegaCoNzFolder.py|45155cd|0.27
+crypter|MegaCoNzFolder.py|095e2cb|0.28
 crypter|MegaRapidCzFolder.py|353c669|0.08
 crypter|MegadyskPlFolder.py|13919ba|0.04
 crypter|MirrorcreatorCom.py|353c669|0.03
@@ -343,7 +343,7 @@ hoster|OnlineTvRecorder.py|004c286|0.05
 hoster|OverLoadMe.py|353c669|0.20
 hoster|PixeldrainCom.py|13919ba|0.02
 hoster|PornhostCom.py|81352c5|0.27
-hoster|PornhubCom.py|13919ba|0.61
+hoster|PornhubCom.py|095e2cb|0.62
 hoster|PornovkaCz.py|353c669|0.02
 hoster|PorntrexCom.py|271d709|0.01
 hoster|PremiumTo.py|578fb2e|0.36
@@ -374,7 +374,7 @@ hoster|SizedriveCom.py|353c669|0.07
 hoster|SmoozedCom.py|353c669|0.15
 hoster|SmuleCom.py|13919ba|0.05
 hoster|SolidfilesCom.py|f98b5be|0.09
-hoster|SoundcloudCom.py|025df33|0.21
+hoster|SoundcloudCom.py|095e2cb|0.22
 hoster|SpeedyshareCom.py|353c669|0.11
 hoster|StreamCz.py|353c669|0.41
 hoster|StreamcloudEu.py|353c669|0.16
@@ -395,7 +395,7 @@ hoster|UploadrocketNet.py|353c669|0.02
 hoster|UploadshipCom.py|c033f0e|0.02
 hoster|UpstoreNet.py|5350ea5|0.18
 hoster|UptoboxCom.py|60a5720|0.41
-hoster|UserscloudCom.py|025df33|0.11
+hoster|UserscloudCom.py|095e2cb|0.12
 hoster|UseruploadNet.py|c033f0e|0.02
 hoster|VeehdCom.py|353c669|0.29
 hoster|VeohCom.py|4307a26|0.30
@@ -417,7 +417,7 @@ hoster|YesPornPleaseCom.py|353c669|0.02
 hoster|YibaishiwuCom.py|353c669|0.19
 hoster|YoupornCom.py|353c669|0.26
 hoster|YourfilesTo.py|353c669|0.28
-hoster|YoutubeCom.py|025df33|0.88
+hoster|YoutubeCom.py|095e2cb|0.89
 hoster|ZDF.py|13919ba|0.93
 hoster|ZbigzCom.py|6d0ccf6|0.04
 hoster|ZeveraCom.py|af37c78|0.39
