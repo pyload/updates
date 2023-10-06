@@ -31,7 +31,7 @@ accounts|FilecloudIo.py|353c669|0.13
 accounts|FilefactoryCom.py|353c669|0.23
 accounts|FilejokerNet.py|1f29cd1|0.04
 accounts|FileomCom.py|353c669|0.07
-accounts|FilerNet.py|eed12c5|0.14
+accounts|FilerNet.py|1a340fb|0.15
 accounts|FilerioCom.py|353c669|0.08
 accounts|FilesMailRu.py|353c669|0.18
 accounts|FiregetCom.py|89d3b66|0.01
