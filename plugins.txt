@@ -24,6 +24,7 @@ accounts|ExashareCom.py|353c669|0.06
 accounts|ExtmatrixCom.py|542f5ce|0.01
 accounts|FastixRu.py|1f29cd1|0.13
 accounts|FastshareCz.py|2c3151c|0.18
+accounts|FikperCom.py|4796d32|0.01
 accounts|File4SafeCom.py|353c669|0.11
 accounts|FileStoreTo.py|d99fb60|0.01
 accounts|FileboomMe.py|13919ba|0.04
