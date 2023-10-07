@@ -2,7 +2,7 @@
 https://raw.githubusercontent.com/pyload/pyload/%(changeset)s/module/plugins/%(type)s/%(name)s
 type|name|changeset|version
 accounts|AccioDebridCom.py|362448f|0.02
-accounts|AlldebridCom.py|b9ab0cd|0.45
+accounts|AlldebridCom.py|d5430a9|0.46
 accounts|AniStreamCom.py|353c669|0.05
 accounts|ArchiveOrg.py|145f8c1|0.01
 accounts|BackinNet.py|353c669|0.06
