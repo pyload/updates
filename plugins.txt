@@ -333,7 +333,7 @@ hoster|MystoreTo.py|353c669|0.08
 hoster|NarodRu.py|353c669|0.17
 hoster|NippyshareCom.py|4309267|0.01
 hoster|NitrobitNet.py|353c669|0.02
-hoster|NitroflareCom.py|35fb7d8|0.41
+hoster|NitroflareCom.py|1f2a162|0.42
 hoster|NoPremiumPl.py|353c669|0.13
 hoster|NofileIo.py|353c669|0.01
 hoster|NosuploadCom.py|353c669|0.38
@@ -442,7 +442,7 @@ internal|OCR.py|b0a1bdd|0.28
 internal|Plugin.py|9c0ce8b|0.79
 internal|SevenZip.py|dbf1273|0.39
 internal|SimpleCrypter.py|1dc46a7|0.98
-internal|SimpleHoster.py|c6d05ae|2.41
+internal|SimpleHoster.py|1f2a162|2.42
 internal|UnRar.py|8db8b55|1.46
 internal|UnTar.py|a2011d4|0.06
 internal|UnZip.py|1f29cd1|1.27
