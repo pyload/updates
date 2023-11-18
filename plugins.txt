@@ -443,7 +443,7 @@ internal|Plugin.py|9c0ce8b|0.79
 internal|SevenZip.py|dbf1273|0.39
 internal|SimpleCrypter.py|1dc46a7|0.98
 internal|SimpleHoster.py|1f2a162|2.42
-internal|UnRar.py|8db8b55|1.46
+internal|UnRar.py|0ac5cb5|1.48
 internal|UnTar.py|a2011d4|0.06
 internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|1dc46a7|0.64
