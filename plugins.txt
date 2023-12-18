@@ -213,7 +213,7 @@ hooks|MultiHome.py|353c669|0.21
 hooks|PushBullet.py|6bb2586|0.06
 hooks|PushOver.py|6bb2586|0.08
 hooks|RestartFailed.py|353c669|1.65
-hooks|SkipRev.py|353c669|0.38
+hooks|SkipRev.py|67290a6|0.39
 hooks|TORRENT.py|6fe564c|0.07
 hooks|TransmissionRPC.py|353c669|0.19
 hooks|UnSkipOnFail.py|353c669|0.14
