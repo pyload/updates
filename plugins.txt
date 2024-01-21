@@ -434,7 +434,7 @@ internal|DeadCrypter.py|13919ba|0.15
 internal|DeadHoster.py|13919ba|0.25
 internal|Extractor.py|f3b1ae1|0.50
 internal|HjSplit.py|1f29cd1|0.02
-internal|Hoster.py|5770364|0.82
+internal|Hoster.py|9ebe5af|0.83
 internal|MultiAccount.py|6dd7ade|0.24
 internal|MultiCrypter.py|b0a1bdd|0.11
 internal|MultiHoster.py|12464a9|0.72
