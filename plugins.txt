@@ -296,7 +296,7 @@ hoster|HighWayMe.py|993468e|0.25
 hoster|HitfileNet.py|9e666af|0.03
 hoster|HostujeNet.py|353c669|0.06
 hoster|HotlinkCc.py|1d30831|0.01
-hoster|Http.py|ad313e8|0.14
+hoster|Http.py|45bc585|0.15
 hoster|HugefilesNet.py|353c669|0.12
 hoster|HundredEightyUploadCom.py|353c669|0.11
 hoster|IfolderRu.py|353c669|0.44
@@ -434,7 +434,7 @@ internal|DeadCrypter.py|13919ba|0.15
 internal|DeadHoster.py|13919ba|0.25
 internal|Extractor.py|f3b1ae1|0.50
 internal|HjSplit.py|1f29cd1|0.02
-internal|Hoster.py|9ebe5af|0.83
+internal|Hoster.py|45bc585|0.84
 internal|MultiAccount.py|6dd7ade|0.24
 internal|MultiCrypter.py|b0a1bdd|0.11
 internal|MultiHoster.py|12464a9|0.72
