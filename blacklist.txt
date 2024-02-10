@@ -39,6 +39,7 @@ accounts|UploadheroCom.py
 accounts|UploadingCom.py
 accounts|Vipleech4uCom.py
 accounts|WarserverCz.py
+accounts|WrzucajplikiPl.py
 accounts|XFileSharingPro.py
 captcha|AdsCaptcha.py
 captcha|AdYouLike.py
@@ -285,6 +286,7 @@ hoster|UploadStationCom.py
 hoster|Vipleech4UCom.py
 hoster|Vipleech4uCom.py
 hoster|WarserverCz.py
+hoster|WrzucajplikiPl.py
 hoster|WuploadCom.py
 hoster|X7To.py
 hoster|XFileSharingPro.py
