@@ -68,6 +68,7 @@ accounts|NoPremiumPl.py|1f29cd1|0.12
 accounts|NosuploadCom.py|353c669|0.07
 accounts|NovafileCom.py|353c669|0.07
 accounts|NowVideoSx.py|353c669|0.11
+accounts|OboomIo.py|e833350|0.01
 accounts|OneFichierCom.py|d4c5262|0.25
 accounts|OverLoadMe.py|353c669|0.13
 accounts|PorntrexCom.py|271d709|0.01
@@ -338,6 +339,7 @@ hoster|NofileIo.py|353c669|0.01
 hoster|NosuploadCom.py|353c669|0.38
 hoster|NovafileCom.py|b217c46|0.13
 hoster|NowVideoSx.py|353c669|0.17
+hoster|OboomIo.py|e833350|0.01
 hoster|OneFichierCom.py|13919ba|1.19
 hoster|OnlineTvRecorder.py|004c286|0.05
 hoster|OverLoadMe.py|353c669|0.20
