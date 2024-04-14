@@ -450,7 +450,7 @@ internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|1dc46a7|0.64
 internal|XFSCrypter.py|353c669|0.26
 internal|XFSHoster.py|9e34133|0.90
-internal|misc.py|025df33|0.68
+internal|misc.py|9f99b8b|0.69
 BLACKLIST
 accounts|BayfilesCom.py
 accounts|BigfileTo.py
