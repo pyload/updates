@@ -426,7 +426,7 @@ hoster|ZeveraCom.py|af37c78|0.39
 internal|Account.py|9c0ce8b|0.90
 internal|Addon.py|b0a1bdd|0.56
 internal|Base.py|9c0ce8b|0.41
-internal|Captcha.py|c1a8ab1|0.60
+internal|Captcha.py|44d2cfb|0.61
 internal|CaptchaService.py|353c669|0.36
 internal|Container.py|1f29cd1|0.15
 internal|Crypter.py|1f29cd1|0.21
