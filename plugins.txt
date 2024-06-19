@@ -259,7 +259,7 @@ hoster|EasyuploadIo.py|05177cb|0.02
 hoster|EdiskCz.py|353c669|0.28
 hoster|EuroshareEu.py|353c669|0.41
 hoster|ExashareCom.py|353c669|0.08
-hoster|ExtmatrixCom.py|2a37603|0.02
+hoster|ExtmatrixCom.py|81795a9|0.03
 hoster|FastixRu.py|353c669|0.22
 hoster|FastshareCz.py|492307b|0.45
 hoster|FikperCom.py|eb8a921|0.03
