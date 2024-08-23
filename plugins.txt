@@ -105,7 +105,7 @@ accounts|UploadgigCom.py|2f94275|0.05
 accounts|UpstoreNet.py|f27b455|0.01
 accounts|UptoboxCom.py|587c6aa|0.29
 accounts|VidPlayNet.py|353c669|0.07
-accounts|WebshareCz.py|13919ba|0.18
+accounts|WebshareCz.py|9925fe5|0.19
 accounts|WorldbytezCom.py|b6a0cee|0.08
 accounts|YibaishiwuCom.py|353c669|0.09
 accounts|ZeveraCom.py|9ea3c80|0.38
