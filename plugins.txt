@@ -198,7 +198,7 @@ hooks|CloudFlareDdos.py|2f94275|0.17
 hooks|DeathByCaptcha.py|1f29cd1|0.17
 hooks|DeleteFinished.py|353c669|1.19
 hooks|DiscordNotifier.py|6bb2586|0.11
-hooks|DownloadScheduler.py|353c669|0.30
+hooks|DownloadScheduler.py|187c5c3|0.31
 hooks|EventMapper.py|353c669|0.02
 hooks|ExpertDecoders.py|1f29cd1|0.14
 hooks|ExternalScripts.py|583429e|0.76
