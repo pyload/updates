@@ -367,7 +367,7 @@ hoster|RemixshareCom.py|353c669|0.11
 hoster|RgHostNet.py|353c669|0.09
 hoster|SafesharingEu.py|353c669|0.11
 hoster|SecureUploadEu.py|353c669|0.11
-hoster|SendCm.py|ce32018|0.01
+hoster|SendCm.py|50d0ce4|0.02
 hoster|SenditCloud.py|353c669|0.01
 hoster|SendspaceCom.py|353c669|0.23
 hoster|Share4WebCom.py|353c669|0.17
