@@ -423,7 +423,7 @@ hoster|YoupornCom.py|353c669|0.26
 hoster|YourfilesTo.py|353c669|0.28
 hoster|YoutubeCom.py|095e2cb|0.89
 hoster|ZDF.py|13919ba|0.93
-hoster|ZbigzCom.py|6d0ccf6|0.04
+hoster|ZbigzCom.py|f4a33ff|0.05
 hoster|ZeveraCom.py|af37c78|0.39
 internal|Account.py|9c0ce8b|0.90
 internal|Addon.py|b0a1bdd|0.56
