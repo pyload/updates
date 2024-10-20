@@ -186,7 +186,7 @@ crypter|WorkuploadComFolder.py|dbe3dc0|0.01
 crypter|XFileSharingFolder.py|b0a1bdd|0.26
 crypter|XupPl.py|353c669|0.16
 crypter|YoutubeComFolder.py|d93a2a1|1.12
-hooks|AntiCaptcha.py|2377914|0.02
+hooks|AntiCaptcha.py|0c45491|0.03
 hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|1f29cd1|0.22
 hooks|AppriseNotify.py|6bb2586|0.02
