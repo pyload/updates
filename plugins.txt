@@ -4,7 +4,7 @@ type|name|changeset|version
 accounts|AccioDebridCom.py|362448f|0.02
 accounts|AlldebridCom.py|d5430a9|0.46
 accounts|AniStreamCom.py|353c669|0.05
-accounts|ArchiveOrg.py|145f8c1|0.01
+accounts|ArchiveOrg.py|bea21d4|0.02
 accounts|BackinNet.py|353c669|0.06
 accounts|CloudsharesNet.py|353c669|0.03
 accounts|CloudsixMe.py|353c669|0.05
