@@ -388,7 +388,7 @@ hoster|StreamcloudEu.py|353c669|0.16
 hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TbSevenPl.py|684e1ea|0.02
 hoster|TenluaVn.py|13919ba|0.04
-hoster|TurbobitNet.py|96d7af9|0.54
+hoster|TurbobitNet.py|1fb4ae5|0.55
 hoster|TusfilesNet.py|b9cb437|0.20
 hoster|TwoSharedCom.py|353c669|0.19
 hoster|TwojlimitPl.py|7ef5c84|0.02
