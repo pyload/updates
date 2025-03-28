@@ -64,7 +64,7 @@ accounts|MultihostersCom.py|353c669|0.08
 accounts|MultishareCz.py|b80a0c7|0.15
 accounts|MyfastfileCom.py|353c669|0.12
 accounts|NitrobitNet.py|353c669|0.01
-accounts|NitroflareCom.py|239cce9|0.21
+accounts|NitroflareCom.py|a3b21d6|0.22
 accounts|NoPremiumPl.py|1f29cd1|0.12
 accounts|NosuploadCom.py|353c669|0.07
 accounts|NovafileCom.py|bf7744a|0.08
