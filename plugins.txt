@@ -170,6 +170,7 @@ crypter|NosvideoCom.py|353c669|0.08
 crypter|PastebinCom.py|353c669|0.09
 crypter|PastedCo.py|353c669|0.06
 crypter|QuickshareCzFolder.py|353c669|0.17
+crypter|RapidgatorNetFolder.py|afbd0ad|0.01
 crypter|RealdebridComTorrent.py|ff43b56|0.14
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SexuriaCom.py|353c669|0.15
@@ -434,7 +435,7 @@ internal|Base.py|9c0ce8b|0.41
 internal|Captcha.py|a8700e0|0.62
 internal|CaptchaService.py|353c669|0.36
 internal|Container.py|1f29cd1|0.15
-internal|Crypter.py|1f29cd1|0.21
+internal|Crypter.py|afbd0ad|0.22
 internal|DeadCrypter.py|13919ba|0.15
 internal|DeadHoster.py|13919ba|0.25
 internal|Extractor.py|f3b1ae1|0.50
