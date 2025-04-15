@@ -170,7 +170,7 @@ crypter|NosvideoCom.py|353c669|0.08
 crypter|PastebinCom.py|353c669|0.09
 crypter|PastedCo.py|353c669|0.06
 crypter|QuickshareCzFolder.py|353c669|0.17
-crypter|RapidgatorNetFolder.py|afbd0ad|0.01
+crypter|RapidgatorNetFolder.py|6cf5126|0.02
 crypter|RealdebridComTorrent.py|ff43b56|0.14
 crypter|SafelinkingNet.py|353c669|0.22
 crypter|SexuriaCom.py|353c669|0.15
