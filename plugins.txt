@@ -376,6 +376,7 @@ hoster|SenditCloud.py|353c669|0.01
 hoster|SendspaceCom.py|353c669|0.23
 hoster|Share4WebCom.py|353c669|0.17
 hoster|ShareplaceCom.py|d6a3c6f|0.19
+hoster|ShareplaceOrg.py|b921d48|0.01
 hoster|SimplyPremiumCom.py|353c669|0.17
 hoster|SimplydebridCom.py|353c669|0.27
 hoster|SizedriveCom.py|353c669|0.07
