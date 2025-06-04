@@ -181,6 +181,7 @@ crypter|TNTVillageScambioeticoOrg.py|353c669|0.07
 crypter|TenluaVnFolder.py|13919ba|0.03
 crypter|TinyurlCom.py|353c669|0.07
 crypter|TnyCz.py|353c669|0.09
+crypter|TorboxAppTorrent.py|3f41deb|0.01
 crypter|TurbobitNetFolder.py|353c669|0.11
 crypter|TusfilesNetFolder.py|353c669|0.17
 crypter|UlozToFolder.py|353c669|0.27
@@ -391,7 +392,7 @@ hoster|StreamcloudEu.py|353c669|0.16
 hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TbSevenPl.py|684e1ea|0.02
 hoster|TenluaVn.py|13919ba|0.04
-hoster|TorboxApp.py|dc645b3|0.01
+hoster|TorboxApp.py|3f41deb|0.02
 hoster|TurbobitNet.py|f7eac03|0.56
 hoster|TusfilesNet.py|b9cb437|0.20
 hoster|TwoSharedCom.py|353c669|0.19
