@@ -120,7 +120,7 @@ captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
 container|DLC.py|7b045a4|0.34
 container|RSDF.py|1f29cd1|0.38
-container|TORRENT.py|6fe564c|0.05
+container|TORRENT.py|1a8a92a|0.06
 container|TXT.py|1f29cd1|0.22
 crypter|AlldebridComTorrent.py|6d0ccf6|0.02
 crypter|ArchiveOrgFolder.py|145f8c1|0.01
