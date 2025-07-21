@@ -290,6 +290,7 @@ hoster|FlyFilesNet.py|353c669|0.15
 hoster|FourSharedCom.py|353c669|0.37
 hoster|FshareVn.py|8ad1285|0.41
 hoster|Ftp.py|353c669|0.61
+hoster|FuckingfastCo.py|b3b168b|0.01
 hoster|GamefrontCom.py|353c669|0.13
 hoster|GetTwentyFourOrg.py|edfd623|0.04
 hoster|GigapetaCom.py|353c669|0.09
