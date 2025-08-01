@@ -159,7 +159,7 @@ crypter|HoerbuchIn.py|d54e68a|0.68
 crypter|ImgurCom.py|353c669|0.61
 crypter|JDlist.py|353c669|0.05
 crypter|LixIn.py|353c669|0.28
-crypter|MediafireComFolder.py|353c669|0.25
+crypter|MediafireComFolder.py|afc3c89|0.26
 crypter|MegaCoNzFolder.py|095e2cb|0.28
 crypter|MegaRapidCzFolder.py|353c669|0.08
 crypter|MegadyskPlFolder.py|13919ba|0.04
@@ -322,7 +322,7 @@ hoster|LinkifierCom.py|f469421|0.04
 hoster|LinksnappyCom.py|ff1f0af|0.20
 hoster|LinksnappyComTorrent.py|9740840|0.01
 hoster|LoadTo.py|353c669|0.29
-hoster|MediafireCom.py|e9a6925|1.00
+hoster|MediafireCom.py|afc3c89|1.01
 hoster|MegaCoNz.py|30d0a73|0.58
 hoster|MegaDebridEu.py|1f29cd1|0.60
 hoster|MegaRapidCz.py|353c669|0.64
