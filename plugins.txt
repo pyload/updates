@@ -116,6 +116,7 @@ captcha|CoinHive.py|13defae|0.01
 captcha|HCaptcha.py|9f3e5bd|0.04
 captcha|ReCaptcha.py|ed0e9af|0.51
 captcha|SolveMedia.py|353c669|0.22
+captcha|Turnstile.py|b1b5423|0.01
 captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
 container|DLC.py|7b045a4|0.34
@@ -460,7 +461,7 @@ internal|UnTar.py|b5d1073|0.07
 internal|UnZip.py|1f29cd1|1.27
 internal|XFSAccount.py|2baa984|0.66
 internal|XFSCrypter.py|353c669|0.26
-internal|XFSHoster.py|9e34133|0.90
+internal|XFSHoster.py|b1b5423|0.91
 internal|misc.py|9f99b8b|0.69
 BLACKLIST
 accounts|BayfilesCom.py
