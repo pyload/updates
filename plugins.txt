@@ -192,7 +192,7 @@ crypter|WorkuploadComFolder.py|dbe3dc0|0.01
 crypter|XFileSharingFolder.py|b0a1bdd|0.26
 crypter|XupPl.py|353c669|0.16
 crypter|YoutubeComFolder.py|d93a2a1|1.12
-hooks|AntiCaptcha.py|0c45491|0.03
+hooks|AntiCaptcha.py|789e3b2|0.04
 hooks|AntiStandby.py|353c669|0.18
 hooks|AntiVirus.py|1f29cd1|0.22
 hooks|AppriseNotify.py|6bb2586|0.02
@@ -349,7 +349,7 @@ hoster|NosuploadCom.py|353c669|0.38
 hoster|NovafileCom.py|bf7744a|0.14
 hoster|NowVideoSx.py|353c669|0.17
 hoster|OboomIo.py|e833350|0.01
-hoster|OneFichierCom.py|13919ba|1.19
+hoster|OneFichierCom.py|789e3b2|1.20
 hoster|OnlineTvRecorder.py|004c286|0.05
 hoster|OverLoadMe.py|353c669|0.20
 hoster|PixeldrainCom.py|e0d276f|0.03
