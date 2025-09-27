@@ -394,7 +394,7 @@ hoster|StreamcloudEu.py|353c669|0.16
 hoster|SuprafilesMe.py|39882a2|0.01
 hoster|TbSevenPl.py|684e1ea|0.02
 hoster|TenluaVn.py|13919ba|0.04
-hoster|TorboxApp.py|3f41deb|0.02
+hoster|TorboxApp.py|d358cab|0.01
 hoster|TurbobitNet.py|f7eac03|0.56
 hoster|TusfilesNet.py|b9cb437|0.20
 hoster|TwoSharedCom.py|353c669|0.19
