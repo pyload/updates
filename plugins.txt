@@ -48,7 +48,7 @@ accounts|HundredEightyUploadCom.py|353c669|0.08
 accounts|IronfilesNet.py|353c669|0.01
 accounts|JunkyvideoCom.py|353c669|0.06
 accounts|JunocloudMe.py|353c669|0.07
-accounts|KatfileCom.py|71a6a04|0.01
+accounts|KatfileCom.py|d82f8b3|0.02
 accounts|Keep2ShareCc.py|4bb5578|0.21
 accounts|LeechThreeHundreedSixtyCom.py|1f29cd1|0.02
 accounts|LinkifierCom.py|b5c92b4|0.03
@@ -116,7 +116,7 @@ captcha|CoinHive.py|13defae|0.01
 captcha|HCaptcha.py|9f3e5bd|0.04
 captcha|ReCaptcha.py|ed0e9af|0.51
 captcha|SolveMedia.py|353c669|0.22
-captcha|Turnstile.py|b1b5423|0.01
+captcha|Turnstile.py|d82f8b3|0.02
 captcha|UlozTo.py|e21a338|0.05
 container|CCF.py|1f29cd1|0.30
 container|DLC.py|7b045a4|0.34
@@ -311,7 +311,7 @@ hoster|IfolderRu.py|353c669|0.44
 hoster|IronfilesNet.py|f2e728e|0.02
 hoster|JumbofilesCom.py|353c669|0.08
 hoster|JunocloudMe.py|353c669|0.11
-hoster|KatfileCom.py|40db2d1|0.05
+hoster|KatfileCom.py|d82f8b3|0.06
 hoster|Keep2ShareCc.py|a015aae|0.48
 hoster|KingfilesNet.py|353c669|0.13
 hoster|KrakenfilesCom.py|99b13a8|0.03
