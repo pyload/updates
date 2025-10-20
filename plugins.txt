@@ -12,7 +12,7 @@ accounts|CloudzillaTo.py|353c669|0.09
 accounts|CramitIn.py|353c669|0.08
 accounts|CzshareCom.py|353c669|0.28
 accounts|DatoidCz.py|353c669|0.39
-accounts|DdownloadCom.py|b5ef7cf|0.08
+accounts|DdownloadCom.py|1a36ba7|0.09
 accounts|DebridItaliaCom.py|353c669|0.22
 accounts|DebridlinkFr.py|417b6b6|0.06
 accounts|DebridplanetCom.py|665a809|0.01
