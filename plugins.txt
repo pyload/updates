@@ -250,7 +250,7 @@ hoster|DailyuploadsNet.py|353c669|0.01
 hoster|DataHu.py|353c669|0.08
 hoster|DataportCz.py|353c669|0.47
 hoster|DatoidCz.py|353c669|0.02
-hoster|DdownloadCom.py|a8f2644|0.11
+hoster|DdownloadCom.py|066ce34|0.12
 hoster|DebridItaliaCom.py|48b0504|0.26
 hoster|DebridlinkFr.py|78971db|0.07
 hoster|DebridplanetCom.py|665a809|0.01
