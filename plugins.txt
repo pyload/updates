@@ -141,7 +141,7 @@ crypter|EmbeduploadCom.py|353c669|0.08
 crypter|FilecloudIoFolder.py|353c669|0.09
 crypter|FilecryptCc.py|095e2cb|0.50
 crypter|FilefactoryComFolder.py|353c669|0.38
-crypter|FilerNetFolder.py|353c669|0.48
+crypter|FilerNetFolder.py|a3c6285|0.49
 crypter|FilestubeCom.py|353c669|0.11
 crypter|FiletramCom.py|353c669|0.08
 crypter|FourChanOrg.py|353c669|0.38
