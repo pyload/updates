@@ -2,7 +2,7 @@
 https://raw.githubusercontent.com/pyload/pyload/%(changeset)s/module/plugins/%(type)s/%(name)s
 type|name|changeset|version
 accounts|AccioDebridCom.py|362448f|0.02
-accounts|AlldebridCom.py|d5430a9|0.46
+accounts|AlldebridCom.py|52517a0|0.47
 accounts|AniStreamCom.py|353c669|0.05
 accounts|ArchiveOrg.py|bea21d4|0.02
 accounts|BackinNet.py|353c669|0.06
@@ -123,7 +123,7 @@ container|DLC.py|7b045a4|0.34
 container|RSDF.py|1f29cd1|0.38
 container|TORRENT.py|1a8a92a|0.06
 container|TXT.py|1f29cd1|0.22
-crypter|AlldebridComTorrent.py|6d0ccf6|0.02
+crypter|AlldebridComTorrent.py|52517a0|0.03
 crypter|ArchiveOrgFolder.py|145f8c1|0.01
 crypter|ChipDe.py|e44dc83|0.18
 crypter|CloudMailRuFolder.py|a126137|0.03
@@ -231,7 +231,7 @@ hooks|XFileSharing.py|353c669|0.56
 hooks|XMPP.py|417e60c|0.22
 hoster|AccioDebridCom.py|362448f|0.02
 hoster|AlfafileNet.py|d5123f7|0.07
-hoster|AlldebridCom.py|f7b4f88|0.66
+hoster|AlldebridCom.py|52517a0|0.67
 hoster|AndroidfilehostCom.py|05a5d37|0.07
 hoster|AnonfilesCom.py|a062d3b|0.02
 hoster|ArchiveOrg.py|2e8baa0|0.02
