@@ -199,7 +199,7 @@ hooks|AppriseNotify.py|6bb2586|0.02
 hooks|BypassCaptcha.py|5e73885|0.14
 hooks|Captcha9Kw.py|c159314|0.46
 hooks|Checksum.py|843ca9d|0.36
-hooks|ClickNLoad.py|353c669|0.61
+hooks|ClickNLoad.py|e06741e|0.63
 hooks|CloudFlareDdos.py|2f94275|0.17
 hooks|DeathByCaptcha.py|1f29cd1|0.17
 hooks|DeleteFinished.py|353c669|1.19
